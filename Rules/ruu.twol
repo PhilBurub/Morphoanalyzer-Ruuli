@@ -1,0 +1,56 @@
+Alphabet
+  b d j g p t c k v z f s l m n w y ŋ i u e o a ny
+  %>:0
+  l:r
+  %{n%}:0 %{n%}:n
+  %{ii%}:0 %{ii%}:i
+;
+
+Sets
+Letter = b d j g p t c k v z f s l m n w y ŋ i u e o a ny;
+Consonant = b d j g p t c k v z f s l m n w y ŋ ny;
+Vowel = i u e o a;
+Glide = w y;
+Nasal = m n ny ŋ;
+Obstruent = b d j g p t c k v z f s;
+
+Rules
+"5th class iy- prefixation"
+%{iy%}:iy => _ %>:0 Vowel;
+"5th class i- prefixation"
+%{iy%}:i => _ %>:0 Consonant;
+"5th class i- prefixation with glide formation"
+%{iy%}:y => _ %>:0 [e|o|a];
+"Glide formation u&o"
+[u:w|o:w] <=> _ %>:0 [i|e|o|a];
+"Glide formation i"
+i:y <=> _ %>:0 [e|o|a];
+"Nasal assimilation n"
+[n:m|%{n%}:m] <=> _ %>:0 [p|b|w];
+"Liquid fortition"
+[l:d|w:p] <=> Nasal %>:0 _;
+"Vowel elision"
+a:Cx <=> _ %>:0 Cy [[Letter-[Nasal | i | y]] | Nasal [Letter-Obstruent]];
+        where Cx in (o e)
+              Cy in (o e)
+        matched;
+"Vowel drop"
+a:0 <=> _ %>:0 Cx (%>:0) Nasal Obstruent;
+        _ %>:0 Cx (%>:0) [i|y];
+        where Cx in (o e a);
+"No double n"
+[n:0|%{n%}:0] <=> _ %>:0 n;
+"o- and -e base demonstratives before consonants"
+[%{o%}:o|%{e%}:e] <=> _ %>:0 Consonant;
+"o- and e- base demonstratives before vowels"
+[%{o%}:y|%{e%}:y] <=> _ %>:0 Vowel;
+"Terminal -a and -i before consonants"
+[%{a%}:a|%{i%}:i] <=> _ %>:0 Consonant;
+"Terminal -a before vowels"
+[%{a%}:0|%{i%}:0] <=> _ %>:0 Vowel;
+"wa- base before vowels"
+%{wa%}:w <=> _ %>:0 Vowel;
+"wa- base before consonants 1"
+%{wa%}:wa => _ %>:0 Consonant;
+"wa- base before consonants 2"
+%{wa%}:a => _ %>:0 Consonant;

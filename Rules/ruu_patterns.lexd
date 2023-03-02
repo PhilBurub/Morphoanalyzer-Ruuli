@@ -1,0 +1,373 @@
+PATTERNS
+# Verbs
+# Indicative
+## NPFV
+Nar? Neg[1]? Subj TenseAspect[-fut]? Obj? [<v>:] VerbRoot[1syl]
+Nar? Neg[1]? Subj TenseAspect[-fut]? Obj? [<v>:] VerbRoot[i] Extensions[|[ind,i]]? Mood[ind] # All tenses besides nfut
+Neg[1]? Subj TenseAspect[-fut]? Obj? [<v>:] VerbRoot[e] Extensions[|[ind,e]]? Mood[ind] # All tenses besides nfut
+### NFUT
+Subj TenseAspect[fut] Obj? [<v>:] VerbRoot[i] Extensions[|[ind,i]]? Mood[ind] # Affirmation of nfut
+Neg[1] Subj TenseAspect[fut] Obj? [<v>:] VerbRoot[i] Extensions[i]? Mood[subj] # Negation of nfut besides reciprocal forms
+Subj TenseAspect[fut] Obj? [<v>:] VerbRoot[e] Extensions[|[ind,e]]? Mood[ind] # Affirmation of nfut
+Neg[1] Subj TenseAspect[fut] Obj? [<v>:] VerbRoot[e] Extensions[e]? Mood[subj] # Negation of nfut besides reciprocal forms
+Neg[1] Subj TenseAspect[fut] Obj? [<v>:] VerbRoot[-pfv] Extensions[sbjv] # Negation of nfut reciprocal forms
+## PFV
+### Regular
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[i] Perf[i] # Perfective forms /i/ inflection w/o extensions
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[e] Perf[e] # Perfective forms /e/ inflection w/o extensions
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[i] PerfPortmanteau[i] # Perfective forms /i/ inflection w/ extensions
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[e] PerfPortmanteau[e] # Perfective forms /i/ inflection w/ extensions
+### Irregular
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v><pfv>:]  VerbRoot[pfv] # Perfective forms w/o extensions
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v><pfv>:] VerbRoot[pfv] Extensions[-sbjv]? # Perfective forms w extensions
+# Habitual
+Neg[1]? Subj TenseAspect[|[fut,pst]]? Obj? [<v>:] VerbRoot[i] Extensions[-sbjv,i]? Mood[ind] Habit
+Neg[1]? Subj TenseAspect[|[fut,pst]]? Obj? [<v>:] VerbRoot[e] Extensions[-sbjv,e]? Mood[ind] Habit
+# Subjunctive
+Neg[1]? Subj Obj? [<v>:] VerbRoot[i] Extensions[i]? Mood[subj] # Subjunctive forms
+Neg[1]? Subj Obj? [<v>:] VerbRoot[e] Extensions[e]? Mood[subj] # Subjunctive forms
+Neg[1]? Subj Obj? [<v>:] VerbRoot[-pfv] Extensions[subj] # Subjunctive reciprocal
+# Imperative, Jussive, Hortative & Prohibitive
+Subj Neg[2]? Obj? [<v>:] VerbRoot[-pfv] Mood
+# Infinitive
+Aug[o]? Inf [<v>:] VerbRoot[-pfv] Mood[ind]
+# Copula
+Neg[1]? Subj? Obj? Cop
+PreCop Cop PosCop
+
+# Nouns
+Aug[1]? NounQuant[1] [<n>:] NounRoot[1]
+Aug[1]? NounQuant[1a] [<n>:] NounRoot[1a,-naug]
+NounQuant[1a] [<n>:] NounRoot[1a,naug]
+Aug[2]? NounQuant[2] [<n>:] NounRoot[2]
+Aug[3]? NounQuant[3] [<n>:] NounRoot[3]
+Aug[3]? NounQuant[3a] [<n>:] NounRoot[3a,-naug]
+NounQuant[3a] [<n>:] NounRoot[3a,naug]
+Aug[4]? NounQuant[4] [<n>:] NounRoot[4]
+Aug[5]? NounQuant[5] [<n>:] NounRoot[5]
+Aug[5]? NounQuant[5a] [<n>:] NounRoot[5a,-naug]
+NounQuant[5a] [<n>:] NounRoot[5a,naug]
+Aug[5]? NounQuant[5b] [<n>:] NounRoot[5b]
+Aug[6]? NounQuant[6] [<n>:] NounRoot[6]
+Aug[7]? NounQuant[7] [<n>:] NounRoot[7]
+Aug[8]? NounQuant[8] [<n>:] NounRoot[8]
+Aug[9]? NounQuant[9] [<n>:] NounRoot[9]
+Aug[9]? NounQuant[9a] [<n>:] NounRoot[9a,-naug]
+NounQuant[9a] [<n>:] NounRoot[9a,naug]
+Aug[10]? NounQuant[10] [<n>:] NounRoot[10]
+Aug[10]? NounQuant[10a] [<n>:] NounRoot[10a,-naug]
+NounQuant[10a] [<n>:] NounRoot[10a,naug]
+Aug[11]? NounQuant[11] [<n>:] NounRoot[11]
+Aug[12]? NounQuant[12] [<n>:] NounRoot[|[12,mass]]
+Aug[13]? NounQuant[13] [<n>:] NounRoot[mass]
+Aug[14]? NounQuant[14] [<n>:] NounRoot[|[14,mass]]
+Aug[15]? NounQuant[15] [<n>:] NounRoot[15]
+Aug[16]? NounQuant[16] [<n>:] NounRoot[16]
+Aug[20]? NounQuant[20] [<n>:] NounRoot[-mass]
+Aug[22]? NounQuant[22] [<n>:] NounRoot
+
+# Locative Noun Classes
+Aug[17]? [<n>:] NounRoot[17]
+Aug[18]? [<n>:] NounRoot[18]
+[<n>:] NounRoot[23]
+
+# Personal Pronouns
+PersPron [<pro>:] Additive?
+
+# Demonstrative Pronouns
+Distance(1) DemPron[-ndist] [<dem>:] Distance(2)[dist]
+Distance(1) DemPron [<dem>:] Distance(2)[prox]
+Distance(1) DemPron[|[2,6,12,16,22]] [<dem>:] Distance(2)[med,a]
+Distance(1) DemPron[|[4,5,7,8,9,10,23]] [<dem>:] Distance(2)[med,e]
+Distance(1) DemPron[|[1,3,11,13,14,15,17,18,20]] [<dem>:] Distance(2)[med,o]
+
+# Possessive Pronouns
+PossesseePrefix AssocMarker PossessorSuffix
+
+# Adjectives
+Aug[o]? AdjAgree[1,3,11,13,14,15,17,18,20] [<adj>:] AdjRoot
+Aug[a]? AdjAgree[2,6,12,16,22] [<adj>:] AdjRoot
+Aug[e]? AdjAgree[4,5,7,8,9,10] [<adj>:] AdjRoot
+
+# Other
+Other
+
+LEXICON Nar
+<nar>:ni>
+<nar>:n'>
+<nar>:n>
+
+LEXICON Cop
+<cop>:li
+<cop>:ta
+<cop>:bba
+<cop>:ni
+
+LEXICON PreCop
+<16sbj>:wa>
+<17sbj>:ku>
+<18sbj>:mu>
+<23sbj>:e>
+
+LEXICON PosCop
+<16.loc>:>wo
+<16.loc>:>ku
+<16.loc>:>mu
+<16.loc>:>yo
+
+LEXICON Inf
+<inf>:ku>
+
+LEXICON Neg
+<neg>:ti>[1]
+<neg>:ta>[2]
+
+LEXICON Subj
+<1sg.sbj>:n>
+<1pl.sbj>:tu>
+<2sg.sbj>:o>
+<2pl.sbj>:mu>
+<1sbj>:a>
+<2sbj>:ba>
+<3sbj>:gu>
+<4sbj>:gi>
+<5sbj>:li>
+<6sbj>:ga>
+<7sbj>:ki>
+<8sbj>:bi>
+<9sbj>:e>
+<9sbj>:gi>
+<10sbj>:zi>
+<11sbj>:lu>
+<12sbj>:ka>
+<13sbj>:tu>
+<14sbj>:bu>
+<15sbj>:ku>
+<16sbj>:wa>
+<17sbj>:ku>
+<18sbj>:mu>
+<20sbj>:gu>
+<22sbj>:ga>
+<23sbj>:e>
+
+LEXICON TenseAspect
+<pst>:a>[pst]
+<fut>:a>[fut]
+<rfut>:li>
+<prog>:ku>
+<pers>:kya>
+
+LEXICON Obj
+<1sg.obj>:n>
+<1pl.obj>:tu>
+<2sg.obj>:ku>
+<2pl.obj>:ba>
+<1obj>:mu>
+<2obj>:ba>
+<3obj>:gu>
+<4obj>:gi>
+<5obj>:li>
+<6obj>:ga>
+<7obj>:ki>
+<8obj>:bi>
+<9obj>:gi>
+<10obj>:zi>
+<11obj>:lu>
+<12obj>:ka>
+<13obj>:tu>
+<14obj>:bu>
+<15obj>:ku>
+<20obj>:gu>
+<22obj>:ga>
+<refl>:e>
+
+LEXICON Extensions
+<caus>:>y[i,e]
+<recp>:>angan[ind]
+<recp:sbjv>:engane[sbjv]
+<appl>:>ir[i]
+<caus>:>isy[i]
+<pass>:>ibw[i]
+<appl>:>er[e]
+<caus>:>esy[e]
+<pass>:>ebw[e]
+
+LEXICON PerfPortmanteau
+<appl:pfv>:iire[i]
+<caus:pfv>:isirye[i]
+<caus:pfv>:irye[i]
+<appl:caus:pfv>:iirye[i]
+<pass:pfv>:iibwe[i]
+<appl:pfv>:eire[e]
+<caus:pfv>:esirye[e]
+<caus:pfv>:erye[e]
+<appl:caus:pfv>:eirye[e]
+<pass:pfv>:eibwe[e]
+<recp:pfv>:angaine[i,e]
+
+LEXICON Mood
+<fv>:>a[ind]
+<sbjv>:>e[subj]
+
+LEXICON Habit
+<hab>:>nga
+
+LEXICON Perf
+<pfv>:ire[i]
+<pfv>:ere[e]
+
+LEXICON PossesseePrefix
+<1>:wa>
+<2>:ba>
+<3>:gu>
+<4>:gi>
+<4>:za>
+<5>:li>
+<6>:ga>
+<7>:ki>
+<8>:bi>
+<9>:ya>
+<10>:za>
+<11>:lu>
+<12>:ka>
+<13>:tu>
+<14>:bu>
+<15>:ku>
+<20>:gu>
+<22>:ga>
+
+LEXICON PossessorSuffix
+<1sg>:nge
+<1pl>:iswe
+<2sg>:mu
+<2pl>:nywe
+<1>:mwe{ii}
+<2>:bwe
+<3>:gwo
+<4>:gyo
+<5>:lyo
+<6>:go
+<7>:kyo
+<8>:byo
+<9>:yo
+<10>:zo
+<11>:lwo
+<12>:ko
+<13>:two
+<14>:bwo
+<15>:kwo
+<20>:gwo
+<22>:go
+
+LEXICON AssocMarker
+<assoc>:a
+
+LEXICON Distance(2)
+: <prox>:>ni[prox]
+:a <med>:>o[med,a]
+:e <med>:>o[med,e]
+:o <med>:>o[med,o]
+: <dist>:>di[dist]
+
+LEXICON DemPron
+<1>:{o}[1]
+<2>:b{a}[2]
+<3>:gu[3]
+<4>:gi[4]
+<5>:li[5]
+<6>:g{a}[6]
+<7>:ki[7]
+<8>:bi[8]
+<9>:{e}[9]
+<9>:gi[9,ndist]
+<10>:z{i}[10]
+<11>:lu[11]
+<12>:k{a}[12]
+<13>:tu[13]
+<14>:bu[14]
+<15>:ku[15]
+<16>:{wa}[16]
+<17>:ku[17]
+<18>:mu[18]
+<20>:gu[20]
+<22>:g{a}[22]
+<23>:{e}[23]
+
+LEXICON PersPron
+<1sg>:nje
+<1pl>:iswe
+<2sg>:we
+<2pl>:nywe
+<1>:ye
+<2>:bo
+<3>:gwo
+<4>:gyo
+<5>:lyo
+<6>:go
+<7>:kyo
+<8>:byo
+<9>:yo
+<9>:gyo
+<10>:zo
+<11>:lwo
+<12>:ko
+<13>:two
+<14>:bwo
+<15>:kwo
+<20>:gwo
+<22>:go
+
+LEXICON Additive
+<add.foc>:>na
+
+LEXICON NounQuant
+<1>:mu>[1]
+<1>:>[1a]
+<2>:ba>[2]
+<3>:mu>[3]
+<3>:>[3a]
+<4>:mi>[4]
+<5>:{iy}>[5]
+<5>:>[5a]
+<5>:li>[5b]
+<6>:ma>[6]
+<7>:ki>[7]
+<8>:bi>[8]
+<9>:n>[9]
+<9>:>[9a]
+<10>:{n}>[10]
+<10>:>[10a]
+<11>:lu>[11]
+<12>:ka>[12]
+<13>:tu>[13]
+<14>:bu>[14]
+<15>:ku>[15]
+<16>:wa>[16]
+<20>:gu>[20]
+<22>:ga>[22]
+
+LEXICON Aug
+<aug>:o>[1,3,11,13,14,15,17,18,20,o]
+<aug>:a>[2,6,12,16,22,a]
+<aug>:e>[4,5,7,8,9,10,e]
+
+LEXICON AdjAgree
+<1>:mu>[1]
+<2>:ba>[2]
+<3>:gu>[3]
+<4>:gi>[4]
+<4>:zi>[4]
+<5>:li>[5]
+<6>:ga>[6]
+<7>:ki>[7]
+<8>:bi>[8]
+<9>:n>[9]
+<9>:gi>[9]
+<10>:zi>[10]
+<11>:lu>[11]
+<12>:ka>[12]
+<13>:tu>[13]
+<14>:bu>[14]
+<15>:ku>[15]
+<20>:go>[20]
+<22>:ga>[22]
