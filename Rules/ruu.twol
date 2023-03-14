@@ -48,9 +48,3 @@ a:0 <=> _ %>:0 Cx (%>:0) Nasal Obstruent;
 [%{a%}:a|%{i%}:i] <=> _ %>:0 Consonant;
 "Terminal -a before vowels"
 [%{a%}:0|%{i%}:0] <=> _ %>:0 Vowel;
-"wa- base before vowels"
-%{wa%}:w <=> _ %>:0 Vowel;
-"wa- base before consonants 1"
-%{wa%}:wa => _ %>:0 Consonant;
-"wa- base before consonants 2"
-%{wa%}:a => _ %>:0 Consonant;
