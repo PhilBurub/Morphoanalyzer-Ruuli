@@ -18,8 +18,7 @@ Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[e] Perf[e] # Perfective form
 Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[i] PerfPortmanteau[i] # Perfective forms /i/ inflection w/ extensions
 Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[e] PerfPortmanteau[e] # Perfective forms /i/ inflection w/ extensions
 ### Irregular
-Neg[1]? Subj TenseAspect[pst]? Obj? [<v><pfv>:]  VerbRoot[pfv] # Perfective forms w/o extensions
-Neg[1]? Subj TenseAspect[pst]? Obj? [<v><pfv>:] VerbRoot[pfv] Extensions[-sbjv]? # Perfective forms w extensions
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[pfv] [<pfv>:] Extensions[-sbjv]?
 # Habitual
 Neg[1]? Subj TenseAspect[|[fut,pst]]? Obj? [<v>:] VerbRoot[i] Extensions[-sbjv,i]? Mood[ind] Habit
 Neg[1]? Subj TenseAspect[|[fut,pst]]? Obj? [<v>:] VerbRoot[e] Extensions[-sbjv,e]? Mood[ind] Habit
