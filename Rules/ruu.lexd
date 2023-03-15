@@ -13,10 +13,8 @@ Neg[1] Subj TenseAspect[fut] Obj? [<v>:] VerbRoot[e] Extensions[e]? Mood[subj] #
 Neg[1] Subj TenseAspect[fut] Obj? [<v>:] VerbRoot[-pfv] Extensions[sbjv] # Negation of nfut reciprocal forms
 ## PFV
 ### Regular
-Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[i] Perf[i] # Perfective forms /i/ inflection w/o extensions
-Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[e] Perf[e] # Perfective forms /e/ inflection w/o extensions
-Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[i] PerfPortmanteau[i] # Perfective forms /i/ inflection w/ extensions
-Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[e] PerfPortmanteau[e] # Perfective forms /i/ inflection w/ extensions
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[i] (Perf[i] | PerfPortmanteau[i])
+Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[e] (Perf[e] | PerfPortmanteau[e])
 ### Irregular
 Neg[1]? Subj TenseAspect[pst]? Obj? [<v>:] VerbRoot[pfv] [<pfv>:] Extensions[-sbjv]?
 # Habitual
@@ -184,23 +182,23 @@ LEXICON Extensions
 <caus>:>y[i,e]
 <recp>:>angan[ind]
 <recp:sbjv>:engane[sbjv]
-<appl>:>ir[i]
+<appl>:>il[i]
 <caus>:>isy[i]
 <pass>:>ibw[i]
-<appl>:>er[e]
+<appl>:>el[e]
 <caus>:>esy[e]
 <pass>:>ebw[e]
 
 LEXICON PerfPortmanteau
-<appl:pfv>:iire[i]
-<caus:pfv>:isirye[i]
-<caus:pfv>:irye[i]
-<appl:caus:pfv>:iirye[i]
+<appl:pfv>:iile[i]
+<caus:pfv>:isilye[i]
+<caus:pfv>:ilye[i]
+<appl:caus:pfv>:iilye[i]
 <pass:pfv>:iibwe[i]
-<appl:pfv>:eire[e]
-<caus:pfv>:esirye[e]
-<caus:pfv>:erye[e]
-<appl:caus:pfv>:eirye[e]
+<appl:pfv>:eile[e]
+<caus:pfv>:esilye[e]
+<caus:pfv>:elye[e]
+<appl:caus:pfv>:eilye[e]
 <pass:pfv>:eibwe[e]
 <recp:pfv>:angaine[i,e]
 
@@ -212,8 +210,8 @@ LEXICON Habit
 <hab>:>nga
 
 LEXICON Perf
-<pfv>:ire[i]
-<pfv>:ere[e]
+<pfv>:ile[i]
+<pfv>:ele[e]
 
 LEXICON PossesseePrefix
 <1>:wa>
