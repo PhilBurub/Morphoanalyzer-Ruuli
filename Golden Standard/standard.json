@@ -8,11 +8,11 @@
 	[
 		"nombonera",
 		[
-			"nar",
-			"2sg.sbj",
 			"1sg.obj",
-			"fv",
-			"appl"
+			"2sg.sbj",
+			"appl",
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -31,9 +31,9 @@
 		"nagasobola",
 		[
 			"1sg.sbj",
+			"fut",
 			"6obj",
-			"fv",
-			"fut"
+			"fv"
 		]
 	],
 	[
@@ -60,9 +60,9 @@
 	[
 		"gange",
 		[
-			"6",
 			"1sg",
-			"assoc"
+			"assoc",
+			"6"
 		]
 	],
 	[
@@ -101,7 +101,7 @@
 		[
 			"1sbj",
 			"1obj",
-			"CAUS:PFV"
+			"caus:pfv"
 		]
 	],
 	[
@@ -135,8 +135,8 @@
 		"azwirewo",
 		[
 			"1sbj",
-			"16.loc",
-			"pfv"
+			"pfv",
+			"16.loc"
 		]
 	],
 	[
@@ -149,9 +149,9 @@
 	[
 		"nkwimuka",
 		[
+			"fv",
 			"prog",
-			"1sg.sbj",
-			"fv"
+			"1sg.sbj"
 		]
 	],
 	[
@@ -212,9 +212,9 @@
 	[
 		"wamwei",
 		[
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -228,9 +228,9 @@
 		"yamwirukiryembe",
 		[
 			"1sbj",
-			"1obj",
 			"foc",
-			"pfv"
+			"pfv",
+			"1obj"
 		]
 	],
 	[
@@ -281,9 +281,9 @@
 		"baayemangamu",
 		[
 			"2sbj",
+			"18.loc",
 			"hab",
 			"pst",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -374,8 +374,8 @@
 	[
 		"n'amukoba",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -384,8 +384,8 @@
 		"nabuulyaku",
 		[
 			"1sbj",
-			"nar",
 			"17.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -393,8 +393,8 @@
 		"nakoba",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -439,9 +439,9 @@
 	[
 		"wa",
 		[
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -459,8 +459,8 @@
 	[
 		"namukoba",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -474,16 +474,16 @@
 	[
 		"mbwatirye",
 		[
-			"pfv",
 			"14obj",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
 		"oboine",
 		[
-			"2sg.sbj",
-			"pfv"
+			"pfv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -523,9 +523,9 @@
 		"niwabbaawo",
 		[
 			"16sbj",
+			"cop",
 			"16.loc",
 			"nar",
-			"cop",
 			"fv"
 		]
 	],
@@ -561,9 +561,9 @@
 	[
 		"wange",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -669,11 +669,11 @@
 	[
 		"niyamulumire",
 		[
-			"pfv",
+			"pst",
 			"1obj",
+			"pfv",
 			"9sbj",
-			"nar",
-			"pst"
+			"nar"
 		]
 	],
 	[
@@ -845,9 +845,9 @@
 		"mwitirembe",
 		[
 			"1sg.sbj",
-			"pfv",
+			"foc",
 			"1obj",
-			"foc"
+			"pfv"
 		]
 	],
 	[
@@ -882,16 +882,16 @@
 		"nkusaba",
 		[
 			"1sg.sbj",
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"fv"
 		]
 	],
 	[
 		"kunkweka",
 		[
-			"1sg.obj",
 			"inf",
-			"fv"
+			"fv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -922,8 +922,8 @@
 		"yii",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -952,8 +952,8 @@
 		"gazonka",
 		[
 			"6sbj",
-			"fv",
-			"10obj"
+			"10obj",
+			"fv"
 		]
 	],
 	[
@@ -984,8 +984,8 @@
 		"okwiruka",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -1103,9 +1103,9 @@
 		"owange",
 		[
 			"aug",
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -1165,8 +1165,8 @@
 		"amusangire",
 		[
 			"1sbj",
-			"1obj",
-			"pfv"
+			"pfv",
+			"1obj"
 		]
 	],
 	[
@@ -1180,8 +1180,8 @@
 		"wafiira",
 		[
 			"1sbj",
-			"appl",
 			"s.rel",
+			"appl",
 			"fv"
 		]
 	],
@@ -1207,8 +1207,8 @@
 		[
 			"neg",
 			"1sbj",
-			"fut",
-			"sbjv"
+			"sbjv",
+			"fut"
 		]
 	],
 	[
@@ -1294,9 +1294,9 @@
 	[
 		"teri",
 		[
-			"neg",
+			"cop",
 			"9sbj",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -1339,8 +1339,8 @@
 		"agutaire",
 		[
 			"1sbj",
-			"pfv",
-			"3obj"
+			"3obj",
+			"pfv"
 		]
 	],
 	[
@@ -1393,16 +1393,16 @@
 		"n'akoba",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
 		"n'aleeta",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -1414,8 +1414,8 @@
 	[
 		"n'amukama",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -1442,16 +1442,16 @@
 	[
 		"wekweke",
 		[
-			"refl",
+			"sbjv",
 			"2sg.sbj",
-			"sbjv"
+			"refl"
 		]
 	],
 	[
 		"namulya",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -1459,8 +1459,8 @@
 	[
 		"namuzinda",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -1468,8 +1468,8 @@
 	[
 		"namwita",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -1485,17 +1485,17 @@
 	[
 		"kweirukira",
 		[
-			"fv",
-			"refl",
+			"appl",
 			"inf",
-			"appl"
+			"fv",
+			"refl"
 		]
 	],
 	[
 		"wasobola",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -1522,8 +1522,8 @@
 	[
 		"nibwo",
 		[
-			"14",
-			"cop"
+			"cop",
+			"14"
 		]
 	],
 	[
@@ -1537,8 +1537,8 @@
 	[
 		"omusaayi",
 		[
+			"caus:appl:pfv",
 			"1sg.sbj",
-			"CAUS:APPL:PFV",
 			"2sg.obj"
 		]
 	],
@@ -1591,9 +1591,9 @@
 	[
 		"nkukoba",
 		[
+			"fv",
 			"prog",
-			"1sg.sbj",
-			"fv"
+			"1sg.sbj"
 		]
 	],
 	[
@@ -1615,24 +1615,24 @@
 	[
 		"tindya",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"nkai",
 		[
-			"1sg.sbj",
 			"12obj",
+			"1sg.sbj",
 			"fv"
 		]
 	],
 	[
 		"nkaita",
 		[
-			"1sg.sbj",
 			"12obj",
+			"1sg.sbj",
 			"fv"
 		]
 	],
@@ -1645,8 +1645,8 @@
 	[
 		"nkuuma",
 		[
-			"1sg.obj",
-			"fv"
+			"fv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -1661,8 +1661,8 @@
 		"n'alowo",
 		[
 			"1sbj",
-			"16.loc",
 			"nar",
+			"16.loc",
 			"cop"
 		]
 	],
@@ -1720,10 +1720,10 @@
 	[
 		"mu",
 		[
-			"2sg.sbj",
+			"14obj",
 			"prog",
-			"fv",
-			"14obj"
+			"2sg.sbj",
+			"fv"
 		]
 	],
 	[
@@ -1761,26 +1761,26 @@
 		"amubwirye",
 		[
 			"1sbj",
-			"1obj",
-			"pfv"
+			"pfv",
+			"1obj"
 		]
 	],
 	[
 		"taizire",
 		[
 			"1sbj",
-			"neg",
-			"pfv"
+			"pfv",
+			"neg"
 		]
 	],
 	[
 		"takumubonaku",
 		[
+			"prog",
+			"1obj",
 			"neg",
 			"1sbj",
-			"1obj",
 			"17.loc",
-			"prog",
 			"fv"
 		]
 	],
@@ -1906,8 +1906,8 @@
 	[
 		"timaite",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
 			"pfv"
 		]
 	],
@@ -1929,10 +1929,10 @@
 	[
 		"omuboneireku",
 		[
+			"appl:pfv",
 			"1obj",
-			"17.loc",
 			"2sg.sbj",
-			"APPL:PFV"
+			"17.loc"
 		]
 	],
 	[
@@ -1944,9 +1944,9 @@
 	[
 		"wawo",
 		[
-			"1",
 			"2sg",
-			"assoc"
+			"assoc",
+			"1"
 		]
 	],
 	[
@@ -1956,12 +1956,12 @@
 	[
 		"n'ombonera",
 		[
-			"nar",
-			"2sg.sbj",
 			"prog",
-			"fv",
+			"1sg",
+			"2sg.sbj",
 			"appl",
-			"1sg"
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -1989,9 +1989,9 @@
 	[
 		"mba",
 		[
-			"2.",
-			"assoc",
-			"2"
+			"2",
+			"2",
+			"assoc"
 		]
 	],
 	[
@@ -2112,9 +2112,9 @@
 		"bakubuuliire",
 		[
 			"2sbj",
-			"appl",
 			"sbjv",
-			"2sg.obj"
+			"2sg.obj",
+			"appl"
 		]
 	],
 	[
@@ -2174,8 +2174,8 @@
 		"ganu",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -2188,8 +2188,8 @@
 	[
 		"obusapatu",
 		[
-			"6sbj",
 			"s.rel",
+			"6sbj",
 			"pfv"
 		]
 	],
@@ -2217,9 +2217,9 @@
 	[
 		"waanywei",
 		[
+			"16",
 			"2sg",
-			"assoc",
-			"16"
+			"assoc"
 		]
 	],
 	[
@@ -2250,10 +2250,10 @@
 	[
 		"kwebonera",
 		[
-			"fv",
-			"refl",
+			"appl",
 			"inf",
-			"appl"
+			"fv",
+			"refl"
 		]
 	],
 	[
@@ -2308,9 +2308,9 @@
 	[
 		"wotobba",
 		[
+			"cop",
 			"2sg.sbj",
-			"neg",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -2327,8 +2327,8 @@
 	[
 		"wakikula",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -2336,9 +2336,9 @@
 		"nakuleetere",
 		[
 			"1sg.sbj",
+			"2sg.obj",
 			"pfv",
-			"pst",
-			"2sg.obj"
+			"pst"
 		]
 	],
 	[
@@ -2353,8 +2353,8 @@
 		"namulekere",
 		[
 			"1sg.sbj",
-			"pfv",
 			"1obj",
+			"pfv",
 			"pst"
 		]
 	],
@@ -2379,8 +2379,8 @@
 	[
 		"yasumbanga",
 		[
-			"1sbj",
 			"hab",
+			"1sbj",
 			"pst",
 			"fv"
 		]
@@ -2410,8 +2410,8 @@
 	[
 		"nikaimuka",
 		[
-			"nar",
 			"12sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -2433,8 +2433,8 @@
 		"ninzwayo",
 		[
 			"1sg.sbj",
-			"nar",
 			"23.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -2489,9 +2489,9 @@
 	[
 		"obinisya",
 		[
+			"fv",
 			"2sg.sbj",
-			"caus",
-			"fv"
+			"caus"
 		]
 	],
 	[
@@ -2531,9 +2531,9 @@
 	[
 		"waako",
 		[
-			"1",
-			"12.",
-			"assoc"
+			"12",
+			"assoc",
+			"1"
 		]
 	],
 	[
@@ -2562,9 +2562,9 @@
 	[
 		"takumanya",
 		[
+			"prog",
 			"neg",
 			"1sbj",
-			"prog",
 			"fv"
 		]
 	],
@@ -2607,9 +2607,9 @@
 	[
 		"waawo",
 		[
-			"1",
 			"2sg",
-			"assoc"
+			"assoc",
+			"1"
 		]
 	],
 	[
@@ -2624,14 +2624,6 @@
 			"1sbj",
 			"nar",
 			"fv"
-		]
-	],
-	[
-		"wamwei",
-		[
-			"1",
-			"assoc",
-			"1"
 		]
 	],
 	[
@@ -2701,26 +2693,26 @@
 		"ombinireku",
 		[
 			"pfv",
-			"17.loc",
-			"2sg.sbj",
 			"1sg.obj",
-			"appl"
+			"2sg.sbj",
+			"appl",
+			"17.loc"
 		]
 	],
 	[
 		"tinawure",
 		[
-			"neg",
 			"1sg.sbj",
-			"fut",
-			"sbjv"
+			"neg",
+			"sbjv",
+			"fut"
 		]
 	],
 	[
 		"bankobeire",
 		[
 			"2sbj",
-			"APPL:PFV",
+			"appl:pfv",
 			"1sgp"
 		]
 	],
@@ -2731,9 +2723,9 @@
 	[
 		"maka",
 		[
-			"6",
 			"1sg",
-			"assoc"
+			"assoc",
+			"6"
 		]
 	],
 	[
@@ -2758,10 +2750,10 @@
 		"baaku",
 		[
 			"2sbj",
-			"sbjv",
-			"pst",
+			"2sg.obj",
 			"appl",
-			"2sg.obj"
+			"sbjv",
+			"pst"
 		]
 	],
 	[
@@ -2784,15 +2776,11 @@
 	],
 	[
 		"nabba",
-		[
-			"***"
-		]
+		[]
 	],
 	[
 		"n'oma",
-		[
-			"***"
-		]
+		[]
 	],
 	[
 		"nawasa",
@@ -2856,8 +2844,8 @@
 	[
 		"kaali",
 		[
-			"pst",
 			"12sbj",
+			"pst",
 			"cop"
 		]
 	],
@@ -2870,18 +2858,18 @@
 	[
 		"tikasobola",
 		[
-			"neg",
 			"12sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"kwesumbira",
 		[
-			"fv",
-			"refl",
+			"appl",
 			"inf",
-			"appl"
+			"fv",
+			"refl"
 		]
 	],
 	[
@@ -2893,8 +2881,8 @@
 	[
 		"zikabyala",
 		[
-			"10sbj",
-			"fv"
+			"fv",
+			"10sbj"
 		]
 	],
 	[
@@ -2904,8 +2892,8 @@
 	[
 		"zikabyara",
 		[
-			"10sbj",
-			"fv"
+			"fv",
+			"10sbj"
 		]
 	],
 	[
@@ -2915,8 +2903,8 @@
 	[
 		"nsigale",
 		[
-			"1sg.sbj",
-			"sbjv"
+			"sbjv",
+			"1sg.sbj"
 		]
 	],
 	[
@@ -2926,17 +2914,17 @@
 	[
 		"kayimukanga",
 		[
-			"fv",
 			"12sbj",
-			"hab"
+			"hab",
+			"fv"
 		]
 	],
 	[
 		"naika",
 		[
+			"pst",
 			"9sbj",
 			"nar",
-			"pst",
 			"fv"
 		]
 	],
@@ -2951,10 +2939,10 @@
 	[
 		"ntakutaka",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"neg",
+			"fv"
 		]
 	],
 	[
@@ -2968,9 +2956,9 @@
 	[
 		"nazwayo",
 		[
+			"23.loc",
 			"1sbj",
 			"nar",
-			"23.loc",
 			"fv"
 		]
 	],
@@ -2992,11 +2980,11 @@
 	[
 		"kweboneraku",
 		[
+			"appl",
 			"17.loc",
-			"fv",
-			"refl",
 			"inf",
-			"appl"
+			"fv",
+			"refl"
 		]
 	],
 	[
@@ -3034,9 +3022,9 @@
 	[
 		"kakaire",
 		[
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -3128,8 +3116,8 @@
 	[
 		"gaakoore",
 		[
-			"6sbj",
 			"pfv",
+			"6sbj",
 			"pst"
 		]
 	],
@@ -3145,24 +3133,24 @@
 	[
 		"niko",
 		[
-			"12",
-			"cop"
+			"cop",
+			"12"
 		]
 	],
 	[
 		"kaabyayire",
 		[
-			"pst",
 			"12sbj",
+			"pst",
 			"pfv"
 		]
 	],
 	[
 		"niwabbawo",
 		[
+			"nar",
 			"16sbj",
 			"16.loc",
-			"nar",
 			"cop"
 		]
 	],
@@ -3173,8 +3161,8 @@
 	[
 		"okwiwula",
 		[
-			"pst",
 			"9sbj",
+			"pst",
 			"pfv"
 		]
 	],
@@ -3202,9 +3190,9 @@
 	[
 		"nimukola",
 		[
-			"1obj",
+			"fv",
 			"1sg.sbj",
-			"fv"
+			"1obj"
 		]
 	],
 	[
@@ -3214,9 +3202,9 @@
 	[
 		"ombiniremu",
 		[
-			"2sg.sbj",
-			"1sg.obj",
 			"18.loc",
+			"1sg.obj",
+			"2sg.sbj",
 			"appl",
 			"sbjv"
 		]
@@ -3224,16 +3212,16 @@
 	[
 		"nyize",
 		[
-			"1sg.sbj",
-			"sbjv"
+			"sbjv",
+			"1sg.sbj"
 		]
 	],
 	[
 		"oireyo",
 		[
 			"2sg.sbj",
-			"pfv",
-			"23.loc"
+			"23.loc",
+			"pfv"
 		]
 	],
 	[
@@ -3265,10 +3253,10 @@
 	[
 		"niwabonyaabonya",
 		[
-			"nar",
 			"2sg.sbj",
 			"pst",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -3292,8 +3280,8 @@
 		"yaboine",
 		[
 			"1sbj",
-			"pfv",
-			"pst"
+			"pst",
+			"pfv"
 		]
 	],
 	[
@@ -3332,8 +3320,8 @@
 		[
 			"1sbj",
 			"pst",
-			"pfv",
-			"7obj"
+			"7obj",
+			"pfv"
 		]
 	],
 	[
@@ -3345,8 +3333,8 @@
 	[
 		"zikayonsa",
 		[
-			"10sbj",
-			"fv"
+			"fv",
+			"10sbj"
 		]
 	],
 	[
@@ -3359,8 +3347,8 @@
 	[
 		"ninje",
 		[
-			"cop",
-			"1sg"
+			"1sg",
+			"cop"
 		]
 	],
 	[
@@ -3383,8 +3371,8 @@
 		"nineyongerayo",
 		[
 			"1sg.sbj",
-			"nar",
 			"23.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -3405,9 +3393,9 @@
 	[
 		"nikiika",
 		[
-			"7sbj",
+			"fv",
 			"nar",
-			"fv"
+			"7sbj"
 		]
 	],
 	[
@@ -3415,8 +3403,8 @@
 		[
 			"aug",
 			"7",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -3434,8 +3422,8 @@
 	[
 		"oku",
 		[
-			"1pl.sbj",
 			"s.rel",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -3448,8 +3436,8 @@
 	[
 		"byetubbaire",
 		[
-			"1pl.sbj",
 			"cop",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -3457,8 +3445,8 @@
 		"tukwega",
 		[
 			"1pl.sbj",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -3471,9 +3459,9 @@
 	[
 		"twafuniire",
 		[
+			"pst",
 			"1pl.sbj",
-			"APPL:PFV",
-			"pst"
+			"appl:pfv"
 		]
 	],
 	[
@@ -3522,27 +3510,27 @@
 	[
 		"bange",
 		[
+			"2",
 			"1sg",
-			"assoc",
-			"2"
+			"assoc"
 		]
 	],
 	[
 		"nibampindula",
 		[
 			"2sbj",
-			"nar",
 			"1sg.obj",
+			"nar",
 			"fv"
 		]
 	],
 	[
 		"okunyiya",
 		[
-			"aug",
 			"1sg.obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -3561,8 +3549,8 @@
 		"negeirewo",
 		[
 			"appl",
-			"16.loc",
-			"1sg.sbj"
+			"1sg.sbj",
+			"16.loc"
 		]
 	],
 	[
@@ -3591,8 +3579,8 @@
 		[
 			"pst",
 			"nar",
-			"11sbj",
-			"pfv"
+			"pfv",
+			"11sbj"
 		]
 	],
 	[
@@ -3604,10 +3592,10 @@
 	[
 		"okwirayo",
 		[
-			"aug",
 			"23.loc",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -3619,9 +3607,9 @@
 	[
 		"awo",
 		[
+			"foc",
 			"16",
-			"med",
-			"foc"
+			"med"
 		]
 	],
 	[
@@ -3663,19 +3651,11 @@
 	],
 	[
 		"kakooge",
-		[
-			"?"
-		]
+		[]
 	],
 	[
 		"wetwikala",
 		[]
-	],
-	[
-		"e",
-		[
-			"?"
-		]
 	],
 	[
 		"wobulenzi",
@@ -3684,9 +3664,9 @@
 	[
 		"nga",
 		[
-			"neg",
 			"1sg.sbj",
 			"23.loc",
+			"neg",
 			"fv"
 		]
 	],
@@ -3717,8 +3697,8 @@
 	[
 		"byaikire",
 		[
-			"pst",
 			"8sbj",
+			"pst",
 			"pfv"
 		]
 	],
@@ -3760,8 +3740,8 @@
 	[
 		"waalowo",
 		[
-			"16sbj",
 			"16.loc",
+			"16sbj",
 			"cop"
 		]
 	],
@@ -3770,8 +3750,8 @@
 		[
 			"aug",
 			"17.loc",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -3789,11 +3769,11 @@
 	[
 		"lyasangibwanga",
 		[
-			"pst",
-			"fv",
-			"hab",
 			"pass",
-			"5sbj"
+			"hab",
+			"5sbj",
+			"pst",
+			"fv"
 		]
 	],
 	[
@@ -3803,10 +3783,10 @@
 	[
 		"ogwetebwa",
 		[
-			"s.rel",
+			"pass",
 			"3sbj",
-			"fv",
-			"pass"
+			"s.rel",
+			"fv"
 		]
 	],
 	[
@@ -3831,8 +3811,8 @@
 	[
 		"kibuga",
 		[
-			"7",
-			"9"
+			"9",
+			"7"
 		]
 	],
 	[
@@ -3858,19 +3838,18 @@
 	[
 		"lya",
 		[
-			"5",
-			"?"
+			"5"
 		]
 	],
 	[
 		"wobulenzi",
 		[
-			"1pl.sbj",
-			"pst",
-			"fv",
 			"18.loc",
 			"hab",
-			"appl"
+			"1pl.sbj",
+			"appl",
+			"pst",
+			"fv"
 		]
 	],
 	[
@@ -3883,16 +3862,14 @@
 		"twasomerangamu",
 		[
 			"2sbj",
-			"hab",
 			"5obj",
+			"hab",
 			"fv"
 		]
 	],
 	[
 		"ebyamawuro",
-		[
-			"?"
-		]
+		[]
 	],
 	[
 		"eitangi",
@@ -3904,15 +3881,15 @@
 		"erya",
 		[
 			"aug",
-			"5",
-			"9.ubc"
+			"9.ubc",
+			"5"
 		]
 	],
 	[
 		"ubc",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -3961,8 +3938,8 @@
 		[
 			"10sbj",
 			"1obj",
-			"fv",
-			"appl"
+			"appl",
+			"fv"
 		]
 	],
 	[
@@ -3974,8 +3951,8 @@
 	[
 		"ni",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -4017,8 +3994,8 @@
 	[
 		"ebbaawo",
 		[
-			"16.loc",
 			"9sbj",
+			"16.loc",
 			"cop"
 		]
 	],
@@ -4056,8 +4033,8 @@
 		[
 			"1sg.sbj",
 			"pfv",
-			"nar",
-			"pst"
+			"pst",
+			"nar"
 		]
 	],
 	[
@@ -4069,9 +4046,7 @@
 	],
 	[
 		"rc",
-		[
-			"rc"
-		]
+		[]
 	],
 	[
 		"isaasira",
@@ -4106,23 +4081,17 @@
 	[
 		"twatandikire",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
-		]
-	],
-	[
-		"wobulenzi",
-		[
-			"?"
 		]
 	],
 	[
 		"nibantangira",
 		[
 			"2sbj",
-			"nar",
 			"1sg.obj",
+			"nar",
 			"fv"
 		]
 	],
@@ -4132,8 +4101,8 @@
 			"9obj",
 			"1sg.sbj",
 			"prog",
-			"fv",
-			"appl"
+			"appl",
+			"fv"
 		]
 	],
 	[
@@ -4200,8 +4169,8 @@
 	[
 		"nitutandika",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -4217,8 +4186,8 @@
 		"nibambyala",
 		[
 			"2sbj",
-			"nar",
 			"1sg.obj",
+			"nar",
 			"fv"
 		]
 	],
@@ -4240,8 +4209,8 @@
 	[
 		"ntwaba",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -4279,19 +4248,19 @@
 		"nibampeerya",
 		[
 			"2sbj",
-			"nar",
 			"1sg.obj",
+			"nar",
 			"fv"
 		]
 	],
 	[
 		"okukoorayo",
 		[
+			"23.loc",
 			"appl",
 			"aug",
-			"23.loc",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -4335,19 +4304,19 @@
 		"eya",
 		[
 			"aug",
-			"11",
-			"9"
+			"9",
+			"11"
 		]
 	],
 	[
 		"ruruuli",
 		[
 			"s.rel",
-			"9sbj",
-			"cop",
+			"hab",
 			"pst",
-			"fv",
-			"hab"
+			"cop",
+			"9sbj",
+			"fv"
 		]
 	],
 	[
@@ -4388,10 +4357,10 @@
 	[
 		"nambyarayo",
 		[
+			"23.loc",
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
-			"23.loc",
 			"fv"
 		]
 	],
@@ -4460,16 +4429,15 @@
 	[
 		"bya",
 		[
-			"8",
-			"?"
+			"8"
 		]
 	],
 	[
 		"kakooge",
 		[
-			"pst",
+			"pass:pfv",
 			"8sbj",
-			"PASS:PFV"
+			"pst"
 		]
 	],
 	[
@@ -4533,9 +4501,9 @@
 	[
 		"naguleka",
 		[
+			"3obj",
 			"1sbj",
 			"nar",
-			"3obj",
 			"fv"
 		]
 	],
@@ -4552,9 +4520,9 @@
 	[
 		"niye",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -4590,9 +4558,9 @@
 	[
 		"nagumaliire",
 		[
-			"appl",
 			"pst",
 			"1sg.sbj",
+			"appl",
 			"3obj"
 		]
 	],
@@ -4657,18 +4625,18 @@
 		[
 			"1sg.sbj",
 			"prog",
-			"fv",
-			"11sbj"
+			"11sbj",
+			"fv"
 		]
 	],
 	[
 		"namumbyaara",
 		[
-			"appl",
-			"1sbj",
 			"1obj",
-			"nar",
 			"1sg.obj",
+			"1sbj",
+			"nar",
+			"appl",
 			"fv"
 		]
 	],
@@ -4711,17 +4679,17 @@
 		[
 			"pfv",
 			"1sbj",
-			"nar",
-			"1sg.obj"
+			"1sg.obj",
+			"nar"
 		]
 	],
 	[
 		"olwaliwo",
 		[
+			"pst",
+			"cop",
 			"16.loc",
 			"s.rel",
-			"cop",
-			"pst",
 			"11sbj"
 		]
 	],
@@ -4750,15 +4718,9 @@
 	[
 		"lwa",
 		[
-			"11",
 			"inf",
-			"fv"
-		]
-	],
-	[
-		"bya",
-		[
-			"8"
+			"fv",
+			"11"
 		]
 	],
 	[
@@ -4791,8 +4753,8 @@
 	[
 		"nitu",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -4817,10 +4779,10 @@
 	[
 		"ni",
 		[
-			"nar",
-			"17.loc",
 			"18.loc",
+			"17.loc",
 			"8sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -4834,11 +4796,11 @@
 	[
 		"ni",
 		[
-			"nar",
-			"1pl.obj",
+			"appl",
 			"11sbj",
+			"1pl.obj",
 			"fv",
-			"appl"
+			"nar"
 		]
 	],
 	[
@@ -4866,9 +4828,9 @@
 	[
 		"omukali",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -4921,10 +4883,10 @@
 	[
 		"ningikolamu",
 		[
+			"18.loc",
 			"9obj",
 			"1sg.sbj",
 			"nar",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -4949,9 +4911,9 @@
 	[
 		"nimbbayo",
 		[
-			"23.loc",
 			"nar",
 			"1sg.sbj",
+			"23.loc",
 			"cop"
 		]
 	],
@@ -4964,9 +4926,9 @@
 	[
 		"ekya",
 		[
-			"pfv",
 			"pst",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
@@ -5059,10 +5021,10 @@
 	[
 		"eyetebwanga",
 		[
-			"aug",
+			"pass",
 			"hab",
-			"fv",
-			"pass"
+			"aug",
+			"fv"
 		]
 	],
 	[
@@ -5104,44 +5066,44 @@
 		"okwega",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
 		"ninyabaangayo",
 		[
 			"1sg.sbj",
-			"nar",
 			"hab",
 			"23.loc",
+			"nar",
 			"fv"
 		]
 	],
 	[
 		"n'anyegesyanga",
 		[
+			"hab",
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
 		"ninyaba",
 		[
 			"nar",
-			"fv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"fv"
 		]
 	],
 	[
 		"ninyiramu",
 		[
-			"fv",
 			"nar",
-			"1sg.sbj"
+			"1sg.sbj",
+			"fv"
 		]
 	],
 	[
@@ -5158,10 +5120,10 @@
 		"nisomerayo",
 		[
 			"1sg.sbj",
-			"nar",
 			"23.loc",
-			"fv",
-			"appl"
+			"appl",
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -5180,8 +5142,8 @@
 	[
 		"nitulwana",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -5204,9 +5166,9 @@
 	[
 		"tukwiraku",
 		[
+			"prog",
 			"1pl.sbj",
 			"17.loc",
-			"prog",
 			"fv"
 		]
 	],
@@ -5220,8 +5182,8 @@
 	[
 		"twayegaanga",
 		[
-			"1pl.sbj",
 			"hab",
+			"1pl.sbj",
 			"pst",
 			"fv"
 		]
@@ -5258,8 +5220,8 @@
 	[
 		"eisasira",
 		[
-			"1pl.sbj",
 			"pfv",
+			"1pl.sbj",
 			"pst",
 			"fv"
 		]
@@ -5285,7 +5247,6 @@
 	[
 		"wabinyonyi",
 		[
-			"?",
 			"9"
 		]
 	],
@@ -5302,10 +5263,10 @@
 	[
 		"nitwawereize",
 		[
-			"1pl.sbj",
+			"pfv",
 			"pst",
 			"nar",
-			"pfv"
+			"1pl.sbj"
 		]
 	],
 	[
@@ -5318,15 +5279,14 @@
 	[
 		"yali",
 		[
-			"23sbj",
 			"pst",
+			"23sbj",
 			"cop"
 		]
 	],
 	[
 		"egwirewo",
 		[
-			"pfv",
 			"23sbj",
 			"16.loc"
 		]
@@ -5351,9 +5311,9 @@
 	[
 		"nali",
 		[
-			"cop",
 			"pst",
-			"1sg.sbj"
+			"1sg.sbj",
+			"cop"
 		]
 	],
 	[
@@ -5366,16 +5326,15 @@
 	[
 		"kuuremu",
 		[
-			"18.loc",
-			"pfv"
+			"18.loc"
 		]
 	],
 	[
 		"nanjuna",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -5388,18 +5347,18 @@
 	[
 		"yetebwanga",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
 		"omugenzi",
 		[
-			"1sbj",
+			"pass",
 			"hab",
-			"fv",
-			"pass"
+			"1sbj",
+			"fv"
 		]
 	],
 	[
@@ -5418,8 +5377,8 @@
 		"nkolaku",
 		[
 			"1sg.sbj",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -5431,9 +5390,9 @@
 	[
 		"ya",
 		[
+			"9",
 			"2sg.sbj",
-			"pst",
-			"9"
+			"pst"
 		]
 	],
 	[
@@ -5458,10 +5417,10 @@
 		"ninamukobere",
 		[
 			"1sg.sbj",
-			"pfv",
 			"1obj",
-			"nar",
-			"pst"
+			"pfv",
+			"pst",
+			"nar"
 		]
 	],
 	[
@@ -5479,27 +5438,27 @@
 	[
 		"okwabanga",
 		[
-			"aug",
-			"fv",
 			"hab",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
 		"okwiza",
 		[
-			"2sg.sbj",
-			"prog",
 			"cop",
-			"fv"
+			"2sg.sbj",
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"kwefaaku",
 		[
-			"refl",
+			"fv",
 			"inf",
-			"fv"
+			"refl"
 		]
 	],
 	[
@@ -5509,8 +5468,8 @@
 	[
 		"gwa",
 		[
-			"3",
-			"17.loc"
+			"17.loc",
+			"3"
 		]
 	],
 	[
@@ -5563,8 +5522,8 @@
 	[
 		"ya",
 		[
-			"8",
-			"9"
+			"9",
+			"8"
 		]
 	],
 	[
@@ -5574,8 +5533,8 @@
 	[
 		"nyemereire",
 		[
-			"pfv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
@@ -5603,8 +5562,8 @@
 	[
 		"nkutambulamu",
 		[
-			"1sg.sbj",
 			"18.loc",
+			"1sg.sbj",
 			"fv",
 			"rpog"
 		]
@@ -5648,9 +5607,7 @@
 	],
 	[
 		"okwo",
-		[
-			"17"
-		]
+		[]
 	],
 	[
 		"ninatandikire",
@@ -5675,9 +5632,9 @@
 	[
 		"nairayo",
 		[
+			"23.loc",
 			"1sbj",
 			"nar",
-			"23.loc",
 			"fv"
 		]
 	],
@@ -5685,9 +5642,9 @@
 		"tiyali",
 		[
 			"1sbj",
-			"neg",
 			"pst",
-			"cop"
+			"cop",
+			"neg"
 		]
 	],
 	[
@@ -5699,10 +5656,10 @@
 	[
 		"twakiremu",
 		[
-			"1pl.sbj",
 			"pst",
-			"7obj",
-			"pfv"
+			"1pl.sbj",
+			"pfv",
+			"7obj"
 		]
 	],
 	[
@@ -5723,11 +5680,11 @@
 	[
 		"lutalo",
 		[
-			"s.rel",
-			"16.loc",
-			"15sbj",
+			"pst",
 			"cop",
-			"pst"
+			"15sbj",
+			"16.loc",
+			"s.rel"
 		]
 	],
 	[
@@ -5757,8 +5714,8 @@
 	[
 		"awo",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"cop"
 		]
 	],
@@ -5766,8 +5723,8 @@
 		"olwa",
 		[
 			"aug",
-			"11",
-			"9"
+			"9",
+			"11"
 		]
 	],
 	[
@@ -5834,11 +5791,11 @@
 	[
 		"ekikwetebwa",
 		[
+			"pass",
+			"prog",
 			"7sbj",
 			"s.rel",
-			"prog",
-			"fv",
-			"pass"
+			"fv"
 		]
 	],
 	[
@@ -5888,10 +5845,10 @@
 	[
 		"ekiro",
 		[
-			"aug",
 			"18.loc",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -5901,10 +5858,10 @@
 	[
 		"nitugaitibwa",
 		[
+			"pass",
 			"1pl.sbj",
 			"nar",
-			"fv",
-			"pass"
+			"fv"
 		]
 	],
 	[
@@ -5970,9 +5927,9 @@
 	[
 		"eyalowo",
 		[
-			"pst",
-			"16.loc",
 			"9sbj",
+			"16.loc",
+			"pst",
 			"cop"
 		]
 	],
@@ -6013,8 +5970,8 @@
 	[
 		"wa",
 		[
-			"1",
-			"14"
+			"14",
+			"1"
 		]
 	],
 	[
@@ -6030,9 +5987,9 @@
 	[
 		"nanyanjula",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -6040,9 +5997,9 @@
 		"ewaabwe",
 		[
 			"aug",
+			"1",
 			"2",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -6110,9 +6067,9 @@
 		"purogulamu",
 		[
 			"9obj",
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -6147,10 +6104,10 @@
 	[
 		"abasalibweku",
 		[
-			"PASS:PFV",
 			"1sbj",
 			"2obj",
-			"17.loc"
+			"17.loc",
+			"pass:pfv"
 		]
 	],
 	[
@@ -6167,8 +6124,8 @@
 		"nibanyendya",
 		[
 			"2sbj",
-			"nar",
 			"1sg.obj",
+			"nar",
 			"fv"
 		]
 	],
@@ -6203,8 +6160,8 @@
 		"omu",
 		[
 			"aug",
-			"1obj",
-			"9"
+			"9",
+			"1obj"
 		]
 	],
 	[
@@ -6220,19 +6177,19 @@
 	[
 		"akaligangamu",
 		[
-			"s.rel",
-			"18.loc",
 			"12sbj",
-			"fv",
-			"hab"
+			"18.loc",
+			"hab",
+			"s.rel",
+			"fv"
 		]
 	],
 	[
 		"nikasasulisya",
 		[
-			"caus",
 			"1sg.sbj",
 			"12obj",
+			"caus",
 			"fv"
 		]
 	],
@@ -6252,10 +6209,10 @@
 		"nakasasulanga",
 		[
 			"1sg.sbj",
-			"pst",
+			"hab",
 			"12obj",
-			"fv",
-			"hab"
+			"pst",
+			"fv"
 		]
 	],
 	[
@@ -6279,26 +6236,26 @@
 	[
 		"zikumala",
 		[
+			"fv",
 			"prog",
-			"10sbj",
-			"fv"
+			"10sbj"
 		]
 	],
 	[
 		"ezasobola",
 		[
 			"s.rel",
-			"10sbj",
-			"fv"
+			"fv",
+			"10sbj"
 		]
 	],
 	[
 		"okulabiirira",
 		[
 			"aug",
-			"fv",
+			"appl",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -6318,8 +6275,8 @@
 	[
 		"nibibbiiya",
 		[
-			"nar",
 			"8sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -6335,9 +6292,9 @@
 		"ankooremu",
 		[
 			"1sbj",
-			"1sg.obj",
+			"pfv",
 			"18.loc",
-			"pfv"
+			"1sg.obj"
 		]
 	],
 	[
@@ -6355,8 +6312,8 @@
 	[
 		"bijuliize",
 		[
-			"pfv",
-			"8sbj"
+			"8sbj",
+			"pfv"
 		]
 	],
 	[
@@ -6377,10 +6334,10 @@
 		"nikikaliira",
 		[
 			"1sg.sbj",
-			"nar",
-			"fv",
 			"appl",
-			"7obj"
+			"nar",
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -6410,10 +6367,10 @@
 	[
 		"amaani",
 		[
-			"aug",
 			"18.loc",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -6468,8 +6425,8 @@
 		"tukwongera",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -6495,8 +6452,8 @@
 	[
 		"nitwega",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -6558,9 +6515,9 @@
 	[
 		"omukulu",
 		[
+			"1",
 			"1pl",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -6579,9 +6536,9 @@
 		"bamwetanga",
 		[
 			"2sbj",
+			"hab",
 			"1obj",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -6600,8 +6557,8 @@
 	[
 		"kya",
 		[
-			"7",
-			"14"
+			"14",
+			"7"
 		]
 	],
 	[
@@ -6627,8 +6584,8 @@
 	[
 		"waliwo",
 		[
-			"16sbj",
 			"16.loc",
+			"16sbj",
 			"cop"
 		]
 	],
@@ -6636,8 +6593,8 @@
 		"nebitusobera",
 		[
 			"1pl.sbj",
-			"nar",
 			"8sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -6657,18 +6614,18 @@
 	[
 		"tindinazo",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"nasulanga",
 		[
 			"1sg.sbj",
+			"hab",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -6704,8 +6661,8 @@
 		"tukwikara",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -6721,9 +6678,9 @@
 	[
 		"amwei",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -6762,16 +6719,15 @@
 	[
 		"wa",
 		[
-			"1",
-			"7"
+			"7",
+			"1"
 		]
 	],
 	[
 		"kyambongo",
 		[
 			"aug",
-			"7",
-			"?"
+			"7"
 		]
 	],
 	[
@@ -6780,10 +6736,6 @@
 			"aug",
 			"18.loc"
 		]
-	],
-	[
-		"kakooge",
-		[]
 	],
 	[
 		"omu",
@@ -6796,6 +6748,14 @@
 		"ntandika",
 		[
 			"aug",
+			"fv",
+			"inf"
+		]
+	],
+	[
+		"okwega",
+		[
+			"aug",
 			"inf",
 			"fv"
 		]
@@ -6803,17 +6763,17 @@
 	[
 		"nimbaayo",
 		[
-			"23.loc",
 			"nar",
 			"1sg.sbj",
+			"23.loc",
 			"cop"
 		]
 	],
 	[
 		"namuweerya",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -6829,8 +6789,8 @@
 		"nisombanga",
 		[
 			"1sg.sbj",
-			"nar",
 			"hab",
+			"nar",
 			"fv"
 		]
 	],
@@ -6850,13 +6810,13 @@
 	[
 		"ginasomerangaku",
 		[
-			"9sbj",
-			"17.loc",
-			"1sg.obj",
-			"pst",
-			"fv",
 			"hab",
-			"appl"
+			"pst",
+			"1sg.obj",
+			"appl",
+			"17.loc",
+			"9sbj",
+			"fv"
 		]
 	],
 	[
@@ -6878,8 +6838,8 @@
 		"nibatukoba",
 		[
 			"2sbj",
-			"nar",
 			"1pl.obj",
+			"nar",
 			"fv"
 		]
 	],
@@ -6887,7 +6847,6 @@
 		"katubatwae",
 		[
 			"1pl.sbj",
-			"hort",
 			"2obj",
 			"sbjv"
 		]
@@ -6942,10 +6901,10 @@
 	[
 		"kampala",
 		[
-			"neg",
 			"1sg.sbj",
-			"pst",
 			"23.loc",
+			"neg",
+			"pst",
 			"fv"
 		]
 	],
@@ -6958,6 +6917,12 @@
 		[
 			"add.foc",
 			"1"
+		]
+	],
+	[
+		"yeena",
+		[
+			"add.foc"
 		]
 	],
 	[
@@ -6976,8 +6941,8 @@
 	[
 		"twasomanga",
 		[
-			"1pl.sbj",
 			"hab",
+			"1pl.sbj",
 			"pst",
 			"fv"
 		]
@@ -7044,18 +7009,18 @@
 		"nabaangayo",
 		[
 			"1sg.sbj",
-			"fv",
+			"hab",
 			"23.loc",
-			"hab"
+			"fv"
 		]
 	],
 	[
 		"okugezesebwa",
 		[
-			"aug",
-			"fv",
 			"pass",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -7100,8 +7065,8 @@
 		"nairaku",
 		[
 			"1sbj",
-			"nar",
 			"17.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -7137,9 +7102,9 @@
 	[
 		"nampeerya",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -7170,9 +7135,9 @@
 	[
 		"namperya",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -7185,9 +7150,9 @@
 	[
 		"nankoba",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -7213,9 +7178,9 @@
 	[
 		"nankola",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -7226,11 +7191,11 @@
 	[
 		"nanyegesyanga",
 		[
+			"hab",
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -7240,53 +7205,53 @@
 	[
 		"nanyendya",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
 	[
 		"nanyikiriza",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
 	[
 		"okwabaangayo",
 		[
-			"aug",
-			"fv",
-			"23.loc",
 			"hab",
-			"inf"
+			"23.loc",
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
 		"okunyegesyanga",
 		[
-			"aug",
 			"hab",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
 		"atusyoma",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"fv"
 		]
 	],
 	[
 		"nayaba",
 		[
-			"1sbj",
 			"foc",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -7307,10 +7272,10 @@
 	[
 		"nayabanga",
 		[
+			"hab",
 			"1sbj",
 			"nar",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -7425,8 +7390,7 @@
 	[
 		"omwigombolola",
 		[
-			"5",
-			"?"
+			"5"
 		]
 	],
 	[
@@ -7444,10 +7408,10 @@
 		"nkulugiraanga",
 		[
 			"1sg.sbj",
-			"prog",
-			"fv",
 			"hab",
-			"appl"
+			"prog",
+			"appl",
+			"fv"
 		]
 	],
 	[
@@ -7498,8 +7462,8 @@
 	[
 		"ekyalowo",
 		[
-			"16.loc",
 			"9sbj",
+			"16.loc",
 			"cop"
 		]
 	],
@@ -7574,8 +7538,8 @@
 	[
 		"niyo",
 		[
-			"pst",
 			"9sbj",
+			"pst",
 			"pfv"
 		]
 	],
@@ -7597,8 +7561,8 @@
 	[
 		"uganda",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -7704,8 +7668,8 @@
 		"tetwina",
 		[
 			"1pl.sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -7723,16 +7687,16 @@
 		"tukuluga",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"tukwira",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -7743,8 +7707,8 @@
 		"tukuweereza",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -7756,8 +7720,8 @@
 	[
 		"twali",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"cop"
 		]
 	],
@@ -7765,8 +7729,8 @@
 		"tukwega",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -7796,8 +7760,7 @@
 	[
 		"buseebwe",
 		[
-			"9",
-			"?"
+			"9"
 		]
 	],
 	[
@@ -7837,9 +7800,9 @@
 	[
 		"namaliriirye",
 		[
-			"pfv",
 			"pst",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
@@ -7848,6 +7811,14 @@
 			"pst",
 			"1sg.sbj",
 			"fv"
+		]
+	],
+	[
+		"ni",
+		[
+			"fv",
+			"nar",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -7886,8 +7857,8 @@
 	[
 		"ekwira",
 		[
-			"prog",
 			"9sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -7926,17 +7897,9 @@
 	[
 		"nidokoka",
 		[
+			"fv",
 			"nar",
-			"1sg.sbj",
-			"fv"
-		]
-	],
-	[
-		"nali",
-		[
-			"pst",
-			"1sg.sbj",
-			"cop"
+			"1sg.sbj"
 		]
 	],
 	[
@@ -7948,10 +7911,10 @@
 	[
 		"elikusoka",
 		[
-			"s.rel",
 			"prog",
-			"fv",
-			"5sbj"
+			"5sbj",
+			"s.rel",
+			"fv"
 		]
 	],
 	[
@@ -8002,8 +7965,8 @@
 	[
 		"twasookere",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -8014,8 +7977,8 @@
 	[
 		"esiniya",
 		[
-			"1sg.sbj",
-			"fv"
+			"fv",
+			"1sg.sbj"
 		]
 	],
 	[
@@ -8027,9 +7990,9 @@
 	[
 		"nimbazaamu",
 		[
+			"18.loc",
 			"1sg.sbj",
 			"nar",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -8041,9 +8004,9 @@
 		"nimpagisyayo",
 		[
 			"1sg.sbj",
+			"23.loc",
 			"nar",
-			"fv",
-			"23.loc"
+			"fv"
 		]
 	],
 	[
@@ -8058,8 +8021,8 @@
 	[
 		"twaira",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -8070,11 +8033,11 @@
 	[
 		"bwa",
 		[
-			"aug",
 			"14",
+			"aug",
+			"inf",
 			"fv",
-			"refl",
-			"inf"
+			"refl"
 		]
 	],
 	[
@@ -8094,15 +8057,15 @@
 		"ya",
 		[
 			"1",
-			"assoc",
-			"1"
+			"1",
+			"assoc"
 		]
 	],
 	[
 		"nagingiire",
 		[
-			"9obj",
 			"pst",
+			"9obj",
 			"1sg.sbj",
 			"pfv"
 		]
@@ -8110,10 +8073,10 @@
 	[
 		"ninaali",
 		[
-			"cop",
 			"pst",
 			"nar",
-			"1sg.sbj"
+			"1sg.sbj",
+			"cop"
 		]
 	],
 	[
@@ -8139,10 +8102,10 @@
 	[
 		"ninamalirirye",
 		[
-			"pfv",
 			"pst",
 			"nar",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
@@ -8156,8 +8119,8 @@
 		[
 			"2sbj",
 			"neg",
-			"nar",
 			"pst",
+			"nar",
 			"fv"
 		]
 	],
@@ -8193,8 +8156,8 @@
 	[
 		"kya",
 		[
-			"7",
-			"9"
+			"9",
+			"7"
 		]
 	],
 	[
@@ -8210,24 +8173,23 @@
 	[
 		"ninkiramu",
 		[
-			"fv",
 			"nar",
+			"1sg.sbj",
 			"7obj",
-			"1sg.sbj"
+			"fv"
 		]
 	],
 	[
 		"ninkoba",
 		[
+			"fv",
 			"nar",
-			"1sg.sbj",
-			"fv"
+			"1sg.sbj"
 		]
 	],
 	[
 		"lukikirye",
 		[
-			"pfv",
 			"11sbj"
 		]
 	],
@@ -8269,19 +8231,19 @@
 		"ninsyomanga",
 		[
 			"1sg.sbj",
-			"nar",
 			"hab",
+			"nar",
 			"fv"
 		]
 	],
 	[
 		"nigagulisya",
 		[
-			"caus",
 			"1sg.sbj",
+			"caus",
+			"fv",
 			"nar",
-			"6obj",
-			"fv"
+			"6obj"
 		]
 	],
 	[
@@ -8315,9 +8277,9 @@
 		"ninyegera",
 		[
 			"1sg.sbj",
+			"appl",
 			"nar",
-			"fv",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -8327,18 +8289,12 @@
 	[
 		"lya",
 		[
-			"5",
-			"9"
+			"9",
+			"5"
 		]
 	],
 	[
 		"isaasira",
-		[
-			"rc"
-		]
-	],
-	[
-		"rc",
 		[]
 	],
 	[
@@ -8359,8 +8315,8 @@
 		"egikwaba",
 		[
 			"4sbj",
-			"s.rel",
 			"prog",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -8375,8 +8331,8 @@
 		"ninyikyayo",
 		[
 			"1sg.sbj",
-			"nar",
 			"23.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -8412,8 +8368,7 @@
 	[
 		"wobulenzi",
 		[
-			"7",
-			"?"
+			"7"
 		]
 	],
 	[
@@ -8441,15 +8396,15 @@
 	[
 		"nsomereire",
 		[
-			"APPL:PFV",
-			"1sg.sbj"
+			"1sg.sbj",
+			"appl:pfv"
 		]
 	],
 	[
 		"nituloleera",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -8461,17 +8416,17 @@
 		"ogubba",
 		[
 			"aug",
-			"cop",
-			"3sbj"
+			"3sbj",
+			"cop"
 		]
 	],
 	[
 		"gubairewo",
 		[
-			"pfv",
-			"16.loc",
 			"3sbj",
-			"cop"
+			"16.loc",
+			"cop",
+			"pfv"
 		]
 	],
 	[
@@ -8545,21 +8500,14 @@
 	[
 		"nintunda",
 		[
-			"nar",
 			"fv",
+			"nar",
 			"1sg.sbj"
 		]
 	],
 	[
 		"kibuga",
 		[]
-	],
-	[
-		"kya",
-		[
-			"7",
-			"?"
-		]
 	],
 	[
 		"nta",
@@ -8636,16 +8584,16 @@
 		"lwa",
 		[
 			"pass",
-			"fv",
 			"11",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
 		"ntuba",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"cop"
 		]
 	],
@@ -8664,24 +8612,24 @@
 	[
 		"ntuliga",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
 	[
 		"ntusoma",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
 	[
 		"ntwira",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -8694,9 +8642,9 @@
 	[
 		"waiswe",
 		[
+			"1",
 			"1pl",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -8721,8 +8669,8 @@
 	[
 		"ntwiza",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -8740,8 +8688,8 @@
 	[
 		"ntwongera",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -8794,21 +8742,21 @@
 	[
 		"ogwalemere",
 		[
-			"s.rel",
-			"pst",
 			"pfv",
-			"3sbj"
+			"s.rel",
+			"3sbj",
+			"pst"
 		]
 	],
 	[
 		"okugusyatukiraku",
 		[
-			"aug",
-			"17.loc",
 			"3obj",
-			"fv",
+			"aug",
+			"appl",
+			"17.loc",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -8822,8 +8770,8 @@
 		[
 			"aug",
 			"2obj",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -8842,12 +8790,12 @@
 		"luduuli",
 		[
 			"s.rel",
-			"9sbj",
-			"16.loc",
-			"cop",
+			"hab",
 			"pst",
-			"fv",
-			"hab"
+			"cop",
+			"16.loc",
+			"9sbj",
+			"fv"
 		]
 	],
 	[
@@ -8887,23 +8835,19 @@
 	],
 	[
 		"nilyaweireku",
-		[
-			"***"
-		]
+		[]
 	],
 	[
 		"erya",
-		[
-			"***"
-		]
+		[]
 	],
 	[
 		"kugezesebwa",
 		[
-			"nar",
+			"5sbj",
 			"17.loc",
 			"pst",
-			"5sbj"
+			"nar"
 		]
 	],
 	[
@@ -8919,8 +8863,8 @@
 		[
 			"1sg.sbj",
 			"pfv",
-			"nar",
-			"17.loc"
+			"17.loc",
+			"nar"
 		]
 	],
 	[
@@ -8973,8 +8917,8 @@
 	[
 		"mukurwizukira",
 		[
-			"11obj",
 			"2pl.sbj",
+			"11obj",
 			"prog",
 			"fv"
 		]
@@ -8982,9 +8926,9 @@
 	[
 		"olwaliwo",
 		[
+			"cop",
 			"aug",
 			"16.loc",
-			"cop",
 			"pst",
 			"11sbj"
 		]
@@ -9034,8 +8978,8 @@
 	[
 		"kwa",
 		[
-			"9",
-			"15"
+			"15",
+			"9"
 		]
 	],
 	[
@@ -9048,8 +8992,8 @@
 	[
 		"ntugisoma",
 		[
-			"1pl.sbj",
 			"9obj",
+			"1pl.sbj",
 			"nar",
 			"fv"
 		]
@@ -9086,8 +9030,8 @@
 		"okujumuula",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -9149,8 +9093,8 @@
 		"kusai",
 		[
 			"2sbj",
-			"1sg.obj",
-			"caus"
+			"caus",
+			"1sg.obj"
 		]
 	],
 	[
@@ -9167,8 +9111,8 @@
 	[
 		"gwa",
 		[
-			"pst",
 			"3sbj",
+			"pst",
 			"cop"
 		]
 	],
@@ -9202,10 +9146,10 @@
 	[
 		"okumbyala",
 		[
-			"aug",
 			"1sg.obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -9233,9 +9177,9 @@
 	[
 		"amwe",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -9250,8 +9194,8 @@
 		"nagula",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -9283,8 +9227,8 @@
 		"n'asiima",
 		[
 			"1sbj",
-			"nar",
 			"pst",
+			"nar",
 			"fv"
 		]
 	],
@@ -9292,8 +9236,8 @@
 		"omwimulaku",
 		[
 			"1obj",
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -9306,9 +9250,9 @@
 	[
 		"ekyambogo",
 		[
-			"1sbj",
 			"hab",
 			"cop",
+			"1sbj",
 			"pst",
 			"fv"
 		]
@@ -9332,10 +9276,10 @@
 	[
 		"likwetebwa",
 		[
-			"prog",
-			"fv",
 			"pass",
-			"5sbj"
+			"prog",
+			"5sbj",
+			"fv"
 		]
 	],
 	[
@@ -9368,9 +9312,9 @@
 	[
 		"tukwiza",
 		[
+			"fv",
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"prog"
 		]
 	],
 	[
@@ -9404,8 +9348,8 @@
 	[
 		"twayeganga",
 		[
-			"1pl.sbj",
 			"hab",
+			"1pl.sbj",
 			"pst",
 			"fv"
 		]
@@ -9431,11 +9375,11 @@
 	[
 		"yambonanga",
 		[
-			"1sbj",
+			"hab",
 			"1sg.obj",
+			"1sbj",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -9547,9 +9491,9 @@
 	[
 		"okusoma",
 		[
-			"pfv",
+			"15sbj",
 			"pst",
-			"15sbj"
+			"pfv"
 		]
 	],
 	[
@@ -9594,9 +9538,9 @@
 		"okukobera",
 		[
 			"aug",
-			"fv",
+			"appl",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -9677,9 +9621,9 @@
 		"balikukubba",
 		[
 			"2sbj",
-			"fv",
+			"2sg.obj",
 			"fut",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -9699,8 +9643,8 @@
 	[
 		"byakwega",
 		[
-			"8",
 			"inf",
+			"8",
 			"fv"
 		]
 	],
@@ -9752,10 +9696,10 @@
 	[
 		"tukukwatira",
 		[
-			"1pl.sbj",
 			"prog",
-			"fv",
-			"appl"
+			"appl",
+			"1pl.sbj",
+			"fv"
 		]
 	],
 	[
@@ -9774,8 +9718,8 @@
 	[
 		"lwona",
 		[
-			"11",
-			"foc"
+			"foc",
+			"11"
 		]
 	],
 	[
@@ -9846,10 +9790,10 @@
 	[
 		"okubuulya",
 		[
-			"pfv",
 			"fut",
 			"prog",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
@@ -9857,8 +9801,8 @@
 		[
 			"2pl.sbj",
 			"12obj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -9925,10 +9869,10 @@
 	[
 		"akusumbira",
 		[
+			"2sg.obj",
 			"1sbj",
-			"fv",
 			"appl",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -9941,8 +9885,8 @@
 		"buni",
 		[
 			"1pl.sbj",
-			"16.loc",
-			"fv"
+			"fv",
+			"16.loc"
 		]
 	],
 	[
@@ -9990,10 +9934,10 @@
 	[
 		"twateireyo",
 		[
-			"1pl.sbj",
+			"23.loc",
 			"pfv",
-			"pst",
-			"23.loc"
+			"1pl.sbj",
+			"pst"
 		]
 	],
 	[
@@ -10051,8 +9995,8 @@
 		[
 			"1pl.sbj",
 			"2obj",
-			"appl",
-			"fv"
+			"fv",
+			"appl"
 		]
 	],
 	[
@@ -10083,9 +10027,7 @@
 	],
 	[
 		"nabyetereka",
-		[
-			"?"
-		]
+		[]
 	],
 	[
 		"omukagiri",
@@ -10102,7 +10044,7 @@
 		"bwamwe",
 		[
 			"14",
-			"1.",
+			"1",
 			"assoc"
 		]
 	],
@@ -10110,8 +10052,8 @@
 		"obwa",
 		[
 			"aug",
-			"7",
-			"14"
+			"14",
+			"7"
 		]
 	],
 	[
@@ -10143,8 +10085,8 @@
 	[
 		"obwoine",
 		[
-			"2sg.sbj",
-			"pfv"
+			"pfv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -10274,15 +10216,15 @@
 		"yaamwe",
 		[
 			"9",
-			"1.",
+			"1",
 			"assoc"
 		]
 	],
 	[
 		"yakiduuli",
 		[
-			"7",
-			"9"
+			"9",
+			"7"
 		]
 	],
 	[
@@ -10300,8 +10242,8 @@
 		"tasumbata",
 		[
 			"1sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -10328,8 +10270,8 @@
 		"okulabula",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -10341,16 +10283,16 @@
 	[
 		"nikwo",
 		[
-			"cop",
-			"15s"
+			"15s",
+			"cop"
 		]
 	],
 	[
 		"okwefaaku",
 		[
-			"refl",
 			"2sg.sbj",
-			"prog"
+			"prog",
+			"refl"
 		]
 	],
 	[
@@ -10416,16 +10358,16 @@
 		"omukyala",
 		[
 			"pst",
-			"1sg.sbj",
-			"pfv"
+			"pfv",
+			"1sg.sbj"
 		]
 	],
 	[
 		"nyamuganda",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -10445,8 +10387,8 @@
 		"oku",
 		[
 			"1sg.sbj",
-			"23.loc",
-			"fv"
+			"fv",
+			"23.loc"
 		]
 	],
 	[
@@ -10503,8 +10445,8 @@
 	[
 		"mwirange",
 		[
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -10588,8 +10530,8 @@
 		"akooreku",
 		[
 			"1sbj",
-			"17.loc",
-			"pfv"
+			"pfv",
+			"17.loc"
 		]
 	],
 	[
@@ -10606,8 +10548,8 @@
 	[
 		"tukoore",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -10626,9 +10568,9 @@
 	[
 		"bukunaanka",
 		[
-			"prog",
 			"14sbj",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -10650,9 +10592,9 @@
 		"yabaweire",
 		[
 			"1sbj",
-			"2obj",
+			"pst",
 			"pfv",
-			"pst"
+			"2obj"
 		]
 	],
 	[
@@ -10707,8 +10649,8 @@
 		[
 			"2sbj",
 			"12obj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -10781,12 +10723,12 @@
 	[
 		"nakuyooraku",
 		[
+			"2sg.obj",
 			"1sbj",
-			"nar",
-			"17.loc",
-			"fv",
 			"appl",
-			"2sg.obj"
+			"17.loc",
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -10798,9 +10740,9 @@
 	[
 		"ekikutegeeza",
 		[
-			"7sbj",
 			"s.rel",
-			"prog"
+			"prog",
+			"7sbj"
 		]
 	],
 	[
@@ -10825,8 +10767,8 @@
 	[
 		"n'ekiizula",
 		[
-			"7sbj",
-			"nar"
+			"nar",
+			"7sbj"
 		]
 	],
 	[
@@ -10871,8 +10813,8 @@
 		[
 			"2sbj",
 			"16.loc",
-			"cop",
-			"fv"
+			"fv",
+			"cop"
 		]
 	],
 	[
@@ -10894,29 +10836,17 @@
 	[
 		"mbendya",
 		[
-			"2obj",
 			"1sg.sbj",
+			"2obj",
 			"fv"
 		]
 	],
 	[
 		"nabyalibwe",
 		[
-			"PASS:PFV",
 			"pst",
-			"1sg.sbj"
-		]
-	],
-	[
-		"waiyala",
-		[
-			"9?"
-		]
-	],
-	[
-		"e",
-		[
-			"9?"
+			"1sg.sbj",
+			"pass:pfv"
 		]
 	],
 	[
@@ -10926,18 +10856,12 @@
 		]
 	],
 	[
-		"adi",
-		[
-			"9?"
-		]
-	],
-	[
 		"okukutegeeza",
 		[
+			"2sg.obj",
 			"aug",
-			"fv",
 			"inf",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -10968,8 +10892,8 @@
 	[
 		"erowo",
 		[
-			"16.loc",
 			"9sbj",
+			"16.loc",
 			"cop"
 		]
 	],
@@ -11024,8 +10948,8 @@
 	[
 		"kyabba",
 		[
-			"7sbj",
 			"fut",
+			"7sbj",
 			"cop"
 		]
 	],
@@ -11073,8 +10997,8 @@
 	[
 		"obileka",
 		[
-			"2sg.sbj",
 			"8obj",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -11082,8 +11006,8 @@
 		"n'omusaasira",
 		[
 			"1obj",
-			"nar",
 			"2sg.sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -11126,8 +11050,8 @@
 	[
 		"obafuna",
 		[
-			"2obj",
 			"2sg.sbj",
+			"2obj",
 			"fv"
 		]
 	],
@@ -11167,9 +11091,9 @@
 	[
 		"mbaire",
 		[
+			"2",
 			"1sg",
-			"assoc",
-			"2"
+			"assoc"
 		]
 	],
 	[
@@ -11184,9 +11108,9 @@
 		"bakwendyayo",
 		[
 			"2sbj",
+			"23.loc",
 			"prog",
-			"fv",
-			"23.loc"
+			"fv"
 		]
 	],
 	[
@@ -11208,16 +11132,16 @@
 	[
 		"okukakasa",
 		[
-			"pfv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
 		"nti",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -11234,9 +11158,9 @@
 		"mba",
 		[
 			"aug",
+			"2",
 			"1sg",
-			"assoc",
-			"2"
+			"assoc"
 		]
 	],
 	[
@@ -11287,9 +11211,9 @@
 	[
 		"nabamwe",
 		[
-			"1.",
-			"assoc",
-			"2"
+			"2",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -11307,10 +11231,10 @@
 		"mbakusuubira",
 		[
 			"2sbj",
-			"nar",
-			"fv",
+			"2sg.obj",
 			"appl",
-			"2sg.obj"
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -11356,8 +11280,8 @@
 		"n'ewekoombambe",
 		[
 			"foc",
-			"nar",
 			"2sg.sbj",
+			"nar",
 			"fv",
 			"refl"
 		]
@@ -11376,15 +11300,9 @@
 	[
 		"n'twiza",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
-		]
-	],
-	[
-		"nakasongola",
-		[
-			"?"
 		]
 	],
 	[
@@ -11404,17 +11322,17 @@
 	[
 		"nakasyoma",
 		[
+			"12obj",
 			"1sbj",
 			"nar",
-			"12obj",
 			"fv"
 		]
 	],
 	[
 		"tintegekere",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
 			"pfv"
 		]
 	],
@@ -11422,15 +11340,15 @@
 		"kwabbayo",
 		[
 			"inf",
-			"fv",
-			"23.loc"
+			"23.loc",
+			"fv"
 		]
 	],
 	[
 		"nalungirambe",
 		[
-			"1sbj",
 			"foc",
+			"1sbj",
 			"nar",
 			"fv"
 		]
@@ -11438,9 +11356,9 @@
 	[
 		"nataamu",
 		[
+			"18.loc",
 			"1sbj",
 			"nar",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -11461,8 +11379,8 @@
 		"nayakaarayo",
 		[
 			"1sg.sbj",
-			"pst",
 			"23.loc",
+			"pst",
 			"fv"
 		]
 	],
@@ -11475,16 +11393,16 @@
 		[
 			"pst",
 			"1sg.sbj",
-			"PASS:PFV"
+			"pass:pfv"
 		]
 	],
 	[
 		"okumusendasenda",
 		[
-			"aug",
 			"1obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -11509,18 +11427,18 @@
 	[
 		"akujunaku",
 		[
-			"17.loc",
+			"s.rel:1s",
 			"prog",
-			"fv",
-			"S.REL:1S"
+			"17.loc",
+			"fv"
 		]
 	],
 	[
 		"tulinawo",
 		[
 			"1pl.sbj",
-			"16.loc",
-			"fv"
+			"fv",
+			"16.loc"
 		]
 	],
 	[
@@ -11600,8 +11518,8 @@
 		"niipika",
 		[
 			"1sg.sbj",
-			"nar",
 			"23.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -11639,9 +11557,9 @@
 	[
 		"nitwikayo",
 		[
+			"23.loc",
 			"1pl.sbj",
 			"nar",
-			"23.loc",
 			"fv"
 		]
 	],
@@ -11663,8 +11581,8 @@
 		[
 			"appl",
 			"1sg.sbj",
-			"23.loc",
-			"fv"
+			"fv",
+			"23.loc"
 		]
 	],
 	[
@@ -11678,17 +11596,10 @@
 	[
 		"kubanga",
 		[
-			"aug",
 			"23.loc",
-			"fv",
-			"inf"
-		]
-	],
-	[
-		"nkyali",
-		[
-			"1sg.sbj",
-			"cop"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -11760,8 +11671,8 @@
 		[
 			"2sbj",
 			"12obj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -11787,17 +11698,17 @@
 	[
 		"eriwo",
 		[
-			"16.loc",
 			"9sbj",
+			"16.loc",
 			"cop"
 		]
 	],
 	[
 		"n'obatwala",
 		[
+			"2sg.sbj",
 			"2obj",
 			"nar",
-			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -11855,27 +11766,27 @@
 	[
 		"tinakubeyege",
 		[
-			"neg",
 			"1sg.sbj",
+			"2sg.obj",
+			"neg",
 			"sbjv",
-			"fut",
-			"2sg.obj"
+			"fut"
 		]
 	],
 	[
 		"obitwala",
 		[
-			"2sg.sbj",
 			"8obj",
+			"2sg.sbj",
 			"fv"
 		]
 	],
 	[
 		"okalyeku",
 		[
-			"17.loc",
-			"2sg.sbj",
 			"12obj",
+			"2sg.sbj",
+			"17.loc",
 			"sbjv"
 		]
 	],
@@ -11891,8 +11802,8 @@
 		"okungira",
 		[
 			"2sg.sbj",
-			"appl",
-			"fv"
+			"fv",
+			"appl"
 		]
 	],
 	[
@@ -11909,9 +11820,9 @@
 	[
 		"tinyenderye",
 		[
-			"neg",
+			"pfv",
 			"1sg.sbj",
-			"pfv"
+			"neg"
 		]
 	],
 	[
@@ -11969,8 +11880,8 @@
 		[
 			"neg",
 			"7sbj",
-			"fv",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -11984,18 +11895,18 @@
 		"wange",
 		[
 			"foc",
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
 		"te",
 		[
-			"appl",
-			"s.rel",
-			"1sg.obj",
 			"prog",
+			"1sg.obj",
+			"s.rel",
+			"appl",
 			"fv"
 		]
 	],
@@ -12015,12 +11926,12 @@
 	[
 		"wabatubonera",
 		[
+			"2sg.sbj",
 			"1pl.sbj",
 			"2obj",
-			"2sg.sbj",
-			"fv",
 			"appl",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -12068,8 +11979,8 @@
 		"omaama",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -12081,8 +11992,8 @@
 	[
 		"omuyamba",
 		[
-			"2sg.sbj",
 			"fv",
+			"2sg.sbj",
 			"1obj"
 		]
 	],
@@ -12112,18 +12023,18 @@
 	[
 		"yeenate",
 		[
-			"add.foc ",
 			"foc",
+			"add.foc ",
 			"1"
 		]
 	],
 	[
 		"okumwendya",
 		[
-			"aug",
 			"1obj",
-			"fv",
-			"inf"
+			"inf",
+			"aug",
+			"fv"
 		]
 	],
 	[
@@ -12186,9 +12097,9 @@
 	[
 		"baamu",
 		[
-			"2",
 			"2sg",
-			"assoc"
+			"assoc",
+			"2"
 		]
 	],
 	[
@@ -12199,8 +12110,8 @@
 		"ku",
 		[
 			"1pl.sbj",
-			"prog",
-			"pfv"
+			"pfv",
+			"prog"
 		]
 	],
 	[
@@ -12222,10 +12133,10 @@
 	[
 		"we",
 		[
-			"pfv",
-			"16.loc",
 			"3sbj",
-			"cop"
+			"16.loc",
+			"cop",
+			"pfv"
 		]
 	],
 	[
@@ -12236,7 +12147,7 @@
 		"agalamirire",
 		[
 			"1sbj",
-			"APPL:PFV"
+			"appl:pfv"
 		]
 	],
 	[
@@ -12270,8 +12181,8 @@
 	[
 		"mukaire",
 		[
-			"foc",
 			"12sbj",
+			"foc",
 			"fv"
 		]
 	],
@@ -12305,8 +12216,8 @@
 		"gaankwata",
 		[
 			"6sbj",
-			"1sg.obj",
-			"fv"
+			"fv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -12318,10 +12229,6 @@
 	],
 	[
 		"n'okumiira",
-		[]
-	],
-	[
-		"nabba",
 		[]
 	],
 	[
@@ -12359,8 +12266,8 @@
 		[
 			"2sbj",
 			"16.loc",
-			"cop",
-			"fv"
+			"fv",
+			"cop"
 		]
 	],
 	[
@@ -12378,10 +12285,10 @@
 	[
 		"tikaizanga",
 		[
-			"neg",
 			"12sbj",
-			"fv",
-			"hab"
+			"hab",
+			"neg",
+			"fv"
 		]
 	],
 	[
@@ -12450,10 +12357,10 @@
 	[
 		"mu",
 		[
+			"fv",
 			"prog",
 			"1sg.sbj",
-			"caus",
-			"fv"
+			"caus"
 		]
 	],
 	[
@@ -12501,8 +12408,8 @@
 	[
 		"naani",
 		[
-			"1obj",
-			"fv"
+			"fv",
+			"1obj"
 		]
 	],
 	[
@@ -12527,16 +12434,16 @@
 		"abaamu",
 		[
 			"aug",
-			"2",
 			"2sg",
-			"assoc"
+			"assoc",
+			"2"
 		]
 	],
 	[
 		"obakola",
 		[
-			"2obj",
 			"2sg.sbj",
+			"2obj",
 			"fv"
 		]
 	],
@@ -12565,8 +12472,8 @@
 	[
 		"mujeebale",
 		[
-			"1obj",
-			"sbjv"
+			"sbjv",
+			"1obj"
 		]
 	],
 	[
@@ -12606,9 +12513,9 @@
 		"eyankubbulanga",
 		[
 			"1sg.sbj",
+			"pst",
 			"1sbj",
-			"s.rel",
-			"pst"
+			"s.rel"
 		]
 	],
 	[
@@ -12622,8 +12529,8 @@
 		"kaija",
 		[
 			"2sbj",
-			"1obj",
 			"hab",
+			"1obj",
 			"pst",
 			"fv"
 		]
@@ -12691,17 +12598,17 @@
 		"gamuwa",
 		[
 			"6sbj",
-			"1obj",
-			"fv"
+			"fv",
+			"1obj"
 		]
 	],
 	[
 		"wafunayo",
 		[
-			"2sg.sbj",
 			"23.loc",
-			"fv",
-			"fut"
+			"2sg.sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -12752,8 +12659,8 @@
 	[
 		"we",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
@@ -12764,10 +12671,10 @@
 	[
 		"awo",
 		[
-			"add.foc",
 			"aug",
+			"inf",
 			"fv",
-			"inf"
+			"add.foc"
 		]
 	],
 	[
@@ -12777,8 +12684,8 @@
 	[
 		"omukagiiri",
 		[
-			"2sg.sbj",
 			"fut",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -12820,8 +12727,8 @@
 	[
 		"abakambi",
 		[
-			"fv",
-			"23.loc"
+			"23.loc",
+			"fv"
 		]
 	],
 	[
@@ -12862,10 +12769,10 @@
 	[
 		"omukaire",
 		[
-			"2sg.sbj",
-			"prog",
+			"cop",
 			"fut",
-			"cop"
+			"2sg.sbj",
+			"prog"
 		]
 	],
 	[
@@ -12892,8 +12799,8 @@
 		"nkumwendya",
 		[
 			"1sg.sbj",
-			"1obj",
 			"prog",
+			"1obj",
 			"fv"
 		]
 	],
@@ -12926,9 +12833,9 @@
 	[
 		"wasumbiremu",
 		[
+			"18.loc",
 			"pfv",
 			"2sg.sbj",
-			"18.loc",
 			"pst"
 		]
 	],
@@ -12947,9 +12854,9 @@
 	[
 		"amufaaku",
 		[
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -12978,9 +12885,9 @@
 	[
 		"tinibwo",
 		[
-			"neg",
+			"14s",
 			"cop",
-			"14s"
+			"neg"
 		]
 	],
 	[
@@ -12990,17 +12897,17 @@
 	[
 		"ati",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
 		"yeena",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -13037,8 +12944,8 @@
 		"okuteekateeka",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -13067,17 +12974,17 @@
 		"ki",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"kanda",
 		[
+			"appl",
 			"2obj",
-			"fv",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -13109,9 +13016,9 @@
 	[
 		"waamu",
 		[
-			"1",
 			"2sg",
-			"assoc"
+			"assoc",
+			"1"
 		]
 	],
 	[
@@ -13128,17 +13035,17 @@
 	[
 		"wamwe",
 		[
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
 		"mmwendya",
 		[
-			"1obj",
+			"fv",
 			"1sg.sbj",
-			"fv"
+			"1obj"
 		]
 	],
 	[
@@ -13159,8 +13066,8 @@
 		"bamweta",
 		[
 			"2sbj",
-			"sbjv",
-			"1obj"
+			"1obj",
+			"sbjv"
 		]
 	],
 	[
@@ -13185,8 +13092,8 @@
 	[
 		"ofuniireyo",
 		[
-			"2sg.sbj",
 			"23.loc",
+			"2sg.sbj",
 			"appl",
 			"sbjv"
 		]
@@ -13234,12 +13141,12 @@
 	[
 		"timwakalangaku",
 		[
-			"neg",
 			"1sg.sbj",
+			"hab",
 			"1obj",
+			"neg",
 			"17.loc",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -13251,10 +13158,10 @@
 	[
 		"twakukoba",
 		[
-			"1pl.sbj",
 			"prog",
-			"fv",
-			"fut"
+			"1pl.sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -13275,8 +13182,8 @@
 	[
 		"twasimbirewo",
 		[
-			"1pl.sbj",
 			"pfv",
+			"1pl.sbj",
 			"16.loc",
 			"pst"
 		]
@@ -13294,8 +13201,8 @@
 	[
 		"edi",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
@@ -13308,18 +13215,18 @@
 	[
 		"weebale",
 		[
-			"2sg.sbj",
-			"sbjv"
+			"sbjv",
+			"2sg.sbj"
 		]
 	],
 	[
 		"okubbaayo",
 		[
-			"aug",
-			"cop",
 			"23.loc",
-			"fv",
-			"inf"
+			"cop",
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -13387,9 +13294,9 @@
 	[
 		"bamwe",
 		[
-			"1.",
-			"assoc",
-			"2"
+			"2",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -13434,8 +13341,8 @@
 		[
 			"1sbj",
 			"pst",
-			"17.loc",
-			"pfv"
+			"pfv",
+			"17.loc"
 		]
 	],
 	[
@@ -13482,8 +13389,8 @@
 		"nkaryeku",
 		[
 			"1sg.sbj",
-			"17.loc",
 			"12obj",
+			"17.loc",
 			"sbjv"
 		]
 	],
@@ -13495,9 +13402,9 @@
 		"banyiriiriryewo",
 		[
 			"2sbj",
-			"16.loc",
+			"appl:pfv",
 			"1sg.obj",
-			"APPL:PFV"
+			"16.loc"
 		]
 	],
 	[
@@ -13523,9 +13430,9 @@
 	[
 		"bakyekoora",
 		[
-			"refl",
 			"2sbj",
-			"appl"
+			"appl",
+			"refl"
 		]
 	],
 	[
@@ -13539,15 +13446,15 @@
 	[
 		"gyamwei",
 		[
-			"1.",
-			"assoc",
-			"4"
+			"4",
+			"1",
+			"assoc"
 		]
 	],
 	[
 		"ya",
 		[
-			"1.",
+			"1",
 			"assoc"
 		]
 	],
@@ -13602,25 +13509,25 @@
 		"tiwabalekereire",
 		[
 			"neg",
-			"2obj",
 			"2sg.sbj",
+			"2obj",
 			"pst"
 		]
 	],
 	[
 		"tikisobola",
 		[
-			"neg",
 			"8sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"kuzwawo",
 		[
-			"16.loc",
 			"inf",
-			"fv"
+			"fv",
+			"16.loc"
 		]
 	],
 	[
@@ -13638,8 +13545,8 @@
 		"yakuwangula",
 		[
 			"1sbj",
-			"prog",
-			"pst"
+			"pst",
+			"prog"
 		]
 	],
 	[
@@ -13653,11 +13560,11 @@
 	[
 		"tokyetanga",
 		[
-			"neg",
 			"hab",
+			"neg",
 			"2sg.sbj",
-			"fv",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -13666,9 +13573,7 @@
 	],
 	[
 		"unclear",
-		[
-			"***"
-		]
+		[]
 	],
 	[
 		"waba",
@@ -13677,8 +13582,8 @@
 	[
 		"bo",
 		[
-			"16sbj",
 			"16.loc",
+			"16sbj",
 			"cop"
 		]
 	],
@@ -13686,9 +13591,9 @@
 		"waliwo",
 		[
 			"2sbj",
-			"s.rel",
+			"23.loc",
 			"cop",
-			"23.loc"
+			"s.rel"
 		]
 	],
 	[
@@ -13696,18 +13601,18 @@
 		[
 			"2sbj",
 			"12obj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
 		"baalekangaku",
 		[
 			"2sbj",
+			"hab",
 			"17.loc",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -13719,9 +13624,9 @@
 	[
 		"baizukirenge",
 		[
+			"sbjv",
 			"2obj",
-			"HAB:SBJV",
-			"sbjv"
+			"hab:sbjv"
 		]
 	],
 	[
@@ -13749,17 +13654,17 @@
 	[
 		"nimubaleka",
 		[
+			"2pl.sbj",
 			"2obj",
 			"nar",
-			"2pl.sbj",
 			"fv"
 		]
 	],
 	[
 		"nafumbiriirwe",
 		[
-			"pfv",
 			"pst",
+			"pfv",
 			"1sg.sbj"
 		]
 	],
@@ -13770,8 +13675,8 @@
 	[
 		"nkakwata",
 		[
-			"1sg.sbj",
-			"fv"
+			"fv",
+			"1sg.sbj"
 		]
 	],
 	[
@@ -13789,24 +13694,24 @@
 	[
 		"akukobanga",
 		[
-			"1sbj",
+			"hab",
 			"prog",
-			"fv",
-			"hab"
+			"1sbj",
+			"fv"
 		]
 	],
 	[
 		"tukoba",
 		[
-			"1pl.sbj",
-			"fv"
+			"fv",
+			"1pl.sbj"
 		]
 	],
 	[
 		"tuleete",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -13831,19 +13736,19 @@
 	[
 		"yanywananga",
 		[
+			"hab",
 			"1sbj",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
 		"oku",
 		[
-			"aug",
 			"12obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -13878,9 +13783,9 @@
 	[
 		"bakatuweire",
 		[
-			"cop",
+			"12sbj",
 			"fut",
-			"12sbj"
+			"cop"
 		]
 	],
 	[
@@ -13900,8 +13805,8 @@
 		"tavumbata",
 		[
 			"1sbj",
-			"neg",
-			"pst"
+			"pst",
+			"neg"
 		]
 	],
 	[
@@ -13928,8 +13833,8 @@
 	[
 		"bufuukire",
 		[
-			"14sbj",
-			"pfv"
+			"pfv",
+			"14sbj"
 		]
 	],
 	[
@@ -13978,8 +13883,8 @@
 	[
 		"kiriwo",
 		[
-			"7sbj",
 			"16.loc",
+			"7sbj",
 			"cop"
 		]
 	],
@@ -13998,11 +13903,11 @@
 	[
 		"omulimo",
 		[
+			"pst",
+			"1obj",
 			"caus",
 			"7sbj",
-			"s.rel",
-			"1obj",
-			"pst"
+			"s.rel"
 		]
 	],
 	[
@@ -14022,10 +13927,10 @@
 	[
 		"yakungulanga",
 		[
+			"hab",
 			"1sbj",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -14042,17 +13947,17 @@
 		"abafumbirwa",
 		[
 			"2sbj",
+			"pass",
 			"s.rel",
-			"fv",
-			"pass"
+			"fv"
 		]
 	],
 	[
 		"tibanoba",
 		[
 			"2obj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -14112,19 +14017,19 @@
 		"gy'okuliga",
 		[
 			"neg",
-			"nar",
 			"2sg.sbj",
-			"fv",
-			"fut"
+			"fut",
+			"nar",
+			"fv"
 		]
 	],
 	[
 		"tegwabulangawo",
 		[
+			"3sbj",
 			"neg",
 			"16.loc",
 			"pst",
-			"3sbj",
 			"fv"
 		]
 	],
@@ -14170,10 +14075,10 @@
 	[
 		"tinyabireyo",
 		[
-			"neg",
 			"1sg.sbj",
-			"pfv",
-			"23.loc"
+			"23.loc",
+			"neg",
+			"pfv"
 		]
 	],
 	[
@@ -14216,9 +14121,9 @@
 	[
 		"nimba",
 		[
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -14248,9 +14153,9 @@
 	[
 		"e",
 		[
+			"1",
 			"1pl",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -14273,9 +14178,9 @@
 		"mu",
 		[
 			"2sbj",
-			"neg",
 			"hab",
 			"prog",
+			"neg",
 			"fv"
 		]
 	],
@@ -14314,27 +14219,27 @@
 	[
 		"okumujuna",
 		[
-			"aug",
 			"1obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
 		"muwerye",
 		[
-			"1obj",
+			"sbjv",
 			"appl",
-			"sbjv"
+			"1obj"
 		]
 	],
 	[
 		"mutuleetere",
 		[
 			"2pl.sbj",
-			"1pl.obj",
 			"appl",
-			"sbjv"
+			"sbjv",
+			"1pl.obj"
 		]
 	],
 	[
@@ -14362,11 +14267,11 @@
 	[
 		"ebyabbanga",
 		[
-			"s.rel",
-			"cop",
-			"pst",
+			"hab",
 			"8sbj",
-			"hab"
+			"pst",
+			"cop",
+			"s.rel"
 		]
 	],
 	[
@@ -14429,25 +14334,25 @@
 	[
 		"njeenate",
 		[
-			"add.foc ",
-			"foc"
+			"foc",
+			"add.foc "
 		]
 	],
 	[
 		"tinakwenderye",
 		[
-			"neg",
 			"1sg.sbj",
-			"pfv",
 			"prog",
+			"neg",
+			"pfv",
 			"fut"
 		]
 	],
 	[
 		"nti",
 		[
-			"1pl.sbj",
-			"fv"
+			"fv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -14475,8 +14380,8 @@
 		"eyabyaire",
 		[
 			"1sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -14490,9 +14395,9 @@
 	[
 		"ntali",
 		[
-			"neg",
+			"cop",
 			"1sg.sbj",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -14518,9 +14423,9 @@
 		"okusanga",
 		[
 			"2sbj",
-			"s.rel",
 			"hab",
 			"prog",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -14557,8 +14462,8 @@
 		"akwekolesya",
 		[
 			"1sbj",
-			"prog",
-			"cop"
+			"cop",
+			"prog"
 		]
 	],
 	[
@@ -14578,8 +14483,8 @@
 		"nyirukayo",
 		[
 			"1sg.sbj",
-			"23.loc",
-			"fv"
+			"fv",
+			"23.loc"
 		]
 	],
 	[
@@ -14598,8 +14503,8 @@
 		[
 			"1sbj",
 			"pst",
-			"1sg.sbj",
-			"appl"
+			"appl",
+			"1sg.sbj"
 		]
 	],
 	[
@@ -14654,8 +14559,8 @@
 		"oku",
 		[
 			"1sg.sbj",
-			"1obj",
 			"23.loc",
+			"1obj",
 			"fv"
 		]
 	],
@@ -14676,8 +14581,8 @@
 	[
 		"omulamuce",
 		[
-			"2sg.sbj",
 			"sbjv",
+			"2sg.sbj",
 			"1obj"
 		]
 	],
@@ -14690,18 +14595,18 @@
 	[
 		"obatwalireku",
 		[
-			"2obj",
-			"17.loc",
 			"2sg.sbj",
 			"appl",
+			"2obj",
+			"17.loc",
 			"sbjv"
 		]
 	],
 	[
 		"obirya",
 		[
-			"2sg.sbj",
 			"8obj",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -14754,15 +14659,15 @@
 	[
 		"nkeire",
 		[
-			"pfv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
 		"kumumyenera",
 		[
-			"1obj",
 			"inf",
+			"1obj",
 			"appl"
 		]
 	],
@@ -14773,12 +14678,12 @@
 	[
 		"nataakubyaliire",
 		[
+			"2sg.obj",
+			"appl",
 			"neg",
 			"1sbj",
-			"nar",
 			"pst",
-			"appl",
-			"2sg.obj"
+			"nar"
 		]
 	],
 	[
@@ -14805,9 +14710,9 @@
 	[
 		"waamwe",
 		[
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -14824,18 +14729,18 @@
 		"omumperyeku",
 		[
 			"1obj",
-			"17.loc",
-			"2sg.sbj",
 			"1sg.obj",
 			"appl",
+			"2sg.sbj",
+			"17.loc",
 			"sbjv"
 		]
 	],
 	[
 		"mmutwale",
 		[
-			"1obj",
 			"1sg.sbj",
+			"1obj",
 			"sbjv"
 		]
 	],
@@ -14856,8 +14761,8 @@
 		"nkumuwa",
 		[
 			"1sg.sbj",
-			"1obj",
 			"prog",
+			"1obj",
 			"fv"
 		]
 	],
@@ -14865,8 +14770,8 @@
 		"natambulaku",
 		[
 			"1sbj",
-			"nar",
 			"17.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -14880,34 +14785,34 @@
 		"ezikumalamalaku",
 		[
 			"10sbj",
-			"s.rel",
 			"17.loc",
+			"s.rel",
 			"fv"
 		]
 	],
 	[
 		"otakobanga",
 		[
-			"neg.imp",
+			"hab",
+			"neg",
 			"2sg.sbj",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
 		"okuwemula",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"talina",
 		[
 			"1sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -14933,8 +14838,8 @@
 		"tomanya",
 		[
 			"2sg.sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -14946,8 +14851,8 @@
 	[
 		"twamaare",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -14955,9 +14860,9 @@
 		"kumusakira",
 		[
 			"1obj",
-			"fv",
+			"appl",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -14971,22 +14876,22 @@
 	[
 		"wabasiryanga",
 		[
-			"appl",
+			"hab",
 			"2sg.sbj",
+			"appl",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
 		"wabateirereku",
 		[
 			"pfv",
+			"2sg.sbj",
+			"appl",
 			"2obj",
 			"17.loc",
-			"2sg.sbj",
-			"pst",
-			"appl"
+			"pst"
 		]
 	],
 	[
@@ -15005,8 +14910,8 @@
 		"oli",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -15019,8 +14924,8 @@
 	[
 		"tokyabirya",
 		[
-			"neg",
 			"8obj",
+			"neg",
 			"2sg.sbj"
 		]
 	],
@@ -15044,9 +14949,9 @@
 		"balikumanya",
 		[
 			"aug",
-			"2",
 			"2sg",
-			"assoc"
+			"assoc",
+			"2"
 		]
 	],
 	[
@@ -15056,9 +14961,9 @@
 	[
 		"oyo",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -15081,10 +14986,10 @@
 	[
 		"yakolanga",
 		[
+			"hab",
 			"1sbj",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -15099,8 +15004,8 @@
 		"akwekoora",
 		[
 			"appl",
-			"1sbj",
 			"prog",
+			"1sbj",
 			"fv",
 			"refl"
 		]
@@ -15114,9 +15019,9 @@
 	[
 		"gyamwe",
 		[
-			"1.",
-			"assoc",
-			"4"
+			"4",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -15241,8 +15146,8 @@
 		"osomaku",
 		[
 			"2sg.sbj",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -15278,10 +15183,6 @@
 		]
 	],
 	[
-		"okwo",
-		[]
-	],
-	[
 		"oyo",
 		[
 			"1sbj",
@@ -15295,10 +15196,10 @@
 	[
 		"yaabireyo",
 		[
+			"23.loc",
 			"pfv",
 			"1sbj",
-			"pst",
-			"23.loc"
+			"pst"
 		]
 	],
 	[
@@ -15335,10 +15236,10 @@
 	[
 		"tetubulya",
 		[
-			"1pl.sbj",
+			"14obj",
 			"neg",
-			"fv",
-			"14obj"
+			"1pl.sbj",
+			"fv"
 		]
 	],
 	[
@@ -15352,18 +15253,18 @@
 	[
 		"nekakunga",
 		[
+			"18.loc",
 			"neg",
 			"2sg.sbj",
-			"18.loc",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
 		"eeii",
 		[
-			"nar",
 			"12sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -15397,10 +15298,10 @@
 	[
 		"n'okusomba",
 		[
-			"add.foc",
 			"aug",
+			"inf",
 			"fv",
-			"inf"
+			"add.foc"
 		]
 	],
 	[
@@ -15411,8 +15312,8 @@
 		"tukunyumya",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -15436,18 +15337,18 @@
 	[
 		"agakunyumirwa",
 		[
-			"s.rel",
+			"2sg.obj",
 			"6sbj",
-			"fv",
-			"2sg.obj"
+			"s.rel",
+			"fv"
 		]
 	],
 	[
 		"aga",
 		[
 			"aug",
-			"7",
-			"6"
+			"6",
+			"7"
 		]
 	],
 	[
@@ -15460,8 +15361,8 @@
 	[
 		"ba",
 		[
-			"2",
-			"17.loc"
+			"17.loc",
+			"2"
 		]
 	],
 	[
@@ -15534,8 +15435,8 @@
 		"baweireku",
 		[
 			"2sbj",
-			"17.loc",
-			"pfv"
+			"pfv",
+			"17.loc"
 		]
 	],
 	[
@@ -15576,8 +15477,8 @@
 	[
 		"twaliyo",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"23.loc",
 			"cop"
 		]
@@ -15600,8 +15501,8 @@
 		"katonda",
 		[
 			"8obj",
-			"nar",
 			"2sg.sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -15628,8 +15529,8 @@
 	[
 		"nibyera",
 		[
-			"nar",
 			"8sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -15637,13 +15538,21 @@
 		"bakikwaite",
 		[
 			"2sbj",
-			"7obj",
-			"pfv"
+			"pfv",
+			"7obj"
 		]
 	],
 	[
 		"n'okutiina",
 		[]
+	],
+	[
+		"nti",
+		[
+			"aug",
+			"inf",
+			"fv"
+		]
 	],
 	[
 		"kirigireku",
@@ -15652,16 +15561,16 @@
 	[
 		"n'obwibbi",
 		[
+			"pfv",
 			"17.loc",
-			"7sbj",
-			"pfv"
+			"7sbj"
 		]
 	],
 	[
 		"ba",
 		[
-			"1pl.sbj",
 			"2",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -15685,9 +15594,9 @@
 	[
 		"baiswe",
 		[
+			"2",
 			"1pl",
-			"assoc",
-			"2"
+			"assoc"
 		]
 	],
 	[
@@ -15721,8 +15630,8 @@
 		"ezinyamulai",
 		[
 			"2sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -15734,8 +15643,8 @@
 	[
 		"obamiriire",
 		[
-			"2obj",
 			"2sg.sbj",
+			"2obj",
 			"pfv"
 		]
 	],
@@ -15743,8 +15652,8 @@
 		"tebatera",
 		[
 			"2sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -15832,9 +15741,9 @@
 	[
 		"baira",
 		[
+			"2",
 			"1pl",
-			"assoc",
-			"2"
+			"assoc"
 		]
 	],
 	[
@@ -15848,8 +15757,8 @@
 		"abongeire",
 		[
 			"1sbj",
-			"2obj",
-			"pfv"
+			"pfv",
+			"2obj"
 		]
 	],
 	[
@@ -15946,14 +15855,14 @@
 		"akandeeteire",
 		[
 			"1sbj",
-			"1sg.obj",
-			"12obj"
+			"12obj",
+			"1sg.obj"
 		]
 	],
 	[
 		"ate",
 		[
-			"APPL:PFV"
+			"appl:pfv"
 		]
 	],
 	[
@@ -15965,8 +15874,8 @@
 	[
 		"kakwaka",
 		[
-			"prog",
 			"12sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -16003,20 +15912,20 @@
 	[
 		"buzibu",
 		[
-			"neg",
 			"1sg.sbj",
-			"17.loc",
 			"12obj",
+			"neg",
+			"17.loc",
 			"fv"
 		]
 	],
 	[
 		"akkuswaganiirya",
 		[
-			"1sbj",
+			"2sg.obj",
 			"prog",
-			"fv",
-			"2sg.obj"
+			"1sbj",
+			"fv"
 		]
 	],
 	[
@@ -16039,8 +15948,8 @@
 		"bambyaire",
 		[
 			"2sbj",
-			"1sg.obj",
-			"pfv"
+			"pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -16066,8 +15975,8 @@
 		"akukiika",
 		[
 			"1sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -16137,8 +16046,8 @@
 	[
 		"ansi",
 		[
-			"nar",
 			"2pl.sbj",
+			"nar",
 			"fv",
 			"refl"
 		]
@@ -16186,10 +16095,10 @@
 	[
 		"ky'aligire",
 		[
-			"1obj",
+			"pfv",
 			"pst",
 			"1sg.sbj",
-			"pfv"
+			"1obj"
 		]
 	],
 	[
@@ -16233,8 +16142,8 @@
 		"okubona",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -16253,9 +16162,9 @@
 	[
 		"kaayakaliriirye",
 		[
-			"pfv",
+			"12sbj",
 			"pst",
-			"12sbj"
+			"pfv"
 		]
 	],
 	[
@@ -16276,9 +16185,9 @@
 	[
 		"osabira",
 		[
+			"fv",
 			"2sg.sbj",
-			"appl",
-			"fv"
+			"appl"
 		]
 	],
 	[
@@ -16342,19 +16251,18 @@
 	[
 		"kansooke",
 		[
-			"1sg.obj",
-			"hort",
-			"sbjv"
+			"sbjv",
+			"1sg.obj"
 		]
 	],
 	[
 		"nkwiryeyo",
 		[
 			"1sg.sbj",
-			"caus",
 			"2sg.obj",
 			"23.loc",
-			"sbjv"
+			"sbjv",
+			"caus"
 		]
 	],
 	[
@@ -16364,8 +16272,8 @@
 	[
 		"kucuuka",
 		[
-			"prog",
-			"11sbj"
+			"11sbj",
+			"prog"
 		]
 	],
 	[
@@ -16375,16 +16283,16 @@
 	[
 		"lwoona",
 		[
-			"11",
 			"add.foc",
+			"11",
 			"foc"
 		]
 	],
 	[
 		"lwa",
 		[
-			"11",
-			"add.foc"
+			"add.foc",
+			"11"
 		]
 	],
 	[
@@ -16414,8 +16322,8 @@
 		"okumanya",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -16468,8 +16376,8 @@
 	[
 		"nibo",
 		[
-			"2",
-			"cop"
+			"cop",
+			"2"
 		]
 	],
 	[
@@ -16488,8 +16396,8 @@
 		[
 			"1sbj",
 			"s.rel",
-			"neg",
-			"cop"
+			"cop",
+			"neg"
 		]
 	],
 	[
@@ -16514,17 +16422,17 @@
 		"nekindi",
 		[
 			"aug",
-			"7",
-			"add.foc"
+			"add.foc",
+			"7"
 		]
 	],
 	[
 		"yakwatya",
 		[
+			"2sg.obj",
 			"1sbj",
-			"fv",
 			"fut",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -16585,15 +16493,14 @@
 		"okwate",
 		[
 			"prog",
-			"hort",
 			"fv"
 		]
 	],
 	[
 		"omwigo",
 		[
-			"2sg.sbj",
-			"sbjv"
+			"sbjv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -16731,9 +16638,9 @@
 	[
 		"ekikutegeeza",
 		[
+			"prog",
 			"7sbj",
 			"s.rel",
-			"prog",
 			"fv"
 		]
 	],
@@ -16750,8 +16657,8 @@
 	[
 		"omwana",
 		[
-			"2sg.sbj",
-			"fv"
+			"fv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -16765,8 +16672,8 @@
 		[
 			"1sbj",
 			"s.rel",
-			"neg",
-			"cop"
+			"cop",
+			"neg"
 		]
 	],
 	[
@@ -16800,8 +16707,8 @@
 		"ekyakuboneraku",
 		[
 			"inf",
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"fv"
 		]
 	],
 	[
@@ -16842,15 +16749,15 @@
 	[
 		"tubba",
 		[
-			"1pl.sbj",
-			"cop"
+			"cop",
+			"1pl.sbj"
 		]
 	],
 	[
 		"tukyusiremu",
 		[
-			"1pl.sbj",
 			"18.loc",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -16875,8 +16782,8 @@
 		"ayakairewo",
 		[
 			"1sbj",
-			"pfv",
-			"pst"
+			"pst",
+			"pfv"
 		]
 	],
 	[
@@ -16909,10 +16816,10 @@
 	[
 		"ebirwaire",
 		[
-			"aug",
 			"18.loc",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -16931,8 +16838,8 @@
 	[
 		"babakubbire",
 		[
-			"2obj",
 			"2sbj",
+			"2obj",
 			"pfv"
 		]
 	],
@@ -16944,8 +16851,8 @@
 		"bakuluma",
 		[
 			"2sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -16997,8 +16904,8 @@
 		"bagagula",
 		[
 			"2sbj",
-			"6obj",
-			"fv"
+			"fv",
+			"6obj"
 		]
 	],
 	[
@@ -17057,9 +16964,9 @@
 	[
 		"tetukuura",
 		[
-			"1pl.sbj",
-			"neg",
 			"prog",
+			"neg",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -17070,10 +16977,10 @@
 	[
 		"muwogo",
 		[
-			"neg",
+			"hab",
 			"1obj",
-			"fv",
-			"hab"
+			"neg",
+			"fv"
 		]
 	],
 	[
@@ -17194,8 +17101,8 @@
 		"mu",
 		[
 			"2sbj",
-			"neg",
-			"fut"
+			"fut",
+			"neg"
 		]
 	],
 	[
@@ -17217,10 +17124,10 @@
 	[
 		"ebbeeku",
 		[
-			"17.loc",
+			"sbjv",
 			"9sbj",
-			"cop",
-			"sbjv"
+			"17.loc",
+			"cop"
 		]
 	],
 	[
@@ -17256,9 +17163,9 @@
 	[
 		"bakwesimbanawo",
 		[
-			"refl",
 			"2sbj",
-			"prog"
+			"prog",
+			"refl"
 		]
 	],
 	[
@@ -17278,9 +17185,9 @@
 	[
 		"byabwe",
 		[
+			"8",
 			"2",
-			"assoc",
-			"8"
+			"assoc"
 		]
 	],
 	[
@@ -17288,8 +17195,8 @@
 		[
 			"2sbj",
 			"17.loc",
-			"fut",
-			"sbjv"
+			"sbjv",
+			"fut"
 		]
 	],
 	[
@@ -17307,9 +17214,9 @@
 	[
 		"toli",
 		[
+			"cop",
 			"2sg.sbj",
-			"neg",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -17334,8 +17241,8 @@
 		"bamwalikire",
 		[
 			"2sbj",
-			"pfv",
-			"1obj"
+			"1obj",
+			"pfv"
 		]
 	],
 	[
@@ -17356,11 +17263,11 @@
 		"bandeteireku",
 		[
 			"2sbj",
+			"appl",
+			"1sg.obj",
 			"16.loc",
 			"17.loc",
-			"1sg.obj",
-			"fv",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -17391,15 +17298,15 @@
 		"oboneireku",
 		[
 			"2sg.sbj",
-			"17.loc",
-			"APPL:PFV"
+			"appl:pfv",
+			"17.loc"
 		]
 	],
 	[
 		"okoba",
 		[
-			"2sg.sbj",
-			"fv"
+			"fv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -17430,9 +17337,9 @@
 	[
 		"bindobeire",
 		[
-			"1sg.obj",
-			"APPL:PFV",
-			"8sbj"
+			"8sbj",
+			"appl:pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -17469,19 +17376,19 @@
 	[
 		"bikwiza",
 		[
+			"8sbj",
 			"prog",
 			"cop",
-			"8sbj",
 			"fv"
 		]
 	],
 	[
 		"kulobesyanga",
 		[
-			"caus",
-			"fv",
+			"2sg.obj",
 			"hab",
-			"2sg.obj"
+			"caus",
+			"fv"
 		]
 	],
 	[
@@ -17497,8 +17404,8 @@
 	[
 		"bindemeserye",
 		[
-			"1sg.obj",
-			"8sbj"
+			"8sbj",
+			"1sg.obj"
 		]
 	],
 	[
@@ -17510,16 +17417,16 @@
 	[
 		"bindobeire",
 		[
-			"1sg.obj",
-			"8sbj"
+			"8sbj",
+			"1sg.obj"
 		]
 	],
 	[
 		"binkangirye",
 		[
-			"CAUS:PFV",
-			"1sg.obj",
-			"8sbj"
+			"8sbj",
+			"caus:pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -17558,8 +17465,8 @@
 		"bakubonangambe",
 		[
 			"2sbj",
-			"foc",
 			"hab",
+			"foc",
 			"prog",
 			"fv"
 		]
@@ -17589,8 +17496,8 @@
 		"byabbanga",
 		[
 			"hab",
-			"cop",
 			"pst",
+			"cop",
 			"8sbj",
 			"fv"
 		]
@@ -17632,11 +17539,11 @@
 	[
 		"twazitwireku",
 		[
-			"1pl.sbj",
 			"pfv",
+			"1pl.sbj",
+			"10obj",
 			"17.loc",
-			"pst",
-			"10obj"
+			"pst"
 		]
 	],
 	[
@@ -17753,8 +17660,8 @@
 	[
 		"omu",
 		[
-			"7sbj",
 			"s.rel",
+			"7sbj",
 			"fv"
 		]
 	],
@@ -17803,16 +17710,16 @@
 	[
 		"obweine",
 		[
-			"2sg.sbj",
-			"pfv"
+			"pfv",
+			"2sg.sbj"
 		]
 	],
 	[
 		"kikupirikita",
 		[
-			"7sbj",
 			"prog",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -17832,8 +17739,8 @@
 		"tetukuura",
 		[
 			"1pl.sbj",
-			"neg",
-			"prog"
+			"prog",
+			"neg"
 		]
 	],
 	[
@@ -17883,10 +17790,10 @@
 	[
 		"byawoomeireyo",
 		[
-			"pst",
-			"appl",
 			"8sbj",
-			"23.loc"
+			"pst",
+			"23.loc",
+			"appl"
 		]
 	],
 	[
@@ -17896,10 +17803,10 @@
 	[
 		"titwaliire",
 		[
-			"1pl.sbj",
-			"neg",
 			"pst",
-			"pfv"
+			"1pl.sbj",
+			"pfv",
+			"neg"
 		]
 	],
 	[
@@ -17968,8 +17875,8 @@
 	[
 		"twasangire",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -17980,8 +17887,8 @@
 	[
 		"ya",
 		[
-			"1",
-			"9"
+			"9",
+			"1"
 		]
 	],
 	[
@@ -18000,16 +17907,16 @@
 		"okulowooza",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"tebakusyomerewo",
 		[
 			"2sbj",
-			"neg",
-			"2sg.obj"
+			"2sg.obj",
+			"neg"
 		]
 	],
 	[
@@ -18035,10 +17942,10 @@
 	[
 		"nti",
 		[
+			"pfv",
 			"pst",
 			"1sg.sbj",
-			"17.loc",
-			"pfv"
+			"17.loc"
 		]
 	],
 	[
@@ -18116,9 +18023,9 @@
 		"ewaiswe",
 		[
 			"aug",
+			"16",
 			"1pl",
-			"assoc",
-			"16"
+			"assoc"
 		]
 	],
 	[
@@ -18174,35 +18081,35 @@
 	[
 		"kyansanyusize",
 		[
-			"7sbj",
 			"1sg.obj",
+			"7sbj",
 			"pst",
-			"CAUS:PFV"
+			"caus:pfv"
 		]
 	],
 	[
 		"obbaire",
 		[
-			"2sg.sbj",
 			"cop",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
 	[
 		"okukyendya",
 		[
-			"2sg.sbj",
 			"prog",
-			"fv",
-			"7obj"
+			"2sg.sbj",
+			"7obj",
+			"fv"
 		]
 	],
 	[
 		"bakikulemeserye",
 		[
+			"2sg.obj",
 			"7sbj",
-			"CAUS:PFV",
-			"2sg.obj"
+			"caus:pfv"
 		]
 	],
 	[
@@ -18270,6 +18177,13 @@
 		]
 	],
 	[
+		"kibba",
+		[
+			"cop",
+			"7sbj"
+		]
+	],
+	[
 		"kikairikire",
 		[
 			"7sbj",
@@ -18286,8 +18200,8 @@
 	[
 		"kiweireku",
 		[
-			"17.loc",
-			"pfv"
+			"pfv",
+			"17.loc"
 		]
 	],
 	[
@@ -18311,16 +18225,16 @@
 	[
 		"kitabuletabule",
 		[
-			"7sbj",
 			"s.rel",
+			"7sbj",
 			"cop"
 		]
 	],
 	[
 		"ekitaa",
 		[
-			"7sbj",
 			"s.rel",
+			"7sbj",
 			"cop"
 		]
 	],
@@ -18337,9 +18251,9 @@
 	[
 		"gavument",
 		[
-			"7sbj",
 			"s.rel",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -18352,8 +18266,8 @@
 	[
 		"ekutuleka",
 		[
-			"9sbj",
 			"prog",
+			"9sbj",
 			"1pl.obj",
 			"fv"
 		]
@@ -18369,9 +18283,9 @@
 	[
 		"kikunduma",
 		[
-			"7sbj",
-			"1sg.obj",
 			"prog",
+			"1sg.obj",
+			"7sbj",
 			"fv"
 		]
 	],
@@ -18384,8 +18298,8 @@
 	[
 		"ekwisana",
 		[
-			"prog",
 			"9sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -18398,9 +18312,9 @@
 	[
 		"teebba",
 		[
-			"neg",
+			"cop",
 			"9sbj",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -18442,8 +18356,8 @@
 	[
 		"maiso",
 		[
-			"prog",
 			"9sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -18467,9 +18381,9 @@
 	[
 		"otokubba",
 		[
-			"neg.imp",
 			"2sg.sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -18503,8 +18417,8 @@
 	[
 		"nijooma",
 		[
-			"4sbj",
 			"nar",
+			"4sbj",
 			"fv"
 		]
 	],
@@ -18518,8 +18432,8 @@
 		"tugitabula",
 		[
 			"1pl.sbj",
-			"4obj",
-			"fv"
+			"fv",
+			"4obj"
 		]
 	],
 	[
@@ -18532,16 +18446,16 @@
 	[
 		"nizo",
 		[
-			"10",
-			"cop"
+			"cop",
+			"10"
 		]
 	],
 	[
 		"baagaine",
 		[
 			"2sbj",
-			"pfv",
-			"pst"
+			"pst",
+			"pfv"
 		]
 	],
 	[
@@ -18577,8 +18491,8 @@
 		[
 			"2sbj",
 			"cop",
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"fv"
 		]
 	],
 	[
@@ -18590,16 +18504,16 @@
 	[
 		"zirya",
 		[
-			"10",
-			"cop"
+			"cop",
+			"10"
 		]
 	],
 	[
 		"ozimaite",
 		[
 			"2sg.sbj",
-			"pfv",
-			"10obj"
+			"10obj",
+			"pfv"
 		]
 	],
 	[
@@ -18609,9 +18523,9 @@
 	[
 		"bunyansooro",
 		[
-			"neg",
+			"fv",
 			"10sbj",
-			"fv"
+			"neg"
 		]
 	],
 	[
@@ -18657,9 +18571,9 @@
 	[
 		"zaiswe",
 		[
-			"10",
 			"1pl",
-			"assoc"
+			"assoc",
+			"10"
 		]
 	],
 	[
@@ -18677,8 +18591,8 @@
 	[
 		"okubba",
 		[
-			"10sbj",
-			"fv"
+			"fv",
+			"10sbj"
 		]
 	],
 	[
@@ -18696,8 +18610,8 @@
 	[
 		"ekwingira",
 		[
-			"prog",
 			"9sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -18740,8 +18654,8 @@
 		[
 			"pst",
 			"5sbj",
-			"pfv",
-			"23.loc"
+			"23.loc",
+			"pfv"
 		]
 	],
 	[
@@ -18751,24 +18665,24 @@
 	[
 		"tinsobola",
 		[
-			"neg",
+			"fv",
 			"1sg.sbj",
-			"fv"
+			"neg"
 		]
 	],
 	[
 		"lyeiyaku",
 		[
-			"5obj",
 			"17.loc",
+			"5obj",
 			"fv"
 		]
 	],
 	[
 		"mbe",
 		[
-			"1obj",
 			"foc",
+			"1obj",
 			"2sg.sbj",
 			"fv"
 		]
@@ -18776,9 +18690,9 @@
 	[
 		"nkyokye",
 		[
+			"sbjv",
 			"1sg.sbj",
-			"7obj",
-			"sbjv"
+			"7obj"
 		]
 	],
 	[
@@ -18849,8 +18763,8 @@
 		"erya",
 		[
 			"aug",
-			"5",
-			"1"
+			"1",
+			"5"
 		]
 	],
 	[
@@ -18905,17 +18819,17 @@
 	[
 		"tekwaba",
 		[
+			"prog",
 			"neg",
 			"9sbj",
-			"prog",
 			"fv"
 		]
 	],
 	[
 		"kusiisa",
 		[
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"fv"
 		]
 	],
 	[
@@ -18928,12 +18842,6 @@
 	],
 	[
 		"goonagoona",
-		[
-			"6"
-		]
-	],
-	[
-		"nga",
 		[
 			"6"
 		]
@@ -19005,9 +18913,9 @@
 	[
 		"e",
 		[
+			"16",
 			"1pl",
-			"assoc",
-			"16"
+			"assoc"
 		]
 	],
 	[
@@ -19030,16 +18938,16 @@
 		"tugezaaku",
 		[
 			"foc",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
 		"tutyo",
 		[
+			"2sg.sbj",
 			"16.loc",
 			"nar",
-			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -19062,16 +18970,16 @@
 		[
 			"1pl.sbj",
 			"nar",
-			"fv",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
 		"tukuwoza",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -19089,17 +18997,17 @@
 	[
 		"tulina",
 		[
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"owaiswe",
 		[
 			"aug",
+			"1",
 			"1pl",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -19155,8 +19063,8 @@
 	[
 		"kitegeeza",
 		[
-			"7sbj",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -19172,8 +19080,8 @@
 	[
 		"tuzeeta",
 		[
-			"1pl.sbj",
 			"fv",
+			"1pl.sbj",
 			"10obj"
 		]
 	],
@@ -19184,8 +19092,8 @@
 	[
 		"kakkudakuda",
 		[
-			"prog",
-			"12sbj"
+			"12sbj",
+			"prog"
 		]
 	],
 	[
@@ -19206,17 +19114,17 @@
 	[
 		"kwamwei",
 		[
-			"1.",
-			"assoc",
-			"15"
+			"15",
+			"1",
+			"assoc"
 		]
 	],
 	[
 		"waabwe",
 		[
+			"1",
 			"2",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -19230,20 +19138,19 @@
 		"mmuseengulembe",
 		[
 			"1sg.sbj",
-			"1obj",
 			"foc",
+			"1obj",
 			"sbjv"
 		]
 	],
 	[
 		"kankwemberemu",
 		[
-			"hort",
-			"1sg.sbj",
-			"sbjv",
 			"18.loc",
+			"1sg.sbj",
+			"2sg.obj",
 			"appl",
-			"2sg.obj"
+			"sbjv"
 		]
 	],
 	[
@@ -19255,12 +19162,11 @@
 	[
 		"kankwiryeyo",
 		[
-			"hort",
-			"caus",
 			"1sg.sbj",
-			"prog",
 			"23.loc",
-			"sbjv"
+			"prog",
+			"sbjv",
+			"caus"
 		]
 	],
 	[
@@ -19278,10 +19184,10 @@
 	[
 		"yalutandikire",
 		[
-			"11obj",
 			"pfv",
 			"1sbj",
-			"pst"
+			"pst",
+			"11obj"
 		]
 	],
 	[
@@ -19312,8 +19218,8 @@
 	[
 		"oleetere",
 		[
-			"4sbj",
-			"fv"
+			"fv",
+			"4sbj"
 		]
 	],
 	[
@@ -19338,25 +19244,24 @@
 		"katubone",
 		[
 			"1pl.sbj",
-			"hort",
 			"sbjv"
 		]
 	],
 	[
 		"kikutegeeza",
 		[
-			"7sbj",
+			"fv",
 			"prog",
-			"fv"
+			"7sbj"
 		]
 	],
 	[
 		"kukulemesya",
 		[
+			"2sg.obj",
 			"caus",
-			"fv",
 			"inf",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -19380,9 +19285,9 @@
 	[
 		"tekyendya",
 		[
+			"fv",
 			"7sbj",
-			"neg",
-			"fv"
+			"neg"
 		]
 	],
 	[
@@ -19402,8 +19307,8 @@
 	[
 		"kirina",
 		[
-			"7sbj",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -19416,8 +19321,8 @@
 	[
 		"kisinziira",
 		[
-			"7sbj",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -19436,9 +19341,9 @@
 		"n'eengeri",
 		[
 			"pfv",
-			"pst",
 			"2pl.sbj",
-			"18.loc"
+			"18.loc",
+			"pst"
 		]
 	],
 	[
@@ -19455,8 +19360,8 @@
 		"bakwalike",
 		[
 			"2sbj",
-			"sbjv",
-			"2sg.obj"
+			"2sg.obj",
+			"sbjv"
 		]
 	],
 	[
@@ -19468,8 +19373,8 @@
 	[
 		"koona",
 		[
-			"12",
-			"add.foc"
+			"add.foc",
+			"12"
 		]
 	],
 	[
@@ -19488,24 +19393,24 @@
 		"okugula",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
 		"tukwendya",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"tetukwendya",
 		[
-			"1pl.sbj",
-			"neg",
 			"prog",
+			"neg",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -19553,8 +19458,8 @@
 		"muzwamu",
 		[
 			"18.loc",
-			"fv",
-			"3sbj"
+			"3sbj",
+			"fv"
 		]
 	],
 	[
@@ -19589,8 +19494,8 @@
 	[
 		"inaudible",
 		[
-			"s.rel",
 			"12sbj",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -19613,9 +19518,9 @@
 	[
 		"nti",
 		[
+			"fv",
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"prog"
 		]
 	],
 	[
@@ -19693,8 +19598,8 @@
 		"wampaire",
 		[
 			"pfv",
-			"2sg.sbj",
 			"1sg.obj",
+			"2sg.sbj",
 			"pst"
 		]
 	],
@@ -19717,8 +19622,8 @@
 	[
 		"bitaanu",
 		[
-			"2sg.sbj",
 			"fv",
+			"2sg.sbj",
 			"1obj"
 		]
 	],
@@ -19749,17 +19654,17 @@
 		"nkukwiryayo",
 		[
 			"1sg.sbj",
-			"prog",
+			"2sg.obj",
 			"23.loc",
-			"fv",
-			"2sg.obj"
+			"prog",
+			"fv"
 		]
 	],
 	[
 		"bakoore",
 		[
-			"pfv",
-			"2sbj"
+			"2sbj",
+			"pfv"
 		]
 	],
 	[
@@ -19793,21 +19698,13 @@
 		"mbikeengere",
 		[
 			"8obj",
-			"pfv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
 		"mbu",
 		[]
-	],
-	[
-		"waamwei",
-		[
-			"1.",
-			"assoc",
-			"1"
-		]
 	],
 	[
 		"namba",
@@ -19882,11 +19779,11 @@
 		"mukukobereku",
 		[
 			"1sg.sbj",
+			"2sg.obj",
 			"1obj",
-			"sbjv",
-			"17.loc",
 			"appl",
-			"2sg.obj"
+			"17.loc",
+			"sbjv"
 		]
 	],
 	[
@@ -19922,13 +19819,13 @@
 	[
 		"irai",
 		[
-			"neg",
+			"pass",
 			"14sbj",
+			"hab",
+			"neg",
 			"17.loc",
 			"pst",
-			"fv",
-			"hab",
-			"pass"
+			"fv"
 		]
 	],
 	[
@@ -19941,13 +19838,13 @@
 	[
 		"irai",
 		[
+			"pass",
+			"hab",
 			"neg",
 			"1sbj",
 			"17.loc",
 			"pst",
-			"fv",
-			"hab",
-			"pass"
+			"fv"
 		]
 	],
 	[
@@ -19960,11 +19857,11 @@
 	[
 		"okubbaamu",
 		[
-			"aug",
-			"cop",
 			"18.loc",
-			"fv",
-			"inf"
+			"cop",
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -20000,10 +19897,10 @@
 		"n'abamwe",
 		[
 			"aug",
-			"1",
-			"assoc",
 			"2",
-			"add.foc"
+			"add.foc",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -20020,10 +19917,10 @@
 	[
 		"e",
 		[
-			"1sbj",
 			"hab",
-			"17.loc",
 			"prog",
+			"1sbj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -20125,10 +20022,10 @@
 	[
 		"tabyalanga",
 		[
-			"add.foc",
 			"aug",
+			"inf",
 			"fv",
-			"inf"
+			"add.foc"
 		]
 	],
 	[
@@ -20160,8 +20057,8 @@
 		"supu",
 		[
 			"1obj",
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -20169,8 +20066,8 @@
 		"n'omunankore",
 		[
 			"aug",
-			"1",
-			"add.foc"
+			"add.foc",
+			"1"
 		]
 	],
 	[
@@ -20217,8 +20114,8 @@
 		[
 			"neg",
 			"2sg.sbj",
-			"fut",
-			"sbjv"
+			"sbjv",
+			"fut"
 		]
 	],
 	[
@@ -20237,8 +20134,8 @@
 		"eyatwaire",
 		[
 			"1sbj",
-			"pfv",
-			"s.rel"
+			"s.rel",
+			"pfv"
 		]
 	],
 	[
@@ -20300,8 +20197,8 @@
 		"nakkunkumuka",
 		[
 			"1sbj",
-			"prog",
-			"nar"
+			"nar",
+			"prog"
 		]
 	],
 	[
@@ -20323,8 +20220,8 @@
 		"tukwaba",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -20335,9 +20232,9 @@
 		"nalekera",
 		[
 			"1sbj",
+			"appl",
 			"nar",
-			"fv",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -20371,10 +20268,10 @@
 	[
 		"n",
 		[
-			"1obj",
-			"hab",
-			"17.loc",
 			"12sbj",
+			"hab",
+			"1obj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -20388,9 +20285,7 @@
 	],
 	[
 		"namwera",
-		[
-			"?"
-		]
+		[]
 	],
 	[
 		"igolo",
@@ -20459,9 +20354,9 @@
 	[
 		"nawuliire",
 		[
+			"pfv",
 			"pst",
-			"1sg.sbj",
-			"pfv"
+			"1sg.sbj"
 		]
 	],
 	[
@@ -20498,10 +20393,10 @@
 	[
 		"yawoomanga",
 		[
+			"hab",
 			"1sbj",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -20541,11 +20436,11 @@
 	[
 		"ataliganga",
 		[
+			"hab",
 			"neg",
 			"1sbj",
 			"s.rel",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -20555,7 +20450,7 @@
 	[
 		"mbaire",
 		[
-			"COP:PFV",
+			"cop:pfv",
 			"1sg.sbj"
 		]
 	],
@@ -20563,8 +20458,8 @@
 		"kubuulyaku",
 		[
 			"inf",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -20586,8 +20481,8 @@
 		[
 			"1sg.sbj",
 			"2sg.obj",
-			"17.loc",
 			"appl",
+			"17.loc",
 			"sbjv"
 		]
 	],
@@ -20600,9 +20495,9 @@
 	[
 		"ekiwuluka",
 		[
-			"7sbj",
 			"s.rel",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -20612,17 +20507,16 @@
 	[
 		"twireyo",
 		[
-			"1pl.sbj",
-			"hort",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
 		"oku",
 		[
 			"1pl.sbj",
-			"23.loc",
-			"sbjv"
+			"sbjv",
+			"23.loc"
 		]
 	],
 	[
@@ -20679,8 +20573,8 @@
 	[
 		"bibbaawo",
 		[
-			"16.loc",
 			"8sbj",
+			"16.loc",
 			"cop"
 		]
 	],
@@ -20718,8 +20612,8 @@
 	[
 		"obunage",
 		[
-			"prog",
 			"2pl.sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -20739,15 +20633,15 @@
 		"okimaite",
 		[
 			"2sg.sbj",
-			"7obj",
-			"pfv"
+			"pfv",
+			"7obj"
 		]
 	],
 	[
 		"walowo",
 		[
-			"16sbj",
 			"16.loc",
+			"16sbj",
 			"cop"
 		]
 	],
@@ -20782,8 +20676,8 @@
 		"bamusirikirye",
 		[
 			"2sbj",
-			"CAUS:PFV",
-			"1obj"
+			"1obj",
+			"caus:pfv"
 		]
 	],
 	[
@@ -20849,7 +20743,7 @@
 	[
 		"n'etaanu",
 		[
-			"APPL:PFV"
+			"appl:pfv"
 		]
 	],
 	[
@@ -20864,7 +20758,7 @@
 		"ebisai",
 		[
 			"2sbj",
-			"APPL:PFV",
+			"appl:pfv",
 			"1pl.obj"
 		]
 	],
@@ -20882,11 +20776,11 @@
 	[
 		"na",
 		[
-			"neg",
 			"hab",
 			"cop",
-			"17.loc",
+			"neg",
 			"2sg.sbj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -20914,8 +20808,8 @@
 		"tolowoozaaku",
 		[
 			"neg",
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -20937,10 +20831,10 @@
 	[
 		"kukolamu",
 		[
-			"7",
 			"18.loc",
-			"fv",
-			"inf"
+			"7",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -20963,20 +20857,14 @@
 		"nebakoba",
 		[
 			"2sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
 		"eitakali",
 		[
 			"aug"
-		]
-	],
-	[
-		"lya",
-		[
-			"5"
 		]
 	],
 	[
@@ -21011,15 +20899,15 @@
 	[
 		"nekakunga",
 		[
-			"nar",
-			"12sbj"
+			"12sbj",
+			"nar"
 		]
 	],
 	[
 		"nezibbaawo",
 		[
-			"10sbj",
 			"nar",
+			"10sbj",
 			"cop"
 		]
 	],
@@ -21047,8 +20935,8 @@
 	[
 		"enjola",
 		[
-			"17.loc",
 			"3sbj",
+			"17.loc",
 			"cop"
 		]
 	],
@@ -21073,18 +20961,18 @@
 	[
 		"tenkitaka",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv",
-			"7obj"
+			"neg",
+			"7obj",
+			"fv"
 		]
 	],
 	[
 		"toolina",
 		[
 			"2sg.sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -21117,8 +21005,8 @@
 		[
 			"1obj",
 			"2sg.sbj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -21132,26 +21020,26 @@
 	[
 		"kusobola",
 		[
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
 		"okkupaaya",
 		[
+			"2sg.obj",
 			"aug",
-			"fv",
 			"inf",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
 		"wateekawo",
 		[
-			"16.loc",
 			"2sg.sbj",
-			"fv",
-			"fut"
+			"16.loc",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -21162,23 +21050,23 @@
 		"nibakoba",
 		[
 			"2sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
 		"mwize",
 		[
-			"1obj",
-			"sbjv"
+			"sbjv",
+			"1obj"
 		]
 	],
 	[
 		"mulyeku",
 		[
+			"sbjv",
 			"1obj",
-			"17.loc",
-			"sbjv"
+			"17.loc"
 		]
 	],
 	[
@@ -21190,8 +21078,8 @@
 	[
 		"ekiri",
 		[
-			"7sbj",
 			"s.rel",
+			"7sbj",
 			"cop"
 		]
 	],
@@ -21250,9 +21138,9 @@
 		"nibakulemwa",
 		[
 			"2sbj",
+			"2sg.obj",
 			"nar",
-			"fv",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -21339,10 +21227,10 @@
 	[
 		"nikakire",
 		[
-			"nar",
 			"12sbj",
-			"fv",
-			"appl"
+			"appl",
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -21354,13 +21242,6 @@
 	[
 		"mwezi",
 		[]
-	],
-	[
-		"gwa",
-		[
-			"3",
-			"?"
-		]
 	],
 	[
 		"kanai",
@@ -21408,18 +21289,18 @@
 	[
 		"nimugulukira",
 		[
-			"nar",
-			"2pl.sbj"
+			"2pl.sbj",
+			"nar"
 		]
 	],
 	[
 		"nimunyakalyangamu",
 		[
-			"nar",
-			"2pl.sbj",
 			"18.loc",
-			"fv",
-			"hab"
+			"2pl.sbj",
+			"hab",
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -21457,8 +21338,8 @@
 	[
 		"nitwanika",
 		[
-			"1pl.sbj",
-			"nar"
+			"nar",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -21497,8 +21378,8 @@
 	[
 		"zibaagaine",
 		[
-			"2obj",
 			"pst",
+			"2obj",
 			"10sbj",
 			"pfv"
 		]
@@ -21529,33 +21410,31 @@
 	[
 		"ekitaa",
 		[
-			"hort",
-			"1sg.sbj",
-			"2sg.obj"
+			"2sg.obj",
+			"1sg.sbj"
 		]
 	],
 	[
 		"ani",
 		[
-			"17.loc",
+			"sbjv",
 			"appl",
-			"sbjv"
+			"17.loc"
 		]
 	],
 	[
 		"obba",
 		[
-			"hort",
-			"1sg.sbj",
-			"2sg.obj"
+			"2sg.obj",
+			"1sg.sbj"
 		]
 	],
 	[
 		"mpwise",
 		[
-			"17.loc",
+			"sbjv",
 			"appl",
-			"sbjv"
+			"17.loc"
 		]
 	],
 	[
@@ -21596,39 +21475,39 @@
 	[
 		"okkubuulya",
 		[
+			"2sg.obj",
 			"aug",
-			"fv",
 			"inf",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
 		"nkukobereku",
 		[
 			"1sg.sbj",
+			"2sg.obj",
 			"pfv",
-			"17.loc",
-			"2sg.obj"
+			"17.loc"
 		]
 	],
 	[
 		"eryange",
 		[
 			"aug",
-			"5",
 			"1sg",
-			"assoc"
+			"assoc",
+			"5"
 		]
 	],
 	[
 		"eyarinyalikire",
 		[
-			"pfv",
-			"1sbj",
-			"s.rel",
-			"1sg.obj",
+			"5obj",
 			"pst",
-			"5obj"
+			"1sg.obj",
+			"1sbj",
+			"pfv",
+			"s.rel"
 		]
 	],
 	[
@@ -21658,9 +21537,9 @@
 	[
 		"tinkwendya",
 		[
-			"neg",
+			"prog",
 			"1sg.sbj",
-			"prog"
+			"neg"
 		]
 	],
 	[
@@ -21691,9 +21570,9 @@
 	[
 		"naali",
 		[
-			"cop",
 			"pst",
-			"1sg.sbj"
+			"1sg.sbj",
+			"cop"
 		]
 	],
 	[
@@ -21707,9 +21586,9 @@
 	[
 		"nejooma",
 		[
-			"4sbj",
+			"fv",
 			"nar",
-			"fv"
+			"4sbj"
 		]
 	],
 	[
@@ -21721,11 +21600,10 @@
 	[
 		"kankukobere",
 		[
-			"hort",
 			"1sg.sbj",
-			"sbjv",
+			"2sg.obj",
 			"appl",
-			"2sg.obj"
+			"sbjv"
 		]
 	],
 	[
@@ -21750,17 +21628,17 @@
 	[
 		"tiintaka",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"kunjooga",
 		[
-			"1sg.obj",
 			"inf",
-			"fv"
+			"fv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -21779,8 +21657,8 @@
 		"atabbaire",
 		[
 			"1sbj",
-			"neg",
-			"cop"
+			"cop",
+			"neg"
 		]
 	],
 	[
@@ -21816,17 +21694,17 @@
 	[
 		"nkiintegeire",
 		[
+			"pfv",
 			"1sg.sbj",
-			"7obj",
-			"pfv"
+			"7obj"
 		]
 	],
 	[
 		"nkitegeire",
 		[
+			"pfv",
 			"1sg.sbj",
-			"7obj",
-			"pfv"
+			"7obj"
 		]
 	],
 	[
@@ -21839,8 +21717,8 @@
 		"nga",
 		[
 			"appl",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -21851,9 +21729,9 @@
 		"ali",
 		[
 			"2sbj",
+			"2sg.obj",
 			"prog",
-			"fv",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -21887,8 +21765,8 @@
 		"nogisiimuulawo",
 		[
 			"2sg.sbj",
-			"9obj",
-			"nar"
+			"nar",
+			"9obj"
 		]
 	],
 	[
@@ -21915,10 +21793,10 @@
 	[
 		"nokulobera",
 		[
-			"nar",
-			"fv",
+			"2sg.obj",
 			"appl",
-			"2sg.obj"
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -21966,9 +21844,9 @@
 	[
 		"noteekayo",
 		[
-			"nar",
-			"2sg.sbj",
 			"23.loc",
+			"2sg.sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -22013,8 +21891,8 @@
 	[
 		"byaizire",
 		[
-			"pst",
 			"8sbj",
+			"pst",
 			"pfv"
 		]
 	],
@@ -22042,9 +21920,9 @@
 		"nibaziteeka",
 		[
 			"2sbj",
+			"10obj",
 			"nar",
-			"fv",
-			"10obj"
+			"fv"
 		]
 	],
 	[
@@ -22057,8 +21935,8 @@
 		"amukomya",
 		[
 			"1sbj",
-			"1obj",
-			"fv"
+			"fv",
+			"1obj"
 		]
 	],
 	[
@@ -22089,8 +21967,8 @@
 	[
 		"wabbaawo",
 		[
-			"16sbj",
 			"16.loc",
+			"16sbj",
 			"cop"
 		]
 	],
@@ -22124,8 +22002,8 @@
 		[
 			"aug",
 			"16.loc",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -22153,8 +22031,8 @@
 		"bamukingire",
 		[
 			"2sbj",
-			"pfv",
-			"1obj"
+			"1obj",
+			"pfv"
 		]
 	],
 	[
@@ -22247,11 +22125,11 @@
 	[
 		"n'okkukoba",
 		[
-			"add.foc",
+			"2sg.obj",
 			"aug",
 			"fv",
 			"inf",
-			"2sg.obj"
+			"add.foc"
 		]
 	],
 	[
@@ -22283,8 +22161,8 @@
 	[
 		"obba",
 		[
-			"2sg.sbj",
-			"cop"
+			"cop",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -22297,16 +22175,16 @@
 		"okutambula",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"okweyongerayo",
 		[
-			"2sg.sbj",
-			"prog",
 			"23.loc",
+			"prog",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -22319,17 +22197,17 @@
 	[
 		"okyakoba",
 		[
-			"2sg.sbj",
-			"fv"
+			"fv",
+			"2sg.sbj"
 		]
 	],
 	[
 		"ekireetera",
 		[
+			"appl",
 			"7sbj",
 			"s.rel",
-			"fv",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -22357,8 +22235,8 @@
 		[
 			"8obj",
 			"foc",
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -22404,25 +22282,25 @@
 		"ebyabwe",
 		[
 			"aug",
+			"8",
 			"2",
-			"assoc",
-			"8"
+			"assoc"
 		]
 	],
 	[
 		"nibwaba",
 		[
-			"14sbj",
+			"fv",
 			"nar",
-			"fv"
+			"14sbj"
 		]
 	],
 	[
 		"nibuswagana",
 		[
-			"14sbj",
+			"fv",
 			"nar",
-			"fv"
+			"14sbj"
 		]
 	],
 	[
@@ -22467,9 +22345,9 @@
 	[
 		"akwaba",
 		[
-			"7sbj",
-			"2sg.sbj",
 			"prog",
+			"2sg.sbj",
+			"7sbj",
 			"fv"
 		]
 	],
@@ -22484,9 +22362,9 @@
 	[
 		"ee",
 		[
+			"fv",
 			"inf",
-			"7obj",
-			"fv"
+			"7obj"
 		]
 	],
 	[
@@ -22554,8 +22432,8 @@
 	[
 		"takutoonya",
 		[
-			"14",
-			"cop"
+			"cop",
+			"14"
 		]
 	],
 	[
@@ -22571,8 +22449,8 @@
 	[
 		"twakwire",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -22625,8 +22503,8 @@
 	[
 		"kuswagana",
 		[
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -22650,8 +22528,8 @@
 		"ojisiimuulawo",
 		[
 			"9obj",
-			"16.loc",
 			"2sg.sbj",
+			"16.loc",
 			"fv"
 		]
 	],
@@ -22678,9 +22556,9 @@
 	[
 		"kikuboneka",
 		[
-			"7sbj",
+			"fv",
 			"prog",
-			"fv"
+			"7sbj"
 		]
 	],
 	[
@@ -22702,8 +22580,8 @@
 		"okkoba",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -22715,9 +22593,9 @@
 	[
 		"okkoba",
 		[
+			"fv",
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"prog"
 		]
 	],
 	[
@@ -22732,9 +22610,9 @@
 	[
 		"binjunire",
 		[
-			"1sg.obj",
 			"8sbj",
-			"pfv"
+			"pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -22764,9 +22642,9 @@
 	[
 		"twaleetere",
 		[
-			"1pl.sbj",
 			"pfv",
-			"pst"
+			"pst",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -22780,8 +22658,8 @@
 		"okuboneka",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -22812,16 +22690,16 @@
 		"okukibona",
 		[
 			"8obj",
-			"2sg.sbj",
 			"prog",
+			"2sg.sbj",
 			"fv"
 		]
 	],
 	[
 		"bikupirikita",
 		[
-			"prog",
 			"8sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -22840,9 +22718,9 @@
 		"okulobera",
 		[
 			"aug",
-			"fv",
+			"appl",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -22856,8 +22734,8 @@
 		"kulemesya",
 		[
 			"inf",
-			"caus",
-			"fv"
+			"fv",
+			"caus"
 		]
 	],
 	[
@@ -22900,8 +22778,8 @@
 		"okuniinuka",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -22915,8 +22793,8 @@
 	[
 		"waliire",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
@@ -22924,8 +22802,8 @@
 		"okwaba",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -22965,16 +22843,16 @@
 		"okwisana",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"akkoba",
 		[
 			"1sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -22994,8 +22872,8 @@
 		"okwizukira",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -23050,10 +22928,17 @@
 		]
 	],
 	[
+		"okyali",
+		[
+			"cop",
+			"2sg.sbj"
+		]
+	],
+	[
 		"kuwawuura",
 		[
-			"2obj",
 			"inf",
+			"2obj",
 			"fv"
 		]
 	],
@@ -23061,9 +22946,9 @@
 		"abakunyeta",
 		[
 			"2sbj",
-			"s.rel",
-			"1sg.obj",
 			"prog",
+			"1sg.obj",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -23088,8 +22973,8 @@
 	[
 		"tinandisomere",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
 			"pfv",
 			"pst",
 			"cntrfact"
@@ -23119,9 +23004,9 @@
 		"ewaiswe",
 		[
 			"aug",
+			"1",
 			"1pl",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -23225,8 +23110,8 @@
 		"yesiganga",
 		[
 			"1sbj",
-			"fv",
-			"hab"
+			"hab",
+			"fv"
 		]
 	],
 	[
@@ -23267,8 +23152,7 @@
 		"omuwandya",
 		[
 			"aug",
-			"1",
-			"?"
+			"1"
 		]
 	],
 	[
@@ -23375,8 +23259,8 @@
 		"nakookolaku",
 		[
 			"1sbj",
-			"nar",
 			"17.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -23415,19 +23299,19 @@
 	[
 		"yeena",
 		[
-			"1sbj",
-			"foc",
-			"nar",
 			"23.loc",
+			"foc",
+			"1sbj",
+			"nar",
 			"fv"
 		]
 	],
 	[
 		"naligayombe",
 		[
+			"hab",
 			"1sbj",
 			"nar",
-			"hab",
 			"fv"
 		]
 	],
@@ -23467,8 +23351,8 @@
 		"ati",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -23480,8 +23364,8 @@
 	[
 		"yaikalanga",
 		[
-			"1sbj",
 			"hab",
+			"1sbj",
 			"pst",
 			"fv"
 		]
@@ -23493,17 +23377,17 @@
 	[
 		"mumanya",
 		[
-			"1obj",
 			"1sg.sbj",
+			"1obj",
 			"fv"
 		]
 	],
 	[
 		"natamusanga",
 		[
+			"1obj",
 			"neg",
 			"1sbj",
-			"1obj",
 			"nar",
 			"fv"
 		]
@@ -23519,8 +23403,8 @@
 		"evanjirist",
 		[
 			"1obj",
-			"nar",
 			"2sg.sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -23574,9 +23458,9 @@
 		"babutairewo",
 		[
 			"2sbj",
+			"14obj",
 			"pfv",
-			"16.loc",
-			"14obj"
+			"16.loc"
 		]
 	],
 	[
@@ -23600,7 +23484,7 @@
 	[
 		"taata",
 		[
-			"CAUS:PFV"
+			"caus:pfv"
 		]
 	],
 	[
@@ -23623,11 +23507,11 @@
 	[
 		"ngeyo",
 		[
-			"1obj",
 			"18.loc",
-			"fv",
+			"1obj",
+			"appl",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -23640,8 +23524,8 @@
 		"baliisya",
 		[
 			"2sbj",
-			"caus",
-			"fv"
+			"fv",
+			"caus"
 		]
 	],
 	[
@@ -23706,24 +23590,24 @@
 		[
 			"neg",
 			"caus",
-			"2sg.sbj",
 			"1sg.obj",
+			"2sg.sbj",
 			"fv"
 		]
 	],
 	[
 		"otegeireku",
 		[
-			"17.loc",
+			"pfv",
 			"2sg.sbj",
-			"pfv"
+			"17.loc"
 		]
 	],
 	[
 		"otomutambaala",
 		[
-			"neg.imp",
 			"1obj",
+			"neg",
 			"2sg.sbj",
 			"fv"
 		]
@@ -23776,10 +23660,10 @@
 	[
 		"nga",
 		[
-			"1pl.sbj",
 			"1obj",
-			"nar",
+			"1pl.sbj",
 			"17.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -23797,8 +23681,8 @@
 		"bazikubba",
 		[
 			"2sbj",
-			"fv",
-			"10obj"
+			"10obj",
+			"fv"
 		]
 	],
 	[
@@ -23880,8 +23764,8 @@
 	[
 		"wasirikire",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
@@ -23894,8 +23778,8 @@
 	[
 		"okunsala",
 		[
-			"2sg.sbj",
 			"sbjv",
+			"2sg.sbj",
 			"17.loc"
 		]
 	],
@@ -23909,18 +23793,18 @@
 	[
 		"onkobereku",
 		[
-			"17.loc",
-			"2sg.sbj",
 			"1sg.obj",
+			"2sg.sbj",
 			"appl",
+			"17.loc",
 			"sbjv"
 		]
 	],
 	[
 		"gwali",
 		[
-			"pst",
 			"3sbj",
+			"pst",
 			"cop"
 		]
 	],
@@ -23935,10 +23819,10 @@
 	[
 		"tagitwalayo",
 		[
-			"neg",
 			"9obj",
-			"1sbj",
 			"23.loc",
+			"neg",
+			"1sbj",
 			"fv"
 		]
 	],
@@ -23946,24 +23830,24 @@
 		"tamaite",
 		[
 			"1sbj",
-			"neg",
-			"pfv"
+			"pfv",
+			"neg"
 		]
 	],
 	[
 		"tenduga",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"tenkumanya",
 		[
-			"neg",
 			"1sg.sbj",
 			"prog",
+			"neg",
 			"fv"
 		]
 	],
@@ -23991,8 +23875,8 @@
 		[
 			"aug",
 			"cop",
-			"inf",
-			"nar"
+			"nar",
+			"inf"
 		]
 	],
 	[
@@ -24005,11 +23889,11 @@
 	[
 		"tetukyaziteekamu",
 		[
-			"1pl.sbj",
-			"neg",
 			"18.loc",
-			"fv",
-			"10obj"
+			"neg",
+			"1pl.sbj",
+			"10obj",
+			"fv"
 		]
 	],
 	[
@@ -24027,8 +23911,8 @@
 		"teyejjusa",
 		[
 			"1sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -24069,10 +23953,10 @@
 		"nakukobera",
 		[
 			"1sg.sbj",
+			"2sg.obj",
 			"pfv",
 			"1sbj",
-			"fv",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -24122,18 +24006,18 @@
 	[
 		"tibatuyambire",
 		[
-			"1pl.sbj",
 			"2sbj",
 			"neg",
-			"pfv"
+			"pfv",
+			"1pl.sbj"
 		]
 	],
 	[
 		"tibazizwalanga",
 		[
 			"2sbj",
-			"neg",
-			"10obj"
+			"10obj",
+			"neg"
 		]
 	],
 	[
@@ -24150,8 +24034,8 @@
 	[
 		"etuli",
 		[
-			"1pl.sbj",
 			"9sbj",
+			"1pl.sbj",
 			"cop"
 		]
 	],
@@ -24162,27 +24046,27 @@
 	[
 		"timpuliirya",
 		[
-			"neg",
-			"1sg.sbj",
 			"appl",
-			"fv"
+			"1sg.sbj",
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"tinkubeyega",
 		[
-			"neg",
 			"1sg.sbj",
 			"prog",
+			"neg",
 			"fv"
 		]
 	],
 	[
 		"tinkukoba",
 		[
-			"neg",
+			"prog",
 			"1sg.sbj",
-			"prog"
+			"neg"
 		]
 	],
 	[
@@ -24209,9 +24093,9 @@
 	[
 		"tinkumanya",
 		[
-			"neg",
 			"1sg.sbj",
 			"prog",
+			"neg",
 			"fv"
 		]
 	],
@@ -24226,20 +24110,20 @@
 		"tiwagawuliire",
 		[
 			"neg",
-			"6obj",
 			"2sg.sbj",
+			"pfv",
 			"pst",
-			"pfv"
+			"6obj"
 		]
 	],
 	[
 		"tiwagawuure",
 		[
 			"neg",
-			"6obj",
 			"2sg.sbj",
+			"pfv",
 			"pst",
-			"pfv"
+			"6obj"
 		]
 	],
 	[
@@ -24252,8 +24136,8 @@
 		"tiyeizuca",
 		[
 			"1sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -24267,23 +24151,23 @@
 		"tokitaku",
 		[
 			"2sg.sbj",
-			"neg",
-			"7obj"
+			"7obj",
+			"neg"
 		]
 	],
 	[
 		"bakaire",
 		[
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
 		"tokubona",
 		[
+			"prog",
 			"neg",
 			"2sg.sbj",
-			"prog",
 			"fv"
 		]
 	],
@@ -24303,16 +24187,16 @@
 	[
 		"gugaine",
 		[
-			"pfv",
-			"3sbj"
+			"3sbj",
+			"pfv"
 		]
 	],
 	[
 		"towuura",
 		[
 			"2sg.sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -24327,9 +24211,9 @@
 		"amanda",
 		[
 			"2sbj",
+			"18.loc",
 			"4obj",
-			"pfv",
-			"18.loc"
+			"pfv"
 		]
 	],
 	[
@@ -24354,18 +24238,18 @@
 	[
 		"tukomerye",
 		[
+			"sbjv",
 			"1pl.obj",
-			"appl",
-			"sbjv"
+			"appl"
 		]
 	],
 	[
 		"eyatereeza",
 		[
+			"fut",
 			"1sbj",
 			"s.rel",
-			"fv",
-			"fut"
+			"fv"
 		]
 	],
 	[
@@ -24389,9 +24273,9 @@
 	[
 		"tukumalaku",
 		[
+			"prog",
 			"1pl.sbj",
 			"17.loc",
-			"prog",
 			"fv"
 		]
 	],
@@ -24428,8 +24312,8 @@
 		"emisaale",
 		[
 			"2sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -24442,8 +24326,8 @@
 	[
 		"tumenyemenye",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -24459,8 +24343,8 @@
 	[
 		"twabire",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -24474,11 +24358,11 @@
 	[
 		"twabyetanga",
 		[
+			"hab",
+			"8sbj",
 			"1pl.sbj",
 			"pst",
-			"8sbj",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -24491,10 +24375,10 @@
 	[
 		"ebyayanguwanga",
 		[
-			"s.rel",
+			"hab",
 			"8sbj",
-			"fv",
-			"hab"
+			"s.rel",
+			"fv"
 		]
 	],
 	[
@@ -24506,19 +24390,19 @@
 	[
 		"twakiriire",
 		[
-			"1pl.sbj",
 			"pst",
-			"7obj",
-			"pfv"
+			"1pl.sbj",
+			"pfv",
+			"7obj"
 		]
 	],
 	[
 		"twaliwo",
 		[
-			"2sg.sbj",
-			"neg",
+			"cop",
 			"pst",
-			"cop"
+			"2sg.sbj",
+			"neg"
 		]
 	],
 	[
@@ -24537,8 +24421,8 @@
 		"waabireku",
 		[
 			"pfv",
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
 			"pst"
 		]
 	],
@@ -24563,8 +24447,8 @@
 	[
 		"waali",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"cop"
 		]
 	],
@@ -24612,8 +24496,8 @@
 	[
 		"wakitegeire",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"7obj",
 			"pfv"
 		]
@@ -24665,9 +24549,9 @@
 		"basigazi",
 		[
 			"2sbj",
-			"neg",
 			"pst",
-			"cop"
+			"cop",
+			"neg"
 		]
 	],
 	[
@@ -24697,11 +24581,11 @@
 	[
 		"omu",
 		[
+			"23.loc",
+			"cop",
 			"pfv",
 			"1sbj",
-			"cop",
-			"pst",
-			"23.loc"
+			"pst"
 		]
 	],
 	[
@@ -24740,8 +24624,8 @@
 	[
 		"wamuwaire",
 		[
-			"pfv",
 			"1obj",
+			"pfv",
 			"2sg.sbj",
 			"pst"
 		]
@@ -24755,8 +24639,8 @@
 	[
 		"wamwiyire",
 		[
-			"pfv",
 			"1obj",
+			"pfv",
 			"2sg.sbj",
 			"pst"
 		]
@@ -24764,19 +24648,19 @@
 	[
 		"wategeireku",
 		[
-			"17.loc",
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
+			"17.loc",
 			"pfv"
 		]
 	],
 	[
 		"wabagaana",
 		[
-			"2obj",
 			"2sg.sbj",
-			"fv",
-			"fut"
+			"2obj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -24797,10 +24681,10 @@
 		"bakubumalayo",
 		[
 			"2sbj",
-			"prog",
 			"23.loc",
-			"fv",
-			"14obj"
+			"prog",
+			"14obj",
+			"fv"
 		]
 	],
 	[
@@ -24810,9 +24694,9 @@
 	[
 		"weyiiyize",
 		[
+			"sbjv",
 			"2sg.sbj",
-			"caus",
-			"sbjv"
+			"caus"
 		]
 	],
 	[
@@ -24871,8 +24755,8 @@
 	[
 		"okubbe",
 		[
-			"2sg.sbj",
-			"sbjv"
+			"sbjv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -24891,8 +24775,8 @@
 		"taalina",
 		[
 			"1sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -24949,9 +24833,9 @@
 		"eyabitwalayo",
 		[
 			"8obj",
+			"23.loc",
 			"1sbj",
 			"s.rel",
-			"23.loc",
 			"fv"
 		]
 	],
@@ -24959,8 +24843,8 @@
 		"kini",
 		[
 			"foc",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -24973,8 +24857,8 @@
 	[
 		"ziyinza",
 		[
-			"10sbj",
-			"fv"
+			"fv",
+			"10sbj"
 		]
 	],
 	[
@@ -25018,10 +24902,10 @@
 	[
 		"nikayakire",
 		[
+			"12sbj",
 			"pfv",
-			"nar",
 			"pst",
-			"12sbj"
+			"nar"
 		]
 	],
 	[
@@ -25068,11 +24952,11 @@
 	[
 		"tobulimu",
 		[
-			"neg",
-			"cop",
-			"2sg.sbj",
 			"18.loc",
-			"14obj"
+			"14obj",
+			"cop",
+			"neg",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -25112,8 +24996,8 @@
 	[
 		"wetwatandikiire",
 		[
-			"2sg.sbj",
 			"18.loc",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -25126,8 +25010,8 @@
 	[
 		"akuboneka",
 		[
-			"1pl.sbj",
-			"pst"
+			"pst",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -25202,8 +25086,8 @@
 	[
 		"nakasongola",
 		[
-			"1",
-			"9"
+			"9",
+			"1"
 		]
 	],
 	[
@@ -25240,8 +25124,8 @@
 	[
 		"banankore",
 		[
-			"2",
-			"9"
+			"9",
+			"2"
 		]
 	],
 	[
@@ -25278,10 +25162,10 @@
 	[
 		"nekikuloba",
 		[
+			"2sg.obj",
 			"7sbj",
 			"nar",
-			"fv",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -25328,9 +25212,9 @@
 	[
 		"kiswalisya",
 		[
+			"fv",
 			"7sbj",
-			"caus",
-			"fv"
+			"caus"
 		]
 	],
 	[
@@ -25343,8 +25227,8 @@
 		"okukoba",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -25354,11 +25238,11 @@
 	[
 		"o",
 		[
+			"2sg.obj",
 			"aug",
-			"fv",
-			"inf",
 			"appl",
-			"2sg.obj"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -25369,18 +25253,18 @@
 		"obwenzi",
 		[
 			"2sbj",
-			"nar",
-			"fv",
+			"2sg.obj",
 			"appl",
-			"2sg.obj"
+			"nar",
+			"fv"
 		]
 	],
 	[
 		"bakunyeta",
 		[
 			"2sbj",
-			"1sg.obj",
 			"prog",
+			"1sg.obj",
 			"fv"
 		]
 	],
@@ -25398,15 +25282,15 @@
 	[
 		"za",
 		[
-			"10",
-			"2"
+			"2",
+			"10"
 		]
 	],
 	[
 		"wamubyaire",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"1obj"
 		]
 	],
@@ -25482,8 +25366,8 @@
 	[
 		"ebiintu",
 		[
-			"2sg.sbj",
-			"sbjv"
+			"sbjv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -25501,9 +25385,9 @@
 	[
 		"waaiswe",
 		[
+			"16",
 			"1pl",
-			"assoc",
-			"16"
+			"assoc"
 		]
 	],
 	[
@@ -25532,9 +25416,9 @@
 	[
 		"tinkyendya",
 		[
-			"neg",
 			"1sg.sbj",
-			"7obj"
+			"7obj",
+			"neg"
 		]
 	],
 	[
@@ -25544,9 +25428,9 @@
 	[
 		"jitwala",
 		[
+			"fv",
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"prog"
 		]
 	],
 	[
@@ -25589,24 +25473,24 @@
 	[
 		"eni",
 		[
-			"7sbj",
 			"s.rel",
+			"7sbj",
 			"cop"
 		]
 	],
 	[
 		"tetukoba",
 		[
+			"fv",
 			"1pl.sbj",
-			"neg",
-			"fv"
+			"neg"
 		]
 	],
 	[
 		"bikwiza",
 		[
-			"prog",
 			"8sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -25622,8 +25506,8 @@
 		"abantu",
 		[
 			"2sbj",
-			"17.loc",
 			"appl",
+			"17.loc",
 			"sbjv"
 		]
 	],
@@ -25637,8 +25521,8 @@
 		"tumukobe",
 		[
 			"1pl.sbj",
-			"1obj",
-			"sbjv"
+			"sbjv",
+			"1obj"
 		]
 	],
 	[
@@ -25653,10 +25537,10 @@
 		"bakwabangayo",
 		[
 			"2sbj",
-			"prog",
-			"fv",
+			"hab",
 			"23.loc",
-			"hab"
+			"prog",
+			"fv"
 		]
 	],
 	[
@@ -25680,8 +25564,8 @@
 		[
 			"neg",
 			"2sg.sbj",
-			"fut",
-			"sbjv"
+			"sbjv",
+			"fut"
 		]
 	],
 	[
@@ -25698,9 +25582,9 @@
 	[
 		"tuluku",
 		[
-			"17.loc",
+			"13sbj",
 			"cop",
-			"13sbj"
+			"17.loc"
 		]
 	],
 	[
@@ -25720,18 +25604,18 @@
 	[
 		"nabwanzala",
 		[
+			"14obj",
 			"1sbj",
 			"nar",
-			"fv",
-			"14obj"
+			"fv"
 		]
 	],
 	[
 		"nomugoba",
 		[
 			"1obj",
-			"nar",
 			"2sg.sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -25760,9 +25644,9 @@
 	[
 		"akwiraku",
 		[
+			"prog",
 			"1sbj",
 			"17.loc",
-			"prog",
 			"fv"
 		]
 	],
@@ -25770,8 +25654,8 @@
 		"nankobera",
 		[
 			"1sbj",
-			"1sg.obj",
-			"nar"
+			"nar",
+			"1sg.obj"
 		]
 	],
 	[
@@ -25795,28 +25679,28 @@
 	[
 		"ekyakuwulukamu",
 		[
+			"18.loc",
+			"2sg.obj",
+			"fut",
 			"7sbj",
 			"s.rel",
-			"18.loc",
-			"fv",
-			"fut",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
 		"kikwaba",
 		[
-			"7sbj",
+			"fv",
 			"prog",
-			"fv"
+			"7sbj"
 		]
 	],
 	[
 		"kkusiisa",
 		[
 			"inf",
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"fv"
 		]
 	],
 	[
@@ -25827,12 +25711,12 @@
 		"ba",
 		[
 			"2sbj",
+			"hab",
 			"neg",
+			"appl",
 			"17.loc",
 			"1pl.obj",
-			"fv",
-			"hab",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -25842,8 +25726,8 @@
 	[
 		"gukuwooma",
 		[
-			"prog",
-			"3sbj"
+			"3sbj",
+			"prog"
 		]
 	],
 	[
@@ -25851,8 +25735,8 @@
 		[
 			"1sg.sbj",
 			"hab",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -25871,9 +25755,9 @@
 		"omu",
 		[
 			"2sbj",
-			"fv",
 			"hab",
-			"10obj"
+			"10obj",
+			"fv"
 		]
 	],
 	[
@@ -25886,9 +25770,9 @@
 	[
 		"nebutoonyamu",
 		[
+			"18.loc",
 			"14sbj",
 			"nar",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -25921,8 +25805,8 @@
 	[
 		"ani",
 		[
-			"2sg.sbj",
 			"fut",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -25937,8 +25821,8 @@
 		"yairemu",
 		[
 			"1sbj",
-			"18.loc",
 			"pst",
+			"18.loc",
 			"pfv"
 		]
 	],
@@ -25958,8 +25842,8 @@
 	[
 		"olinde",
 		[
-			"2sg.sbj",
-			"sbjv"
+			"sbjv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -25975,16 +25859,16 @@
 		[
 			"2sbj",
 			"cop",
-			"fv",
-			"hab"
+			"hab",
+			"fv"
 		]
 	],
 	[
 		"ekijigija",
 		[
 			"2sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -25997,8 +25881,8 @@
 		"nibatunda",
 		[
 			"2sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -26049,8 +25933,8 @@
 	[
 		"nitutema",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -26095,7 +25979,7 @@
 		"odiso",
 		[
 			"aug",
-			"1.diso"
+			"1.DIS"
 		]
 	],
 	[
@@ -26108,8 +25992,8 @@
 		"omwaka",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -26128,8 +26012,8 @@
 		"ojirangeyo",
 		[
 			"9obj",
-			"2sg.sbj",
 			"23.loc",
+			"2sg.sbj",
 			"sbjv"
 		]
 	],
@@ -26141,8 +26025,8 @@
 		"anyatirye",
 		[
 			"1sbj",
-			"1sg.obj",
-			"pfv"
+			"pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -26157,8 +26041,8 @@
 		"kuweireku",
 		[
 			"17sbj",
-			"17.loc",
-			"pfv"
+			"pfv",
+			"17.loc"
 		]
 	],
 	[
@@ -26189,25 +26073,25 @@
 	[
 		"okukimanya",
 		[
-			"2sg.sbj",
 			"prog",
-			"fv",
-			"7obj"
+			"2sg.sbj",
+			"7obj",
+			"fv"
 		]
 	],
 	[
 		"o",
 		[
 			"aug",
-			"1.diso"
+			"1.DIS"
 		]
 	],
 	[
 		"diso",
 		[
+			"1",
 			"1pl",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -26226,17 +26110,17 @@
 	[
 		"okumukinga",
 		[
-			"aug",
 			"1obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
 		"nekwongera",
 		[
-			"nar",
 			"15sbj",
+			"nar",
 			"fv"
 		]
 	],
@@ -26244,9 +26128,9 @@
 		"okusabira",
 		[
 			"aug",
-			"fv",
+			"appl",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -26259,10 +26143,10 @@
 		"obbakobera",
 		[
 			"aug",
+			"appl",
 			"2obj",
-			"fv",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -26327,9 +26211,9 @@
 	[
 		"omukubbamu",
 		[
+			"18.loc",
 			"1obj",
 			"2sg.sbj",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -26364,8 +26248,8 @@
 	[
 		"oyaba",
 		[
-			"2sg.sbj",
 			"cop",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -26385,15 +26269,15 @@
 	[
 		"katandikire",
 		[
-			"sbjv",
-			"12sbj"
+			"12sbj",
+			"sbjv"
 		]
 	],
 	[
 		"oku",
 		[
-			"18.loc",
-			"sbjv"
+			"sbjv",
+			"18.loc"
 		]
 	],
 	[
@@ -26438,9 +26322,9 @@
 	[
 		"lyamu",
 		[
-			"17.loc",
 			"1sg.obj",
 			"appl",
+			"17.loc",
 			"sbjv"
 		]
 	],
@@ -26462,8 +26346,8 @@
 		"tebakyabba",
 		[
 			"2sbj",
-			"neg",
 			"cop",
+			"neg",
 			"fv"
 		]
 	],
@@ -26474,9 +26358,9 @@
 	[
 		"tebirina",
 		[
-			"neg",
 			"8sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -26486,8 +26370,8 @@
 	[
 		"tubireke",
 		[
-			"1pl.sbj",
-			"8obj"
+			"8obj",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -26507,8 +26391,8 @@
 	[
 		"twatambwireku",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"17.loc",
 			"pfv"
 		]
@@ -26527,9 +26411,9 @@
 	[
 		"wakitegeireku",
 		[
-			"17.loc",
 			"pfv",
 			"2sg.sbj",
+			"17.loc",
 			"pst",
 			"7obj"
 		]
@@ -26538,9 +26422,9 @@
 		"bakuteekangamu",
 		[
 			"2sbj",
+			"18.loc",
 			"hab",
 			"prog",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -26598,11 +26482,11 @@
 	[
 		"eyanyumizanga",
 		[
+			"hab",
+			"pst",
 			"1sbj",
 			"s.rel",
-			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -26612,9 +26496,9 @@
 	[
 		"okuba",
 		[
+			"cop",
 			"2sg.sbj",
-			"prog",
-			"cop"
+			"prog"
 		]
 	],
 	[
@@ -26702,8 +26586,8 @@
 		"balekeeenge",
 		[
 			"2sbj",
-			"sbjv",
-			"hab"
+			"hab",
+			"sbjv"
 		]
 	],
 	[
@@ -26724,9 +26608,9 @@
 	[
 		"kinjuna",
 		[
+			"fv",
 			"7sbj",
-			"1sg.obj",
-			"fv"
+			"1sg.obj"
 		]
 	],
 	[
@@ -26743,10 +26627,10 @@
 	[
 		"likwakalyawo",
 		[
-			"16.loc",
 			"prog",
-			"fv",
-			"5sbj"
+			"16.loc",
+			"5sbj",
+			"fv"
 		]
 	],
 	[
@@ -26760,9 +26644,9 @@
 	[
 		"mbe",
 		[
+			"foc",
 			"16",
-			"med",
-			"foc"
+			"med"
 		]
 	],
 	[
@@ -26779,9 +26663,9 @@
 	[
 		"omujungu",
 		[
-			"neg",
+			"cop",
 			"7",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -26824,8 +26708,8 @@
 		[
 			"8obj",
 			"aug",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -26851,10 +26735,10 @@
 		"mbakugezaku",
 		[
 			"2sbj",
-			"nar",
+			"2sg.obj",
 			"17.loc",
-			"fv",
-			"2sg.obj"
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -26879,10 +26763,10 @@
 	[
 		"nga",
 		[
-			"aug",
 			"1obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -26906,9 +26790,9 @@
 	[
 		"obbe",
 		[
+			"sbjv",
 			"2sg.sbj",
-			"cop",
-			"sbjv"
+			"cop"
 		]
 	],
 	[
@@ -26945,18 +26829,18 @@
 	[
 		"osukaali",
 		[
-			"add.foc",
 			"aug",
+			"inf",
 			"fv",
-			"inf"
+			"add.foc"
 		]
 	],
 	[
 		"gyakwaaba",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -26966,8 +26850,8 @@
 	[
 		"mukucanga",
 		[
-			"prog",
 			"2pl.sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -26976,8 +26860,8 @@
 		[
 			"2sbj",
 			"prog",
-			"fv",
-			"appl"
+			"appl",
+			"fv"
 		]
 	],
 	[
@@ -27023,8 +26907,8 @@
 	[
 		"kyali",
 		[
-			"7sbj",
 			"pst",
+			"7sbj",
 			"cop"
 		]
 	],
@@ -27045,10 +26929,10 @@
 		"abakkweeta",
 		[
 			"2sbj",
-			"s.rel",
+			"2sg.obj",
 			"prog",
-			"fv",
-			"2sg.obj"
+			"s.rel",
+			"fv"
 		]
 	],
 	[
@@ -27074,9 +26958,9 @@
 	[
 		"nibairukiriire",
 		[
-			"pfv",
 			"2sbj",
-			"nar"
+			"nar",
+			"pfv"
 		]
 	],
 	[
@@ -27102,11 +26986,11 @@
 		"abataalowo",
 		[
 			"2sbj",
+			"pst",
 			"neg",
-			"s.rel",
-			"16.loc",
 			"cop",
-			"pst"
+			"16.loc",
+			"s.rel"
 		]
 	],
 	[
@@ -27190,8 +27074,8 @@
 	[
 		"n'esikaati",
 		[
-			"fv",
-			"hab"
+			"hab",
+			"fv"
 		]
 	],
 	[
@@ -27262,9 +27146,9 @@
 	[
 		"takusobola",
 		[
+			"prog",
 			"neg",
 			"1sbj",
-			"prog",
 			"fv"
 		]
 	],
@@ -27323,16 +27207,16 @@
 		[
 			"neg",
 			"2sg.sbj",
-			"fut",
-			"sbjv"
+			"sbjv",
+			"fut"
 		]
 	],
 	[
 		"kambulungutania",
 		[
-			"1sg.obj",
 			"12sbj",
-			"fv"
+			"fv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -27342,9 +27226,8 @@
 	[
 		"kamwanukule",
 		[
-			"1obj",
-			"hort",
-			"sbjv"
+			"sbjv",
+			"1obj"
 		]
 	],
 	[
@@ -27422,18 +27305,18 @@
 	[
 		"akusange",
 		[
-			"1sbj",
 			"2sg.obj",
 			"prog",
+			"1sbj",
 			"sbjv"
 		]
 	],
 	[
 		"akusombanga",
 		[
-			"1sbj",
 			"hab",
 			"prog",
+			"1sbj",
 			"fv"
 		]
 	],
@@ -27441,8 +27324,8 @@
 		"akutyodola",
 		[
 			"1sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -27457,8 +27340,8 @@
 		"akwiza",
 		[
 			"1sbj",
-			"prog",
 			"cop",
+			"prog",
 			"fv"
 		]
 	],
@@ -27467,8 +27350,8 @@
 		[
 			"aug",
 			"1pl.obj",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -27490,8 +27373,8 @@
 	[
 		"ekuleeta",
 		[
-			"prog",
 			"9sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -27583,9 +27466,9 @@
 	[
 		"waiswe",
 		[
+			"16",
 			"1pl",
-			"assoc",
-			"16"
+			"assoc"
 		]
 	],
 	[
@@ -27600,8 +27483,8 @@
 		"enzala",
 		[
 			"2sbj",
-			"s.rel",
 			"prog",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -27609,8 +27492,8 @@
 		"ankobere",
 		[
 			"1sbj",
-			"1sg.obj",
-			"sbjv"
+			"sbjv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -27660,10 +27543,10 @@
 	[
 		"yamusomeserye",
 		[
-			"1sbj",
 			"1obj",
+			"1sbj",
 			"pst",
-			"CAUS:PFV"
+			"caus:pfv"
 		]
 	],
 	[
@@ -27819,14 +27702,6 @@
 		]
 	],
 	[
-		"naali",
-		[
-			"pst",
-			"1sg.sbj",
-			"cop"
-		]
-	],
-	[
 		"nkyate",
 		[
 			"cop"
@@ -27846,9 +27721,9 @@
 	[
 		"nankwenderye",
 		[
-			"pfv",
 			"prog",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
@@ -27856,8 +27731,8 @@
 		[
 			"aug",
 			"17.loc",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -27873,17 +27748,17 @@
 	[
 		"ndeka",
 		[
-			"2sg.sbj",
 			"1sg.obj",
-			"fv",
-			"fut"
+			"2sg.sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
 		"nje",
 		[
-			"1sg.obj",
-			"fv"
+			"fv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -27900,11 +27775,11 @@
 	[
 		"tukujoowanga",
 		[
-			"1pl.sbj",
 			"9obj",
+			"hab",
 			"prog",
-			"fv",
-			"hab"
+			"1pl.sbj",
+			"fv"
 		]
 	],
 	[
@@ -27930,10 +27805,10 @@
 	[
 		"okulugayo",
 		[
-			"aug",
 			"23.loc",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -27949,8 +27824,8 @@
 	[
 		"nabaza",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
@@ -28061,9 +27936,9 @@
 	[
 		"omukoora",
 		[
-			"2sg.sbj",
-			"fv",
 			"appl",
+			"fv",
+			"2sg.sbj",
 			"1obj"
 		]
 	],
@@ -28084,8 +27959,8 @@
 	[
 		"tunenye",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -28100,9 +27975,9 @@
 		"twazinyonyola",
 		[
 			"1pl.sbj",
-			"fv",
+			"10obj",
 			"fut",
-			"10obj"
+			"fv"
 		]
 	],
 	[
@@ -28122,8 +27997,8 @@
 		"nkunyonyoire",
 		[
 			"1sg.sbj",
-			"pfv",
-			"2sg.obj"
+			"2sg.obj",
+			"pfv"
 		]
 	],
 	[
@@ -28142,11 +28017,11 @@
 	[
 		"likunnyaatisya",
 		[
+			"prog",
 			"caus",
 			"1sg.obj",
-			"prog",
-			"fv",
-			"5sbj"
+			"5sbj",
+			"fv"
 		]
 	],
 	[
@@ -28165,15 +28040,15 @@
 	[
 		"kakkudakuda",
 		[
-			"cop",
-			"12sbj"
+			"12sbj",
+			"cop"
 		]
 	],
 	[
 		"buli",
 		[
-			"prog",
 			"12sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -28205,8 +28080,8 @@
 		"ebya",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -28219,8 +28094,8 @@
 	[
 		"awali",
 		[
-			"16sbj",
 			"s.rel",
+			"16sbj",
 			"cop"
 		]
 	],
@@ -28234,8 +28109,8 @@
 		"bakumucangacanga",
 		[
 			"2sbj",
-			"1obj",
 			"prog",
+			"1obj",
 			"fv"
 		]
 	],
@@ -28274,8 +28149,8 @@
 		"baikaire",
 		[
 			"2sbj",
-			"pfv",
-			"fv"
+			"fv",
+			"pfv"
 		]
 	],
 	[
@@ -28342,8 +28217,8 @@
 		"kutandikira",
 		[
 			"inf",
-			"appl",
-			"fv"
+			"fv",
+			"appl"
 		]
 	],
 	[
@@ -28415,8 +28290,8 @@
 		"balinaku",
 		[
 			"2sbj",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -28451,8 +28326,8 @@
 		"bakumucanga",
 		[
 			"2sbj",
-			"1obj",
 			"prog",
+			"1obj",
 			"fv"
 		]
 	],
@@ -28460,8 +28335,8 @@
 		"bakusodokera",
 		[
 			"2sbj",
-			"pfv",
 			"prog",
+			"pfv",
 			"fv"
 		]
 	],
@@ -28484,8 +28359,8 @@
 		"batatubuulya",
 		[
 			"2sbj",
-			"neg",
-			"1pl.obj"
+			"1pl.obj",
+			"neg"
 		]
 	],
 	[
@@ -28507,8 +28382,8 @@
 	[
 		"omu",
 		[
-			"sbjv",
-			"hab"
+			"hab",
+			"sbjv"
 		]
 	],
 	[
@@ -28539,8 +28414,8 @@
 	[
 		"kusai",
 		[
-			"fv",
-			"hab"
+			"hab",
+			"fv"
 		]
 	],
 	[
@@ -28554,9 +28429,9 @@
 		"ntiina",
 		[
 			"aug",
-			"fv",
 			"inf",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -28564,9 +28439,9 @@
 		[
 			"8obj",
 			"1sg.sbj",
+			"hab",
 			"nar",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
@@ -28588,17 +28463,17 @@
 		"babisembeirye",
 		[
 			"2sbj",
-			"8obj",
-			"pfv"
+			"pfv",
+			"8obj"
 		]
 	],
 	[
 		"bbanga",
 		[
 			"2sbj",
+			"hab",
 			"fv",
-			"cop",
-			"hab"
+			"cop"
 		]
 	],
 	[
@@ -28613,7 +28488,7 @@
 		[
 			"8obj",
 			"foc",
-			"APPL:PFV"
+			"appl:pfv"
 		]
 	],
 	[
@@ -28654,17 +28529,17 @@
 	[
 		"obwenzi",
 		[
-			"APPL:PFV"
+			"appl:pfv"
 		]
 	],
 	[
 		"likkugongerya",
 		[
-			"caus",
+			"2sg.obj",
 			"prog",
-			"fv",
+			"caus",
 			"5sbj",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -28675,8 +28550,8 @@
 		"abakkoba",
 		[
 			"2sbj",
-			"s.rel",
 			"prog",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -28694,9 +28569,9 @@
 		"taliyo",
 		[
 			"1sbj",
-			"neg",
+			"cop",
 			"23.loc",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -28736,8 +28611,8 @@
 	[
 		"ebyo",
 		[
-			"1pl.sbj",
 			"hab",
+			"1pl.sbj",
 			"pst",
 			"fv"
 		]
@@ -28827,9 +28702,9 @@
 	[
 		"nololeera",
 		[
+			"fv",
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"prog"
 		]
 	],
 	[
@@ -28843,18 +28718,18 @@
 	[
 		"byona",
 		[
-			"8",
-			"add.foc"
+			"add.foc",
+			"8"
 		]
 	],
 	[
 		"nibirwanisyanga",
 		[
+			"hab",
 			"caus",
-			"nar",
 			"8sbj",
-			"fv",
-			"hab"
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -28919,8 +28794,8 @@
 	[
 		"twepimanga",
 		[
-			"1pl.sbj",
 			"hab",
+			"1pl.sbj",
 			"fv",
 			"refl"
 		]
@@ -28936,9 +28811,9 @@
 	[
 		"oti",
 		[
-			"caus",
 			"fv",
-			"hab"
+			"hab",
+			"caus"
 		]
 	],
 	[
@@ -28948,9 +28823,9 @@
 	[
 		"nibireetere",
 		[
-			"APPL:PFV",
+			"8sbj",
 			"nar",
-			"8sbj"
+			"appl:pfv"
 		]
 	],
 	[
@@ -28962,20 +28837,20 @@
 	[
 		"n'okutema",
 		[
-			"add.foc",
 			"aug",
+			"inf",
 			"fv",
-			"inf"
+			"add.foc"
 		]
 	],
 	[
 		"kikkuleetera",
 		[
+			"2sg.obj",
 			"prog",
-			"8sbj",
-			"fv",
 			"appl",
-			"2sg.obj"
+			"8sbj",
+			"fv"
 		]
 	],
 	[
@@ -28988,9 +28863,9 @@
 	[
 		"twandibirekere",
 		[
-			"1pl.sbj",
 			"8obj",
 			"pfv",
+			"1pl.sbj",
 			"pst",
 			"cntrfact"
 		]
@@ -28998,8 +28873,8 @@
 	[
 		"biriwo",
 		[
-			"16.loc",
 			"8sbj",
+			"16.loc",
 			"cop"
 		]
 	],
@@ -29032,8 +28907,8 @@
 	[
 		"ba",
 		[
-			"2",
-			"14"
+			"14",
+			"2"
 		]
 	],
 	[
@@ -29068,8 +28943,8 @@
 		"okwongera",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -29088,9 +28963,9 @@
 	[
 		"ekikuleeta",
 		[
-			"7sbj",
 			"s.rel",
-			"prog"
+			"prog",
+			"7sbj"
 		]
 	],
 	[
@@ -29102,9 +28977,9 @@
 	[
 		"ekinsemeerya",
 		[
+			"1sg.obj",
 			"7sbj",
 			"s.rel",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -29123,25 +28998,25 @@
 		"kiduuli",
 		[
 			"2sg.sbj",
-			"7obj",
-			"pfv"
+			"pfv",
+			"7obj"
 		]
 	],
 	[
 		"ekitalugawo",
 		[
-			"7sbj",
 			"s.rel",
+			"7sbj",
 			"neg"
 		]
 	],
 	[
 		"ekiriibwa",
 		[
+			"pass",
 			"7sbj",
 			"s.rel",
-			"fv",
-			"pass"
+			"fv"
 		]
 	],
 	[
@@ -29180,33 +29055,33 @@
 		"bakigotegotere",
 		[
 			"2sbj",
-			"7obj",
-			"pfv"
+			"pfv",
+			"7obj"
 		]
 	],
 	[
 		"yabyaire",
 		[
-			"1pl.sbj",
+			"hab",
 			"neg",
+			"1pl.sbj",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
 		"ekutuleka",
 		[
-			"prog",
+			"1pl.obj",
 			"9sbj",
-			"1pl.obj"
+			"prog"
 		]
 	],
 	[
 		"ekuwa",
 		[
-			"prog",
 			"9sbj",
+			"prog",
 			"fv"
 		]
 	],
@@ -29242,10 +29117,10 @@
 	[
 		"okugutunda",
 		[
-			"aug",
 			"3obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -29273,14 +29148,6 @@
 			"2sbj",
 			"pfv",
 			"4obj"
-		]
-	],
-	[
-		"gyamwe",
-		[
-			"1",
-			"assoc",
-			"4"
 		]
 	],
 	[
@@ -29314,8 +29181,8 @@
 	[
 		"zibuure",
 		[
-			"10sbj",
-			"pfv"
+			"pfv",
+			"10sbj"
 		]
 	],
 	[
@@ -29348,17 +29215,17 @@
 		[
 			"9obj",
 			"2sg.sbj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
 		"netabbaawo",
 		[
-			"neg",
+			"cop",
 			"9sbj",
 			"nar",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -29379,8 +29246,8 @@
 		[
 			"2sbj",
 			"9obj",
-			"fv",
-			"appl"
+			"appl",
+			"fv"
 		]
 	],
 	[
@@ -29396,8 +29263,8 @@
 	[
 		"zirina",
 		[
-			"10sbj",
-			"fv"
+			"fv",
+			"10sbj"
 		]
 	],
 	[
@@ -29424,16 +29291,16 @@
 	[
 		"ekuluga",
 		[
-			"prog",
-			"9sbj"
+			"9sbj",
+			"prog"
 		]
 	],
 	[
 		"mukaire",
 		[
-			"neg",
 			"9sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -29444,8 +29311,8 @@
 		"waliireku",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -29465,37 +29332,37 @@
 		"ewaamwei",
 		[
 			"aug",
-			"1.",
-			"assoc",
-			"1"
+			"1",
+			"1",
+			"assoc"
 		]
 	],
 	[
 		"terikwakayo",
 		[
-			"neg",
-			"prog",
 			"23.loc",
-			"fv",
-			"5sbj"
+			"prog",
+			"neg",
+			"5sbj",
+			"fv"
 		]
 	],
 	[
 		"teziriyo",
 		[
-			"23.loc",
-			"neg",
+			"cop",
 			"4sbj",
-			"cop"
+			"23.loc",
+			"neg"
 		]
 	],
 	[
 		"eyamaliirya",
 		[
+			"fut",
 			"1sbj",
 			"s.rel",
-			"fv",
-			"fut"
+			"fv"
 		]
 	],
 	[
@@ -29507,19 +29374,19 @@
 	[
 		"niziwaayo",
 		[
+			"23.loc",
 			"10sbj",
 			"nar",
-			"23.loc",
 			"fv"
 		]
 	],
 	[
 		"gakwisanangana",
 		[
-			"22sbj",
 			"prog",
-			"fv",
-			"recp"
+			"22sbj",
+			"recp",
+			"fv"
 		]
 	],
 	[
@@ -29533,8 +29400,8 @@
 	[
 		"gikinge",
 		[
-			"9sbj",
-			"sbjv"
+			"sbjv",
+			"9sbj"
 		]
 	],
 	[
@@ -29561,8 +29428,8 @@
 	[
 		"nga",
 		[
-			"7sbj",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -29576,16 +29443,16 @@
 	[
 		"kuluku",
 		[
-			"17.loc",
 			"17sbj",
+			"17.loc",
 			"cop"
 		]
 	],
 	[
 		"gukwaite",
 		[
-			"pfv",
-			"3sbj"
+			"3sbj",
+			"pfv"
 		]
 	],
 	[
@@ -29599,8 +29466,8 @@
 		"tokanya",
 		[
 			"2sg.sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -29638,18 +29505,18 @@
 		"ewaiswembe",
 		[
 			"aug",
-			"foc",
+			"16",
 			"1pl",
 			"assoc",
-			"16"
+			"foc"
 		]
 	],
 	[
 		"twabbanga",
 		[
-			"1pl.sbj",
 			"hab",
 			"cop",
+			"1pl.sbj",
 			"pst",
 			"fv"
 		]
@@ -29663,8 +29530,8 @@
 	[
 		"omu",
 		[
-			"1pl.sbj",
 			"fut",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -29697,9 +29564,9 @@
 	[
 		"tikikola",
 		[
+			"fv",
 			"7sbj",
-			"neg",
-			"fv"
+			"neg"
 		]
 	],
 	[
@@ -29711,8 +29578,8 @@
 	[
 		"kibbaamu",
 		[
-			"7sbj",
 			"18.loc",
+			"7sbj",
 			"cop"
 		]
 	],
@@ -29725,8 +29592,8 @@
 	[
 		"kikuboneka",
 		[
-			"7sbj",
-			"prog"
+			"prog",
+			"7sbj"
 		]
 	],
 	[
@@ -29750,10 +29617,10 @@
 	[
 		"tikiikirizibwa",
 		[
+			"pass",
 			"neg",
 			"7sbj",
-			"fv",
-			"pass"
+			"fv"
 		]
 	],
 	[
@@ -29767,11 +29634,11 @@
 	[
 		"tutyai",
 		[
+			"hab",
 			"1pl.sbj",
 			"pst",
-			"fv",
-			"hab",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -29804,8 +29671,8 @@
 	[
 		"kisigala",
 		[
-			"7sbj",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -29817,15 +29684,15 @@
 	[
 		"kiswaza",
 		[
-			"7sbj",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
 		"kititiira",
 		[
-			"7sbj",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -29855,25 +29722,25 @@
 	[
 		"amabara",
 		[
+			"hab",
 			"aug",
 			"2obj",
-			"fv",
-			"hab",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
 		"tuyinduke",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
 		"tulye",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -29907,10 +29774,10 @@
 	[
 		"byabbangamu",
 		[
-			"hab",
-			"cop",
-			"pst",
 			"18.loc",
+			"hab",
+			"pst",
+			"cop",
 			"8sbj",
 			"fv"
 		]
@@ -29932,17 +29799,17 @@
 	[
 		"okwaba",
 		[
-			"2sg.sbj",
-			"prog",
 			"cop",
-			"fv"
+			"2sg.sbj",
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"otunde",
 		[
-			"2sg.sbj",
-			"sbjv"
+			"sbjv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -29955,8 +29822,8 @@
 		"eengeri",
 		[
 			"pst",
-			"fv",
-			"hab"
+			"hab",
+			"fv"
 		]
 	],
 	[
@@ -29977,8 +29844,8 @@
 		[
 			"neg",
 			"1sbj",
-			"nar",
-			"sbjv"
+			"sbjv",
+			"nar"
 		]
 	],
 	[
@@ -30003,8 +29870,8 @@
 		"kusodokera",
 		[
 			"inf",
-			"appl",
-			"fv"
+			"fv",
+			"appl"
 		]
 	],
 	[
@@ -30020,8 +29887,8 @@
 	[
 		"kwona",
 		[
-			"7",
-			"add.foc"
+			"add.foc",
+			"7"
 		]
 	],
 	[
@@ -30054,8 +29921,8 @@
 		"ne",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -30073,17 +29940,17 @@
 	[
 		"kyawoomanga",
 		[
-			"7sbj",
 			"hab",
-			"fv",
-			"fut"
+			"7sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
 		"twakoore",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -30117,8 +29984,8 @@
 	[
 		"kyona",
 		[
-			"7",
-			"add.foc"
+			"add.foc",
+			"7"
 		]
 	],
 	[
@@ -30129,8 +29996,8 @@
 		"nkusembere",
 		[
 			"1sg.sbj",
-			"pfv",
-			"2sg.obj"
+			"2sg.obj",
+			"pfv"
 		]
 	],
 	[
@@ -30155,16 +30022,16 @@
 		"ki",
 		[
 			"6sbj",
-			"1obj",
-			"pfv"
+			"pfv",
+			"1obj"
 		]
 	],
 	[
 		"linsemeize",
 		[
-			"1sg.obj",
+			"pfv",
 			"5sbj",
-			"pfv"
+			"1sg.obj"
 		]
 	],
 	[
@@ -30179,9 +30046,9 @@
 		"mbakubuulya",
 		[
 			"2sbj",
+			"2sg.obj",
 			"nar",
-			"fv",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -30210,9 +30077,9 @@
 	[
 		"naye",
 		[
+			"1obj",
 			"neg",
 			"1sbj",
-			"1obj",
 			"fv"
 		]
 	],
@@ -30244,8 +30111,8 @@
 	[
 		"tulongoosa",
 		[
-			"1pl.sbj",
 			"cop",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -30262,8 +30129,8 @@
 	[
 		"mulabule",
 		[
-			"1obj",
-			"sbjv"
+			"sbjv",
+			"1obj"
 		]
 	],
 	[
@@ -30309,8 +30176,8 @@
 		"nti",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -30335,7 +30202,7 @@
 		"yaamwei",
 		[
 			"9",
-			"1.",
+			"1",
 			"assoc"
 		]
 	],
@@ -30356,9 +30223,9 @@
 	[
 		"waliyo",
 		[
+			"1",
 			"1sg",
-			"assoc",
-			"1"
+			"assoc"
 		]
 	],
 	[
@@ -30372,16 +30239,16 @@
 	[
 		"ololereire",
 		[
-			"2sg.sbj",
-			"cop"
+			"cop",
+			"2sg.sbj"
 		]
 	],
 	[
 		"obujuungu",
 		[
 			"2sg.sbj",
-			"appl",
-			"sbjv"
+			"sbjv",
+			"appl"
 		]
 	],
 	[
@@ -30407,11 +30274,11 @@
 	[
 		"n'okkwalika",
 		[
-			"add.foc",
+			"2sg.obj",
 			"aug",
 			"fv",
 			"inf",
-			"2sg.obj"
+			"add.foc"
 		]
 	],
 	[
@@ -30429,8 +30296,8 @@
 		"bakulindire",
 		[
 			"2sbj",
-			"pfv",
-			"2sg.obj"
+			"2sg.obj",
+			"pfv"
 		]
 	],
 	[
@@ -30440,9 +30307,9 @@
 	[
 		"ensi",
 		[
+			"sbjv",
 			"2sg.sbj",
-			"neg",
-			"sbjv"
+			"neg"
 		]
 	],
 	[
@@ -30462,9 +30329,9 @@
 	[
 		"ninkyali",
 		[
+			"cop",
 			"nar",
-			"1sg.sbj",
-			"cop"
+			"1sg.sbj"
 		]
 	],
 	[
@@ -30532,8 +30399,8 @@
 	[
 		"tinaliireku",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
 			"pfv",
 			"17.loc",
 			"pst"
@@ -30549,19 +30416,19 @@
 	[
 		"nakulugayo",
 		[
+			"23.loc",
+			"prog",
 			"1sbj",
 			"nar",
-			"prog",
-			"23.loc",
 			"fv"
 		]
 	],
 	[
 		"nakuwaabira",
 		[
+			"prog",
 			"1sbj",
 			"nar",
-			"prog",
 			"fv"
 		]
 	],
@@ -30569,23 +30436,17 @@
 		"nozigabana",
 		[
 			"4obj",
-			"nar",
 			"2sg.sbj",
+			"nar",
 			"fv"
-		]
-	],
-	[
-		"igolo",
-		[
-			"?"
 		]
 	],
 	[
 		"namwitiraine",
 		[
-			"1obj",
 			"pst",
-			"1sg.sbj"
+			"1sg.sbj",
+			"1obj"
 		]
 	],
 	[
@@ -30608,8 +30469,8 @@
 		"natunda",
 		[
 			"1sbj",
-			"nar",
-			"fv"
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -30644,8 +30505,8 @@
 	[
 		"obakubba",
 		[
-			"2sg.sbj",
 			"2sbj",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -30656,8 +30517,8 @@
 	[
 		"tukigwireku",
 		[
-			"1pl.sbj",
 			"pfv",
+			"1pl.sbj",
 			"17.loc",
 			"7obj"
 		]
@@ -30673,8 +30534,8 @@
 	[
 		"wabba",
 		[
-			"16sbj",
-			"cop"
+			"cop",
+			"16sbj"
 		]
 	],
 	[
@@ -30686,8 +30547,8 @@
 	[
 		"obunyaata",
 		[
-			"16.loc",
-			"pfv"
+			"pfv",
+			"16.loc"
 		]
 	],
 	[
@@ -30697,33 +30558,33 @@
 	[
 		"twairukire",
 		[
+			"1sbj",
 			"1pl.sbj",
-			"pfv",
-			"1sbj"
+			"pfv"
 		]
 	],
 	[
 		"twamaare",
 		[
+			"1sbj",
 			"1pl.sbj",
-			"pfv",
-			"1sbj"
+			"pfv"
 		]
 	],
 	[
 		"aka",
 		[
 			"aug",
-			"12",
-			"8"
+			"8",
+			"12"
 		]
 	],
 	[
 		"bingi",
 		[
 			"nar",
-			"fv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"fv"
 		]
 	],
 	[
@@ -30741,7 +30602,6 @@
 		"kambendeere",
 		[
 			"sbjv",
-			"hort",
 			"1sg.sbj"
 		]
 	],
@@ -30755,10 +30615,9 @@
 	[
 		"omweryana",
 		[
-			"hort",
 			"7sbj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -30814,8 +30673,8 @@
 	[
 		"tweyongereyo",
 		[
-			"foc",
-			"sbjv"
+			"sbjv",
+			"foc"
 		]
 	],
 	[
@@ -30839,9 +30698,9 @@
 	[
 		"naabire",
 		[
-			"cop",
 			"pst",
 			"1sg.sbj",
+			"cop",
 			"pfv"
 		]
 	],
@@ -30849,9 +30708,9 @@
 		"okukiloleera",
 		[
 			"aug",
-			"fv",
 			"inf",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -30860,7 +30719,7 @@
 			"18.loc",
 			"pst",
 			"1sg.sbj",
-			"grow:pfv~grow:pfv"
+			"pfv"
 		]
 	],
 	[
@@ -30870,9 +30729,9 @@
 	[
 		"nkubonamu",
 		[
+			"18.loc",
 			"1sg.sbj",
 			"prog",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -30896,10 +30755,10 @@
 	[
 		"tuli",
 		[
-			"1sbj",
-			"fv",
 			"hab",
-			"fut"
+			"1sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -30937,8 +30796,8 @@
 		"olinaku",
 		[
 			"2sg.sbj",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -30959,8 +30818,8 @@
 	[
 		"okyabulaamu",
 		[
-			"2sg.sbj",
 			"18.loc",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -30977,9 +30836,9 @@
 		"yerumira",
 		[
 			"1sbj",
+			"appl",
 			"fv",
-			"refl",
-			"appl"
+			"refl"
 		]
 	],
 	[
@@ -31000,8 +30859,8 @@
 		"omubiro",
 		[
 			"2sg.sbj",
-			"neg",
-			"pfv"
+			"pfv",
+			"neg"
 		]
 	],
 	[
@@ -31021,11 +30880,11 @@
 	[
 		"gyokwikira",
 		[
-			"2sg.sbj",
 			"prog",
-			"fv",
+			"appl",
+			"2sg.sbj",
 			"23.rel",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -31040,8 +30899,8 @@
 		"omuyembe",
 		[
 			"appl",
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"1sg.obj"
 		]
 	],
@@ -31060,9 +30919,9 @@
 	[
 		"tukwaba",
 		[
+			"18.loc",
 			"1sg.sbj",
 			"prog",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -31083,8 +30942,8 @@
 		"buduuli",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -31139,8 +30998,8 @@
 	[
 		"ndiyo",
 		[
-			"23.loc",
 			"1sg.sbj",
+			"23.loc",
 			"cop"
 		]
 	],
@@ -31168,9 +31027,9 @@
 	[
 		"nitulanganga",
 		[
+			"hab",
 			"1pl.sbj",
 			"nar",
-			"hab",
 			"fv"
 		]
 	],
@@ -31195,19 +31054,19 @@
 	[
 		"nebwewaabba",
 		[
-			"add.foc",
-			"14.rel",
+			"cop",
 			"2sg.sbj",
+			"14.rel",
 			"pst",
-			"cop"
+			"add.foc"
 		]
 	],
 	[
 		"bakubbwaku",
 		[
 			"2sbj",
-			"17.loc",
 			"prog",
+			"17.loc",
 			"fv"
 		]
 	],
@@ -31235,12 +31094,12 @@
 		"nkukwiryayo",
 		[
 			"1sg.sbj",
+			"2sg.obj",
+			"23.loc",
 			"foc",
 			"prog",
 			"caus",
-			"23.loc",
-			"fv",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -31287,9 +31146,9 @@
 	[
 		"kusai",
 		[
+			"prog",
 			"neg",
 			"1sbj",
-			"prog",
 			"fv"
 		]
 	],
@@ -31319,32 +31178,40 @@
 	[
 		"tusookere",
 		[
-			"1pl.sbj",
-			"pfv"
+			"pfv",
+			"1pl.sbj"
 		]
 	],
 	[
 		"okubita",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"waabba",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"cop"
+		]
+	],
+	[
+		"okukoba",
+		[
+			"fv",
+			"2sg.sbj",
+			"prog"
 		]
 	],
 	[
 		"tokopa",
 		[
 			"2sg.sbj",
-			"neg",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -31366,8 +31233,8 @@
 	[
 		"ni",
 		[
-			"nar",
-			"1sg.sbj"
+			"1sg.sbj",
+			"nar"
 		]
 	],
 	[
@@ -31394,18 +31261,18 @@
 	[
 		"nkulolalolamu",
 		[
+			"18.loc",
 			"1sg.sbj",
 			"prog",
-			"18.loc",
 			"fv"
 		]
 	],
 	[
 		"nkusubiriire",
 		[
-			"APPL:PFV",
 			"1sg.sbj",
-			"2sg.obj"
+			"2sg.obj",
+			"appl:pfv"
 		]
 	],
 	[
@@ -31419,16 +31286,16 @@
 		"okuseengeiza",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
 		"tukwirayo",
 		[
-			"1pl.sbj",
-			"prog",
 			"23.loc",
+			"prog",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -31494,22 +31361,22 @@
 		"niimanya",
 		[
 			"nar",
-			"fv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"fv"
 		]
 	],
 	[
 		"nijooma",
 		[
-			"4sbj",
-			"nar"
+			"nar",
+			"4sbj"
 		]
 	],
 	[
 		"nikimutwala",
 		[
-			"7sbj",
 			"1obj",
+			"7sbj",
 			"nar",
 			"fv"
 		]
@@ -31518,8 +31385,8 @@
 		"kukwokya",
 		[
 			"inf",
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"fv"
 		]
 	],
 	[
@@ -31557,9 +31424,9 @@
 	[
 		"ekisiisa",
 		[
-			"7sbj",
 			"s.rel",
-			"fv"
+			"fv",
+			"7sbj"
 		]
 	],
 	[
@@ -31594,12 +31461,12 @@
 	[
 		"ebikujundirayo",
 		[
-			"s.rel",
-			"prog",
-			"8sbj",
 			"23.loc",
-			"fv",
-			"appl"
+			"8sbj",
+			"prog",
+			"appl",
+			"s.rel",
+			"fv"
 		]
 	],
 	[
@@ -31619,9 +31486,9 @@
 	[
 		"ninetegereza",
 		[
+			"fv",
 			"nar",
-			"1sg.sbj",
-			"fv"
+			"1sg.sbj"
 		]
 	],
 	[
@@ -31652,8 +31519,8 @@
 		[
 			"1sbj",
 			"sbjv",
-			"cop",
-			"hab"
+			"hab",
+			"cop"
 		]
 	],
 	[
@@ -31675,25 +31542,25 @@
 	[
 		"nitukola",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
 	[
 		"nitukusiga",
 		[
+			"prog",
 			"1pl.sbj",
 			"nar",
-			"prog",
 			"fv"
 		]
 	],
 	[
 		"nitwaraatana",
 		[
-			"1pl.sbj",
 			"nar",
+			"1pl.sbj",
 			"fv"
 		]
 	],
@@ -31727,10 +31594,10 @@
 	[
 		"yajunanga",
 		[
-			"1sbj",
 			"hab",
-			"fv",
-			"fut"
+			"1sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -31744,20 +31611,20 @@
 	[
 		"yakwalikire",
 		[
+			"2sg.obj",
 			"pfv",
 			"1sbj",
-			"pst",
-			"2sg.obj"
+			"pst"
 		]
 	],
 	[
 		"niyerumira",
 		[
 			"1sbj",
-			"nar",
 			"fv",
-			"refl",
-			"appl"
+			"appl",
+			"nar",
+			"refl"
 		]
 	],
 	[
@@ -31810,9 +31677,9 @@
 	[
 		"bbaibbuli",
 		[
-			"1sg.obj",
 			"8sbj",
-			"pfv"
+			"pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -31825,9 +31692,9 @@
 	[
 		"bini",
 		[
-			"1sg.obj",
-			"APPL:PFV",
-			"8sbj"
+			"8sbj",
+			"appl:pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -31846,11 +31713,11 @@
 		"nkukukobera",
 		[
 			"1sg.sbj",
+			"2sg.obj",
 			"foc",
 			"prog",
-			"fv",
 			"appl",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -31912,16 +31779,16 @@
 		"ninkukoba",
 		[
 			"pst",
-			"1sg.sbj",
-			"aiux"
+			"aiux",
+			"1sg.sbj"
 		]
 	],
 	[
 		"nkuru",
 		[
-			"prog",
 			"nar",
-			"1sg.sbj"
+			"1sg.sbj",
+			"prog"
 		]
 	],
 	[
@@ -31942,10 +31809,10 @@
 	[
 		"okumweeta",
 		[
-			"aug",
 			"1obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -31970,18 +31837,17 @@
 	[
 		"okisaati",
 		[
-			"aug",
-			"7"
+			"aug"
 		]
 	],
 	[
 		"tinakwizire",
 		[
-			"neg",
 			"1sg.sbj",
+			"2sg.obj",
+			"neg",
 			"pfv",
-			"pst",
-			"2sg.obj"
+			"pst"
 		]
 	],
 	[
@@ -31993,9 +31859,9 @@
 	[
 		"gukunduma",
 		[
-			"1sg.obj",
-			"prog",
 			"3sbj",
+			"prog",
+			"1sg.obj",
 			"fv"
 		]
 	],
@@ -32006,9 +31872,9 @@
 	[
 		"ku",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
@@ -32020,15 +31886,15 @@
 	[
 		"tenduga",
 		[
-			"neg",
-			"1sg.sbj"
+			"1sg.sbj",
+			"neg"
 		]
 	],
 	[
 		"nyikaare",
 		[
-			"1sg.sbj",
-			"sbjv"
+			"sbjv",
+			"1sg.sbj"
 		]
 	],
 	[
@@ -32040,8 +31906,8 @@
 	[
 		"ligwe",
 		[
-			"5sbj",
-			"sbjv"
+			"sbjv",
+			"5sbj"
 		]
 	],
 	[
@@ -32061,18 +31927,18 @@
 		"baamumpaire",
 		[
 			"2sbj",
-			"pfv",
-			"1obj",
 			"foc",
+			"1obj",
 			"1sg.obj",
+			"pfv",
 			"pst"
 		]
 	],
 	[
 		"tinankaibbire",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
 			"pfv",
 			"pst"
 		]
@@ -32110,8 +31976,8 @@
 		"nkugawuura",
 		[
 			"1sg.sbj",
-			"6obj",
 			"prog",
+			"6obj",
 			"fv"
 		]
 	],
@@ -32125,8 +31991,8 @@
 	[
 		"nga",
 		[
-			"18.loc",
 			"sbjv",
+			"18.loc",
 			"caus"
 		]
 	],
@@ -32189,9 +32055,9 @@
 	[
 		"nobalema",
 		[
-			"2obj",
 			"2sg.sbj",
-			"nar"
+			"nar",
+			"2obj"
 		]
 	],
 	[
@@ -32253,8 +32119,8 @@
 	[
 		"ebindi",
 		[
-			"1sbj",
 			"hab",
+			"1sbj",
 			"pst",
 			"fv"
 		]
@@ -32262,30 +32128,30 @@
 	[
 		"nokigwaaku",
 		[
-			"nar",
-			"17.loc",
 			"2sg.sbj",
-			"fv",
-			"7obj"
+			"17.loc",
+			"nar",
+			"7obj",
+			"fv"
 		]
 	],
 	[
 		"nokibbebbena",
 		[
-			"nar",
 			"2sg.sbj",
-			"fv",
-			"7obj"
+			"nar",
+			"7obj",
+			"fv"
 		]
 	],
 	[
 		"nokkwalika",
 		[
-			"add.foc",
+			"2sg.obj",
 			"aug",
 			"fv",
 			"inf",
-			"2sg.obj"
+			"add.foc"
 		]
 	],
 	[
@@ -32305,10 +32171,10 @@
 		"nomugeraageranyiza",
 		[
 			"1obj",
-			"nar",
+			"appl",
 			"2sg.sbj",
-			"fv",
-			"appl"
+			"nar",
+			"fv"
 		]
 	],
 	[
@@ -32334,8 +32200,8 @@
 	[
 		"gugwarairye",
 		[
-			"appl",
-			"3sbj"
+			"3sbj",
+			"appl"
 		]
 	],
 	[
@@ -32410,8 +32276,8 @@
 	[
 		"rya",
 		[
-			"5",
-			"7"
+			"7",
+			"5"
 		]
 	],
 	[
@@ -32468,9 +32334,9 @@
 		"okukizuula",
 		[
 			"aug",
-			"fv",
 			"inf",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -32482,10 +32348,10 @@
 	[
 		"yaabba",
 		[
-			"prog",
-			"14sbj",
 			"cop",
-			"fv"
+			"14sbj",
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -32507,8 +32373,8 @@
 		"okumwegendereza",
 		[
 			"aug",
-			"1obj",
-			"inf"
+			"inf",
+			"1obj"
 		]
 	],
 	[
@@ -32539,12 +32405,12 @@
 	[
 		"tikyakusaagiraku",
 		[
+			"prog",
 			"neg",
+			"appl",
 			"7sbj",
 			"17.loc",
-			"prog",
-			"fv",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -32575,10 +32441,10 @@
 	[
 		"timubbanga",
 		[
-			"neg",
 			"2pl.sbj",
 			"hab",
 			"cop",
+			"neg",
 			"fv"
 		]
 	],
@@ -32595,10 +32461,10 @@
 	[
 		"nomwemuura",
 		[
-			"appl",
 			"1obj",
-			"nar",
 			"2sg.sbj",
+			"appl",
+			"nar",
 			"fv"
 		]
 	],
@@ -32607,8 +32473,8 @@
 		[
 			"1obj",
 			"2sg.sbj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -32664,8 +32530,8 @@
 		"baluliisya",
 		[
 			"2sbj",
-			"caus",
 			"1obj",
+			"caus",
 			"fv"
 		]
 	],
@@ -32704,8 +32570,8 @@
 	[
 		"kubeeta",
 		[
-			"2obj",
 			"inf",
+			"2obj",
 			"fv"
 		]
 	],
@@ -32750,8 +32616,8 @@
 	[
 		"bebaci",
 		[
-			"2",
-			"cop"
+			"cop",
+			"2"
 		]
 	],
 	[
@@ -32775,17 +32641,17 @@
 	[
 		"bikuleeta",
 		[
-			"prog",
 			"8sbj",
+			"prog",
 			"fv"
 		]
 	],
 	[
 		"tukukoba",
 		[
+			"fv",
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"prog"
 		]
 	],
 	[
@@ -32835,8 +32701,8 @@
 	[
 		"obimaite",
 		[
-			"2sg.sbj",
 			"8obj",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
@@ -32869,7 +32735,7 @@
 		"bwamwei",
 		[
 			"14",
-			"1.",
+			"1",
 			"assoc"
 		]
 	],
@@ -32895,9 +32761,8 @@
 	[
 		"tikabba",
 		[
-			"neg",
-			"hort",
-			"cop"
+			"cop",
+			"neg"
 		]
 	],
 	[
@@ -32934,8 +32799,8 @@
 	[
 		"bukola",
 		[
-			"14",
-			"foc"
+			"foc",
+			"14"
 		]
 	],
 	[
@@ -32971,9 +32836,9 @@
 	[
 		"tebukuure",
 		[
-			"neg",
+			"pfv",
 			"14sbj",
-			"pfv"
+			"neg"
 		]
 	],
 	[
@@ -32998,10 +32863,10 @@
 	[
 		"obwo",
 		[
-			"s.rel",
+			"18.loc",
 			"14sbj",
 			"prog",
-			"18.loc",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -33077,10 +32942,10 @@
 	[
 		"n'enkaaga",
 		[
+			"23.loc",
 			"pfv",
 			"1sbj",
-			"pst",
-			"23.loc"
+			"pst"
 		]
 	],
 	[
@@ -33125,8 +32990,8 @@
 		"n'akyali",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -33143,8 +33008,8 @@
 	[
 		"yatoonyanga",
 		[
-			"1sbj",
 			"hab",
+			"1sbj",
 			"pst",
 			"fv"
 		]
@@ -33158,10 +33023,10 @@
 	[
 		"neyakalamu",
 		[
+			"18.loc",
+			"pst",
 			"9sbj",
 			"nar",
-			"pst",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -33197,10 +33062,10 @@
 	[
 		"tiyamukobere",
 		[
+			"1obj",
 			"neg",
 			"pfv",
 			"1sbj",
-			"1obj",
 			"pst"
 		]
 	],
@@ -33213,11 +33078,11 @@
 	[
 		"yakubyalanga",
 		[
+			"hab",
+			"2sg.obj",
 			"1sbj",
 			"pst",
-			"fv",
-			"hab",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -33227,11 +33092,11 @@
 	[
 		"yabbangani",
 		[
-			"1sbj",
 			"hab",
 			"cop",
-			"fv",
-			"fut"
+			"1sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -33263,8 +33128,8 @@
 	[
 		"okaloleire",
 		[
-			"2sg.sbj",
 			"12obj",
+			"2sg.sbj",
 			"appl",
 			"sbjv"
 		]
@@ -33272,8 +33137,8 @@
 	[
 		"mbeera",
 		[
-			"16.loc",
-			"fv"
+			"fv",
+			"16.loc"
 		]
 	],
 	[
@@ -33283,25 +33148,25 @@
 	[
 		"oni",
 		[
-			"1",
 			"2sg",
-			"assoc"
+			"assoc",
+			"1"
 		]
 	],
 	[
 		"okkwalika",
 		[
+			"2sg.obj",
 			"aug",
-			"fv",
 			"inf",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
 		"okobere",
 		[
-			"2sg.sbj",
 			"sbjv",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
@@ -33320,8 +33185,8 @@
 		"babigaine",
 		[
 			"2sbj",
-			"8obj",
-			"pfv"
+			"pfv",
+			"8obj"
 		]
 	],
 	[
@@ -33353,10 +33218,10 @@
 	[
 		"twazimaareyo",
 		[
-			"1pl.sbj",
-			"4obj",
-			"pst",
 			"23.loc",
+			"4obj",
+			"1pl.sbj",
+			"pst",
 			"pfv"
 		]
 	],
@@ -33374,8 +33239,8 @@
 		"e",
 		[
 			"pfv",
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
 			"pst"
 		]
 	],
@@ -33390,9 +33255,9 @@
 	[
 		"okuleeta",
 		[
+			"fv",
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"prog"
 		]
 	],
 	[
@@ -33446,8 +33311,8 @@
 	[
 		"okuure",
 		[
-			"2sg.sbj",
-			"pfv"
+			"pfv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -33477,18 +33342,18 @@
 	[
 		"tekumanya",
 		[
-			"neg",
 			"inf",
-			"fv"
+			"fv",
+			"neg"
 		]
 	],
 	[
 		"okwalikibwa",
 		[
-			"aug",
-			"fv",
 			"pass",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -33523,8 +33388,8 @@
 		"okuleeta",
 		[
 			"aug",
-			"inf",
-			"fv"
+			"fv",
+			"inf"
 		]
 	],
 	[
@@ -33550,8 +33415,8 @@
 		"walugula",
 		[
 			"11obj",
-			"2sg.sbj",
 			"fv",
+			"2sg.sbj",
 			"fut"
 		]
 	],
@@ -33571,10 +33436,10 @@
 	[
 		"ose",
 		[
-			"aug",
 			"1obj",
-			"fv",
-			"inf"
+			"aug",
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -33592,8 +33457,8 @@
 		"wansimbiire",
 		[
 			"appl",
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"1sg.obj"
 		]
 	],
@@ -33611,8 +33476,8 @@
 		"ningwabba",
 		[
 			"1sg.sbj",
-			"nar",
 			"3obj",
+			"nar",
 			"fv"
 		]
 	],
@@ -33666,8 +33531,8 @@
 	[
 		"tukyali",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"appl"
 		]
 	],
@@ -33699,18 +33564,18 @@
 	[
 		"twabitemere",
 		[
-			"1pl.sbj",
 			"8obj",
 			"pfv",
+			"1pl.sbj",
 			"pst"
 		]
 	],
 	[
 		"ombwirye",
 		[
+			"pfv",
 			"2sg.sbj",
-			"1sg.obj",
-			"pfv"
+			"1sg.obj"
 		]
 	],
 	[
@@ -33720,9 +33585,9 @@
 	[
 		"bweyalondere",
 		[
-			"12.rel",
 			"pfv",
 			"1sbj",
+			"12.rel",
 			"pst"
 		]
 	],
@@ -33775,8 +33640,8 @@
 	[
 		"waikira",
 		[
-			"16sbj",
 			"appl",
+			"16sbj",
 			"fv"
 		]
 	],
@@ -33789,10 +33654,10 @@
 	[
 		"yalumanga",
 		[
+			"hab",
 			"1sbj",
-			"pst",
 			"fv",
-			"hab"
+			"pst"
 		]
 	],
 	[
@@ -33805,8 +33670,8 @@
 		"bwakoba",
 		[
 			"1sbj",
-			"14.rel",
-			"fv"
+			"fv",
+			"14.rel"
 		]
 	],
 	[
@@ -33830,9 +33695,17 @@
 	[
 		"akubalabandira",
 		[
-			"1.",
-			"assoc",
-			"12"
+			"12",
+			"1",
+			"assoc"
+		]
+	],
+	[
+		"nakwata",
+		[
+			"1sbj",
+			"fv",
+			"nar"
 		]
 	],
 	[
@@ -33844,9 +33717,9 @@
 	[
 		"naikaaranga",
 		[
+			"hab",
 			"1sbj",
 			"nar",
-			"hab",
 			"fv"
 		]
 	],
@@ -33884,10 +33757,10 @@
 	[
 		"eyanyenteire",
 		[
+			"pst",
 			"pfv",
 			"1sbj",
-			"s.rel",
-			"pst"
+			"s.rel"
 		]
 	],
 	[
@@ -33899,8 +33772,8 @@
 	[
 		"okulya",
 		[
-			"appl",
-			"sbjv"
+			"sbjv",
+			"appl"
 		]
 	],
 	[
@@ -33914,8 +33787,8 @@
 	[
 		"gutwala",
 		[
-			"fv",
-			"3obj"
+			"3obj",
+			"fv"
 		]
 	],
 	[
@@ -33943,7 +33816,7 @@
 		"emyaka",
 		[
 			"1sbj",
-			"APPL:PFV"
+			"appl:pfv"
 		]
 	],
 	[
@@ -34001,8 +33874,8 @@
 			"14sbj",
 			"hab",
 			"cop",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -34012,9 +33885,9 @@
 	[
 		"buguuda",
 		[
-			"s.rel",
 			"14sbj",
 			"prog",
+			"s.rel",
 			"fv"
 		]
 	],
@@ -34053,8 +33926,8 @@
 	[
 		"",
 		[
-			"16sbj",
 			"16.loc",
+			"16sbj",
 			"cop"
 		]
 	],
@@ -34087,8 +33960,8 @@
 		"onyizukiirye",
 		[
 			"2sg.sbj",
-			"1sg.obj",
-			"pfv"
+			"pfv",
+			"1sg.obj"
 		]
 	],
 	[
@@ -34120,18 +33993,18 @@
 	[
 		"nozibiika",
 		[
-			"nar",
 			"2sg.sbj",
-			"fv",
-			"10obj"
+			"10obj",
+			"nar",
+			"fv"
 		]
 	],
 	[
 		"otaaku",
 		[
 			"2sg.sbj",
-			"17.loc",
-			"fv"
+			"fv",
+			"17.loc"
 		]
 	],
 	[
@@ -34149,8 +34022,8 @@
 	[
 		"otomugadya",
 		[
-			"neg.imp",
 			"1obj",
+			"neg",
 			"2sg.sbj",
 			"fv"
 		]
@@ -34170,18 +34043,18 @@
 		"lwaki",
 		[
 			"2sbj",
-			"neg",
 			"prog",
-			"fv",
-			"recp"
+			"neg",
+			"recp",
+			"fv"
 		]
 	],
 	[
 		"lubyalo",
 		[
 			"aug",
-			"11",
-			"foc"
+			"foc",
+			"11"
 		]
 	],
 	[
@@ -34218,10 +34091,10 @@
 	[
 		"bikutosobereera",
 		[
-			"appl",
 			"prog",
-			"1pl.obj",
+			"appl",
 			"8sbj",
+			"1pl.obj",
 			"fv"
 		]
 	],
@@ -34255,9 +34128,9 @@
 		"okuswagiirya",
 		[
 			"aug",
-			"fv",
+			"appl",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -34269,9 +34142,9 @@
 	[
 		"zaamwei",
 		[
-			"1.",
-			"assoc",
-			"4"
+			"4",
+			"1",
+			"assoc"
 		]
 	],
 	[
@@ -34326,11 +34199,11 @@
 	[
 		"nte",
 		[
-			"1sbj",
 			"hab",
 			"cop",
-			"fv",
-			"fut"
+			"1sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -34372,9 +34245,9 @@
 	[
 		"byabazeiza",
 		[
-			"caus",
+			"sbjv",
 			"23.loc",
-			"sbjv"
+			"caus"
 		]
 	],
 	[
@@ -34384,9 +34257,9 @@
 	[
 		"takurunguura",
 		[
+			"prog",
 			"neg",
 			"1sbj",
-			"prog",
 			"fv"
 		]
 	],
@@ -34394,24 +34267,24 @@
 		"takusaagiramu",
 		[
 			"1sbj",
-			"neg",
-			"prog"
+			"prog",
+			"neg"
 		]
 	],
 	[
 		"takyabisoboora",
 		[
-			"neg",
 			"8obj",
+			"neg",
 			"1sbj"
 		]
 	],
 	[
 		"tarrimanya",
 		[
+			"5obj",
 			"neg",
 			"1sbj",
-			"5obj",
 			"fv"
 		]
 	],
@@ -34448,17 +34321,17 @@
 	[
 		"tekisiisa",
 		[
+			"fv",
 			"7sbj",
-			"neg",
-			"fv"
+			"neg"
 		]
 	],
 	[
 		"tenijo",
 		[
-			"neg",
+			"cop",
 			"4",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -34505,10 +34378,10 @@
 	[
 		"tibwaali",
 		[
+			"cop",
 			"pst",
-			"neg",
 			"14sbj",
-			"cop"
+			"neg"
 		]
 	],
 	[
@@ -34520,9 +34393,9 @@
 	[
 		"tigwamu",
 		[
-			"neg",
 			"2sg",
 			"assoc",
+			"neg",
 			"3"
 		]
 	],
@@ -34536,8 +34409,8 @@
 	[
 		"tiimaite",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
 			"pfv"
 		]
 	],
@@ -34555,27 +34428,27 @@
 	[
 		"tinakiikirize",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
+			"sbjv",
 			"fut",
-			"7obj",
-			"sbjv"
+			"7obj"
 		]
 	],
 	[
 		"tinankagadirye",
 		[
-			"neg",
-			"1sg.sbj",
 			"pfv",
+			"1sg.sbj",
+			"neg",
 			"1sbj"
 		]
 	],
 	[
 		"tinankanyagire",
 		[
-			"neg",
 			"1sg.sbj",
+			"neg",
 			"pfv",
 			"pst"
 		]
@@ -34583,9 +34456,9 @@
 	[
 		"tinibo",
 		[
-			"2",
+			"cop",
 			"neg",
-			"cop"
+			"2"
 		]
 	],
 	[
@@ -34615,8 +34488,8 @@
 	[
 		"tinigwo",
 		[
-			"neg",
-			"cop"
+			"cop",
+			"neg"
 		]
 	],
 	[
@@ -34642,19 +34515,19 @@
 	[
 		"tiniye",
 		[
-			"neg",
+			"cop",
 			"1",
-			"cop"
+			"neg"
 		]
 	],
 	[
 		"titwakwikire",
 		[
-			"1pl.sbj",
+			"prog",
 			"neg",
 			"pfv",
 			"1sbj",
-			"prog"
+			"1pl.sbj"
 		]
 	],
 	[
@@ -34667,37 +34540,37 @@
 	[
 		"tiwaikika",
 		[
+			"fut",
 			"2sg.sbj",
-			"neg",
-			"fut"
+			"neg"
 		]
 	],
 	[
 		"tiyamanyanga",
 		[
+			"hab",
 			"neg",
 			"1sbj",
 			"pst",
-			"fv",
-			"hab"
+			"fv"
 		]
 	],
 	[
 		"tokitakate",
 		[
-			"neg",
 			"foc",
+			"neg",
 			"2sg.sbj",
-			"fv",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
 		"tokumanya",
 		[
+			"prog",
 			"neg",
 			"2sg.sbj",
-			"prog",
 			"fv"
 		]
 	],
@@ -34733,8 +34606,8 @@
 		"tomaite",
 		[
 			"2sg.sbj",
-			"neg",
-			"pfv"
+			"pfv",
+			"neg"
 		]
 	],
 	[
@@ -34763,9 +34636,9 @@
 	[
 		"naye",
 		[
+			"prog",
 			"1pl.sbj",
 			"17.loc",
-			"prog",
 			"fv"
 		]
 	],
@@ -34776,8 +34649,8 @@
 	[
 		"mbe",
 		[
-			"1pl.sbj",
 			"foc",
+			"1pl.sbj",
 			"cop"
 		]
 	],
@@ -34785,17 +34658,17 @@
 		"tukunyumyanyumya",
 		[
 			"1pl.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
 		"tubuloreenge",
 		[
-			"1pl.sbj",
 			"14sbj",
 			"hab",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -34805,9 +34678,9 @@
 	[
 		"tugeete",
 		[
+			"sbjv",
 			"1pl.sbj",
-			"4obj",
-			"sbjv"
+			"4obj"
 		]
 	],
 	[
@@ -34826,8 +34699,8 @@
 		"kubba",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -34844,8 +34717,8 @@
 		"kwirayo",
 		[
 			"inf",
-			"fv",
-			"23.loc"
+			"23.loc",
+			"fv"
 		]
 	],
 	[
@@ -34855,11 +34728,11 @@
 	[
 		"okwawulangaku",
 		[
-			"aug",
 			"hab",
+			"aug",
 			"17.loc",
-			"fv",
-			"inf"
+			"inf",
+			"fv"
 		]
 	],
 	[
@@ -34885,15 +34758,15 @@
 	[
 		"tuwange",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
 		"twikirize",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -34912,11 +34785,11 @@
 	[
 		"twabbaawo",
 		[
+			"cop",
 			"1pl.sbj",
 			"16.loc",
-			"cop",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -34937,11 +34810,11 @@
 	[
 		"twairangayo",
 		[
-			"1pl.sbj",
 			"hab",
 			"23.loc",
-			"fv",
-			"fut"
+			"1pl.sbj",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -34953,8 +34826,8 @@
 	[
 		"twakobere",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -34965,9 +34838,9 @@
 	[
 		"twayakairemu",
 		[
-			"1pl.sbj",
 			"18.loc",
 			"pst",
+			"1pl.sbj",
 			"pfv"
 		]
 	],
@@ -34982,11 +34855,11 @@
 	[
 		"twayawukaniranga",
 		[
-			"1pl.sbj",
-			"fut",
-			"fv",
 			"hab",
-			"appl"
+			"1pl.sbj",
+			"appl",
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -35009,24 +34882,24 @@
 	[
 		"wabba",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"cop"
 		]
 	],
 	[
 		"omwekubbiire",
 		[
+			"appl:pfv",
 			"2sg.sbj",
-			"APPL:PFV",
 			"1obj"
 		]
 	],
 	[
 		"wabona",
 		[
-			"2sg.sbj",
 			"fut",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -35047,9 +34920,9 @@
 	[
 		"yaalina",
 		[
+			"pst",
 			"1sbj",
 			"s.rel",
-			"pst",
 			"fv"
 		]
 	],
@@ -35078,8 +34951,8 @@
 	[
 		"wamubona",
 		[
-			"2sg.sbj",
 			"fut",
+			"2sg.sbj",
 			"1obj"
 		]
 	],
@@ -35090,17 +34963,17 @@
 	[
 		"watembere",
 		[
-			"2sg.sbj",
 			"pst",
+			"2sg.sbj",
 			"pfv"
 		]
 	],
 	[
 		"osodokerambe",
 		[
-			"2sg.sbj",
 			"foc",
-			"fv"
+			"fv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -35123,8 +34996,8 @@
 	[
 		"nosoma",
 		[
-			"2sg.sbj",
 			"cop",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -35141,16 +35014,16 @@
 		[
 			"hab",
 			"2sg.sbj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
 		"tiwayabangayo",
 		[
+			"fut",
 			"2sg.sbj",
-			"neg",
-			"fut"
+			"neg"
 		]
 	],
 	[
@@ -35167,9 +35040,9 @@
 	[
 		"omujiji",
 		[
+			"prog",
 			"neg",
 			"2sg.sbj",
-			"prog",
 			"fv"
 		]
 	],
@@ -35189,17 +35062,17 @@
 	[
 		"webuulye",
 		[
-			"refl",
+			"sbjv",
 			"2sg.sbj",
-			"sbjv"
+			"refl"
 		]
 	],
 	[
 		"yakuliire",
 		[
 			"1sbj",
-			"APPL:PFV",
-			"pst"
+			"pst",
+			"appl:pfv"
 		]
 	],
 	[
@@ -35237,15 +35110,15 @@
 		"n'olwamukaaga",
 		[
 			"aug",
-			"11",
-			"add.foc"
+			"add.foc",
+			"11"
 		]
 	],
 	[
 		"twabba",
 		[
-			"1pl.sbj",
 			"fut",
+			"1pl.sbj",
 			"cop"
 		]
 	],
@@ -35254,8 +35127,8 @@
 		[
 			"11obj",
 			"1sbj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -35270,10 +35143,10 @@
 		"okutulabiriira",
 		[
 			"aug",
+			"appl",
 			"1pl.obj",
-			"fv",
 			"inf",
-			"appl"
+			"fv"
 		]
 	],
 	[
@@ -35324,8 +35197,8 @@
 		"ni",
 		[
 			"2sg.sbj",
-			"prog",
-			"fv"
+			"fv",
+			"prog"
 		]
 	],
 	[
@@ -35339,10 +35212,10 @@
 	[
 		"wamuboineku",
 		[
-			"pfv",
 			"1obj",
-			"17.loc",
 			"2sg.sbj",
+			"17.loc",
+			"pfv",
 			"pst"
 		]
 	],
@@ -35382,18 +35255,18 @@
 	[
 		"mangu",
 		[
-			"7sbj",
-			"pst",
+			"hab",
 			"fv",
-			"hab"
+			"7sbj",
+			"pst"
 		]
 	],
 	[
 		"ekwingira",
 		[
 			"9sbj",
-			"fv",
-			"2sg.obj"
+			"2sg.obj",
+			"fv"
 		]
 	],
 	[
@@ -35507,9 +35380,9 @@
 	[
 		"zikuvuga",
 		[
-			"10sbj",
+			"fv",
 			"12obj",
-			"fv"
+			"10sbj"
 		]
 	],
 	[
@@ -35598,9 +35471,9 @@
 		"okuzirabiira",
 		[
 			"aug",
-			"fv",
+			"10obj",
 			"inf",
-			"10obj"
+			"fv"
 		]
 	],
 	[
@@ -35614,9 +35487,9 @@
 	[
 		"nankubba",
 		[
+			"1sg.obj",
 			"1sbj",
 			"nar",
-			"1sg.obj",
 			"fv"
 		]
 	],
@@ -35632,8 +35505,8 @@
 		"yaabba",
 		[
 			"1sbj",
-			"cop",
-			"fut"
+			"fut",
+			"cop"
 		]
 	],
 	[
@@ -35649,8 +35522,8 @@
 		[
 			"hab",
 			"3sbj",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -35692,8 +35565,8 @@
 		[
 			"2sbj",
 			"17.loc",
-			"fv",
-			"fut"
+			"fut",
+			"fv"
 		]
 	],
 	[
@@ -35778,9 +35651,9 @@
 	[
 		"akwizanga",
 		[
-			"1sbj",
 			"hab",
 			"prog",
+			"1sbj",
 			"fv"
 		]
 	],
@@ -35794,9 +35667,7 @@
 	],
 	[
 		"kyabaganga",
-		[
-			"?"
-		]
+		[]
 	],
 	[
 		"amaido",
@@ -35807,10 +35678,10 @@
 	[
 		"tegakyaliyo",
 		[
-			"neg",
+			"23.loc",
 			"cop",
-			"6sbj",
-			"23.loc"
+			"neg",
+			"6sbj"
 		]
 	],
 	[
@@ -35833,9 +35704,9 @@
 		"twakireka",
 		[
 			"1pl.sbj",
-			"fv",
 			"fut",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -35848,8 +35719,8 @@
 			"2sbj",
 			"foc",
 			"prog",
-			"fv",
-			"10obj"
+			"10obj",
+			"fv"
 		]
 	],
 	[
@@ -35867,17 +35738,17 @@
 	[
 		"ekikuzwa",
 		[
+			"prog",
 			"7sbj",
 			"s.rel",
-			"prog",
 			"fv"
 		]
 	],
 	[
 		"kulugayo",
 		[
-			"inf",
 			"fv",
+			"inf",
 			"23.loc"
 		]
 	],
@@ -35885,17 +35756,17 @@
 		"yamwegeserye",
 		[
 			"1sbj",
-			"1obj",
 			"pst",
-			"pfv"
+			"pfv",
+			"1obj"
 		]
 	],
 	[
 		"nayaba",
 		[
 			"1sbj",
-			"nar",
 			"pst",
+			"nar",
 			"fv"
 		]
 	],
@@ -35928,8 +35799,8 @@
 	[
 		"wayiya",
 		[
-			"2sg.sbj",
 			"fut",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -35971,8 +35842,8 @@
 		"bagakola",
 		[
 			"2sbj",
-			"fv",
-			"6obj"
+			"6obj",
+			"fv"
 		]
 	],
 	[
@@ -36006,8 +35877,8 @@
 		"ozzimanya",
 		[
 			"2sg.sbj",
-			"fv",
-			"10obj"
+			"10obj",
+			"fv"
 		]
 	],
 	[
@@ -36037,8 +35908,8 @@
 	[
 		"awuura",
 		[
-			"2sg.sbj",
 			"fv",
+			"2sg.sbj",
 			"1obj"
 		]
 	],
@@ -36087,8 +35958,8 @@
 	[
 		"wakoba",
 		[
-			"2sg.sbj",
-			"fut"
+			"fut",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -36115,8 +35986,8 @@
 		"tiyakunge",
 		[
 			"1sbj",
-			"neg",
-			"sbjv"
+			"sbjv",
+			"neg"
 		]
 	],
 	[
@@ -36169,11 +36040,11 @@
 	[
 		"muzindekesye",
 		[
-			"caus",
-			"sbjv",
 			"2pl.sbj",
+			"caus",
 			"1sg.obj",
-			"10obj"
+			"10obj",
+			"sbjv"
 		]
 	],
 	[
@@ -36184,8 +36055,8 @@
 		"oku",
 		[
 			"foc",
-			"2sg.sbj",
 			"prog",
+			"2sg.sbj",
 			"fv"
 		]
 	],
@@ -36233,10 +36104,10 @@
 	[
 		"nakwoca",
 		[
+			"2sg.obj",
 			"1sbj",
 			"nar",
-			"fv",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
@@ -36259,17 +36130,17 @@
 		"nabita",
 		[
 			"1sbj",
-			"nar",
 			"8sbj",
+			"nar",
 			"fv"
 		]
 	],
 	[
 		"naraarayo",
 		[
+			"23.loc",
 			"1sbj",
 			"nar",
-			"23.loc",
 			"fv"
 		]
 	],
@@ -36311,11 +36182,10 @@
 		"baakakinagaawo",
 		[
 			"2sbj",
-			"hort",
 			"16.loc",
 			"pst",
-			"fv",
-			"7obj"
+			"7obj",
+			"fv"
 		]
 	],
 	[
@@ -36329,8 +36199,8 @@
 		"nazimaara",
 		[
 			"1sbj",
-			"nar",
 			"10obj",
+			"nar",
 			"fv"
 		]
 	],
@@ -36341,8 +36211,8 @@
 	[
 		"ndolereire",
 		[
-			"pfv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"pfv"
 		]
 	],
 	[
@@ -36378,17 +36248,17 @@
 	[
 		"liriyo",
 		[
-			"23.loc",
 			"5sbj",
+			"23.loc",
 			"cop"
 		]
 	],
 	[
 		"kikumbyara",
 		[
-			"7sbj",
-			"1sg.obj",
 			"prog",
+			"1sg.obj",
+			"7sbj",
 			"fv"
 		]
 	],
@@ -36405,17 +36275,17 @@
 	[
 		"okubagadyagadya",
 		[
-			"2obj",
-			"2sg.sbj",
 			"prog",
+			"2sg.sbj",
+			"2obj",
 			"fv"
 		]
 	],
 	[
 		"tumutwaleku",
 		[
-			"1pl.sbj",
 			"1obj",
+			"1pl.sbj",
 			"17.loc",
 			"sbjv"
 		]
@@ -36431,9 +36301,9 @@
 	[
 		"nimbonamu",
 		[
+			"18.loc",
 			"1sg.sbj",
 			"nar",
-			"18.loc",
 			"fv"
 		]
 	],
@@ -36448,8 +36318,8 @@
 		"ninyirayo",
 		[
 			"1sg.sbj",
-			"nar",
 			"23.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -36457,8 +36327,8 @@
 		"ninsyoma",
 		[
 			"nar",
-			"fv",
-			"1sg.sbj"
+			"1sg.sbj",
+			"fv"
 		]
 	],
 	[
@@ -36472,8 +36342,8 @@
 		"nituswagaku",
 		[
 			"1pl.sbj",
-			"nar",
 			"17.loc",
+			"nar",
 			"fv"
 		]
 	],
@@ -36508,9 +36378,9 @@
 	[
 		"nkunyaata",
 		[
+			"fv",
 			"prog",
-			"1sg.sbj",
-			"fv"
+			"1sg.sbj"
 		]
 	],
 	[
@@ -36524,16 +36394,16 @@
 	[
 		"oire",
 		[
-			"2sg.sbj",
+			"sbjv",
 			"cop",
-			"sbjv"
+			"2sg.sbj"
 		]
 	],
 	[
 		"oyomboke",
 		[
-			"2sg.sbj",
-			"sbjv"
+			"sbjv",
+			"2sg.sbj"
 		]
 	],
 	[
@@ -36552,9 +36422,9 @@
 	[
 		"okwombe",
 		[
+			"foc",
 			"14",
-			"med",
-			"foc"
+			"med"
 		]
 	],
 	[
@@ -36573,11 +36443,11 @@
 	[
 		"ebikuleetanga",
 		[
-			"s.rel",
-			"prog",
+			"hab",
 			"8sbj",
-			"fv",
-			"hab"
+			"prog",
+			"s.rel",
+			"fv"
 		]
 	],
 	[
@@ -36603,9 +36473,9 @@
 	[
 		"kakwetesya",
 		[
-			"caus",
-			"prog",
 			"12sbj",
+			"prog",
+			"caus",
 			"fv"
 		]
 	],
@@ -36664,8 +36534,8 @@
 		"ofunemu",
 		[
 			"2sg.sbj",
-			"18.loc",
-			"sbjv"
+			"sbjv",
+			"18.loc"
 		]
 	],
 	[
@@ -36692,18 +36562,18 @@
 	[
 		"tonsunasuna",
 		[
-			"neg.imp",
-			"2sg.sbj",
+			"neg",
 			"1sg.obj",
+			"2sg.sbj",
 			"fv"
 		]
 	],
 	[
 		"tukwete",
 		[
+			"sbjv",
 			"1pl.sbj",
-			"prog",
-			"sbjv"
+			"prog"
 		]
 	],
 	[
@@ -36716,16 +36586,16 @@
 	[
 		"twalina",
 		[
-			"1pl.sbj",
 			"pst",
+			"1pl.sbj",
 			"fv"
 		]
 	],
 	[
 		"twaraatane",
 		[
-			"1pl.sbj",
-			"sbjv"
+			"sbjv",
+			"1pl.sbj"
 		]
 	],
 	[
@@ -36744,17 +36614,17 @@
 	[
 		"wasiga",
 		[
-			"2sg.sbj",
 			"fut",
+			"2sg.sbj",
 			"fv"
 		]
 	],
 	[
 		"nemubbaka",
 		[
+			"2pl.sbj",
 			"nar",
-			"fv",
-			"2pl.sbj"
+			"fv"
 		]
 	],
 	[
@@ -36762,8 +36632,8 @@
 		[
 			"neg",
 			"2sg.sbj",
-			"fut",
-			"sbjv"
+			"sbjv",
+			"fut"
 		]
 	],
 	[
@@ -36781,11 +36651,11 @@
 	[
 		"eyatujuna",
 		[
+			"fut",
 			"1sbj",
 			"s.rel",
 			"1pl.obj",
-			"fv",
-			"fut"
+			"fv"
 		]
 	],
 	[
@@ -36810,12 +36680,12 @@
 	[
 		"ntakusumbira",
 		[
-			"neg",
 			"1sg.sbj",
-			"fv",
+			"2sg.obj",
+			"neg",
 			"appl",
 			"fut",
-			"2sg.obj"
+			"fv"
 		]
 	],
 	[
