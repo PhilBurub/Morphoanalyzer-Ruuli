@@ -31,6 +31,7 @@ Aug[o]? Inf [<v>:] VerbRoot[-pfv] Mood[ind]
 # Copula
 Neg[1]? Subj? Obj? Cop
 PreCop Cop PosCop
+NegCop
 
 # Nouns
 Aug[1]? NounQuant[1] [<n>:] NounRoot[1]
@@ -93,6 +94,9 @@ LEXICON Nar
 <nar>:ni>
 <nar>:n'>
 <nar>:n>
+
+LEXICON NegCop
+<neg.cop>:ti
 
 LEXICON Cop
 <cop>:li
