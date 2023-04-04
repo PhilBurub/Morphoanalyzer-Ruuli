@@ -2,7 +2,7 @@ PATTERNS
 # Verbs
 # Indicative
 ## NPFV
-Nar? Neg[1]? Subj TenseAspect[-fut]? Obj? [<v>:] VerbRoot[1sy]
+Nar? Neg[1]? Subj TenseAspect[-fut]? Obj? [<v>:] VerbRoot[1sy] [<fv>:]
 Nar? Neg[1]? Subj TenseAspect[-fut]? Obj? [<v>:] VerbRoot[i] Extensions[|[ind,i]]? Mood[ind] # All tenses besides nfut
 Nar? Neg[1]? Subj TenseAspect[-fut]? Obj? [<v>:] VerbRoot[e] Extensions[|[ind,e]]? Mood[ind] # All tenses besides nfut
 ### NFUT
