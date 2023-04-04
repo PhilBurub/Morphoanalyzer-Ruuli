@@ -12,6 +12,7 @@ Consonant = b d j g p t c k v z f s l m n w y ŋ ny;
 Vowel = i u e o a;
 Glide = w y;
 Nasal = m n ny ŋ;
+Labial = p b w;
 Obstruent = b d j g p t c k v z f s;
 
 Rules
@@ -26,7 +27,7 @@ Rules
 "Glide formation i"
 i:y <=> _ %>:0 [e|o|a];
 "Nasal assimilation n"
-[n:m|%{n%}:m] <=> _ %>:0 [p|b|w];
+[n:m|%{n%}:m] <=> _ %>:0 Labial;
 "Liquid fortition"
 [l:d|w:p] <=> Nasal %>:0 _;
 "Vowel elision"
