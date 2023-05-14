@@ -112,9 +112,9 @@ LEXICON PreCop
 
 LEXICON PosCop
 <16.loc>:>wo
-<16.loc>:>ku
-<16.loc>:>mu
-<16.loc>:>yo
+<17.loc>:>ku
+<18.loc>:>mu
+<23.loc>:>yo
 
 LEXICON Inf
 <inf>:ku>
