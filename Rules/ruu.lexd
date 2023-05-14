@@ -88,31 +88,32 @@ Aug[a]? AdjAgree[2,6,12,16,22] [<adj>:] AdjRoot
 Aug[e]? AdjAgree[4,5,7,8,9,10] [<adj>:] AdjRoot
 
 # Genetive markers
-Gen
-
+Aug[o]? Gen[1,3,11,13,14,15,17,18,20]
+Aug[a]? Gen[2,6,12,16,22]
+Aug[e]? Gen[4,5,7,8,9,10]
 
 # Other
 Other
 
 LEXICON Gen
-<1.gen>:wa
-<2.gen>:ba
-<3.gen>:gwa
-<4.gen>:gya
-<4.gen>:ya
-<5.gen>:lya
-<6.gen>:ga
-<7.gen>:kya
-<8.gen>:bya
-<9.gen>:ya
-<10.gen>:za
-<11.gen>:lwa
-<12.gen>:ka
-<13.gen>:twa
-<14.gen>:bwa
-<15.gen>:kwa
-<20.gen>:gwa
-<22.gen>:ga
+<1.gen>:wa[1]
+<2.gen>:ba[2]
+<3.gen>:gwa[3]
+<4.gen>:gya[4]
+<4.gen>:ya[4]
+<5.gen>:lya[5]
+<6.gen>:ga[6]
+<7.gen>:kya[7]
+<8.gen>:bya[8]
+<9.gen>:ya[9]
+<10.gen>:za[10]
+<11.gen>:lwa[11]
+<12.gen>:ka[12]
+<13.gen>:twa[13]
+<14.gen>:bwa[14]
+<15.gen>:kwa[15]
+<20.gen>:gwa[20]
+<22.gen>:ga[22]
 
 LEXICON Nar
 <nar>:ni>
