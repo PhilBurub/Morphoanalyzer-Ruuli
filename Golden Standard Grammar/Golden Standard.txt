@@ -468,7 +468,7 @@ mwomo
 3.wall
 
 
-Otakubb-a
+Otakubba
 o-ta-kubb-a
 2sg.sbj-neg-polish-fv
 
@@ -500,7 +500,7 @@ ba-ta-igal-a
 
 madirisa
 madirisa
-10.window
+6.window
 
 
 gayinza
@@ -540,7 +540,7 @@ aug-1.man
 
 ayinza
 a-yinz-a
-2sbj-be_able-fv
+1sbj-be_able-fv
 
 
 obutaleetawo
