@@ -27,7 +27,8 @@ Neg[1]? Subj Obj? [<v>:] VerbRoot[-pfv] Extensions[subj] # Subjunctive reciproca
 # Imperative, Jussive, Hortative & Prohibitive
 Subj Neg[2]? Obj? [<v>:] VerbRoot[-pfv] Mood
 # Infinitive
-Aug[o]? Inf [<v>:] VerbRoot[-pfv] Mood[ind]
+Aug[o]? Inf TenseAspect[-fut]? [<v>:] VerbRoot[-pfv, e] Extensions[|[ind,e]]? Mood[ind]
+Aug[o]? Inf TenseAspect[-fut]? [<v>:] VerbRoot[-pfv, i] Extensions[|[ind,i]]? Mood[ind]
 # Copula
 Neg[1]? Subj? Obj? Cop
 PreCop Cop PosCop
