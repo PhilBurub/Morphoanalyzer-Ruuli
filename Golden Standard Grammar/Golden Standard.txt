@@ -65,7 +65,7 @@ aug-17.loc
 
 kyegeseryo
 kyegeseryo
-17.college
+7.college
 
 
 Naizayo
