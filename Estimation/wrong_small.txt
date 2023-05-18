@@ -1,0 +1,30 @@
+"naizayo"	not supported	1sg, sbj, fut, fv, 23, loc
+"talya"	not supported	neg, 1sbj, fv
+"yali"	not supported	1sbj, pst, cop
+"yali"	not supported	1, pst, cop
+"ma"	not supported	1
+"abataabbaanga"	not supported	2sbj, neg, pst, cop, fv, hab
+"nibayaba"	not supported	nar, 2sbj, fv
+"gwe"	1
+"kubonaku"	not supported	inf, fv, 17, loc
+"nkoorayo"	not supported	1sg, obj, appl, fv, 23, loc
+"nalufeenya"	not supported	9
+"baakoleireyo"	not supported	2sbj, pst, appl, pfv, 23, loc
+"bingi"	not supported	8
+"mmugaitire"	not supported	1sg, sbj, 1obj, pfv
+"amayumba"	not supported	aug, 6
+"ababbanga"	2sbj, fv, hab
+"emiyo"	not supported	aug, 4
+"twanenibwe"	not supported	1pl, sbj, pst, pass, pfv
+"egologolo"	not supported	aug, 10
+"zingai"	not supported	10
+"biyimba"	not supported	8
+"wekuutye"	2sg, sbj, refl, sbjv
+"okubbayoku"	not supported	aug, inf, fv, 23, loc, 17, loc
+"okubbamu"	not supported	aug, inf, 18, loc
+"kidoodolo"	not supported	7
+"obutaleetawo"	not supported	aug, 16, neg, fv, 16, loc
+"obuguwa"	not supported	aug, 14
+"mpolampola"	not supported	<red>
+"emambya"	aug
+"abakagiri"	not supported	aug, 2

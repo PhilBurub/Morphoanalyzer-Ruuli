@@ -1,0 +1,3352 @@
+"owoluganda"	not supported	2, aug
+"alaawo"	not supported	cop, 16, loc, 1sbj
+"ninje"	not supported	1sg, cop
+"nalumu"	not supported	1
+"ntakimanyi"	not supported	1
+"nia"	not supported	fv
+"azwirewo"	not supported	pfv, 16, loc, 1sbj
+"mba"	not supported	cop, 1sg, sbj
+"nijo"	not supported	cop
+"ayabire"	not supported	pfv, 1sbj, pst
+"owa"	aug, 16, gen, 1
+"wamwei"	not supported	1, 1, assoc
+"yeena"	add, foc, 1
+"yamwirukiryembe"	not supported	1obj, pfv, foc, 1sbj
+"nikyo"	not supported	cop, 7
+"wa"	1, gen, 3
+"baayemangamu"	not supported	2sbj, hab, fv, pst, 18, loc
+"iii"	not supported	intj
+"balaawo"	not supported	2sbj, cop, 16, loc
+"mukago"	prog, fv, 1sg, sbj
+"nkusubiira"	7, aug
+"ekisubiiro"	7, assoc, 1sg
+"mwinange"	not supported	1
+"n'abinia"	not supported	nar, 1sbj, fv
+"nabuulyaku"	not supported	1sbj, fv, nar, 17, loc
+"leka"	14, prox
+"nkusaame"	fv
+"n'omusaayi"	not supported	sbjv, 2sg, obj, 1sg, sbj
+"munywi"	1, gen, 3
+"wa"	1, 1, assoc
+"mukago"	aug, 1
+"waamwei"	1, gen, 1
+"okwiza"	1sbj, fv
+"niwabbaawo"	not supported	cop, 16, loc, fv, 16, nar
+"nkobere"	nar, 1sbj, pfv
+"yaliire"	not supported	1sbj, pfv
+"nyiruka"	not supported	fv, 1sg, sbj
+"olubbuukuuma"	aug
+"owakaima"	not supported	aug, 1
+"olwaikire"	not supported	aug
+"yii"	intj
+"yakobere"	not supported	pfv, 1sbj, pst
+"niyamulumire"	not supported	pfv, 1obj, pst, 9sbj, nar
+"ayaba"	not supported	1sbj, fv
+"okwira"	prog, aug, fv
+"onu"	not supported	1, prox
+"ataamu"	not supported	cop, 18, loc, 1sbj
+"wa"	16, rel
+"yeena"	add, 1
+"okutol"	not supported	pfv, 1sbj, pst
+"onyakite"	not supported	aug, 1
+"ky'ankoore"	not supported	7, rel
+"ontale"	pfv, 1sbj
+"mwandi"	aug, 1
+"yembe"	1
+"owaamwei"	not supported	1, aug, 1, assoc
+"mwitirembe"	not supported	pfv, 1obj, foc, 1sg, sbj
+"n'ebasigala"	aug, 1
+"ba"	nar, 2sbj, fv
+"mukwano"	3, 2, gen
+"wangabi"	not supported	1
+"kunkweka"	inf, 1sg, obj, fv
+"yaba"	not supported	fv
+"yamukubbire"	not supported	1obj, pfv, 1sbj
+"yii"	nar, 1sbj, fv
+"bbee"	not supported	1
+"amawakame"	not supported	6, aug
+"gazonka"	not supported	6sbj, 10obj, fv
+"genkainenkaine"	not supported	4sbj
+"nyakite"	not supported	1
+"n'onte"	not supported	aug, 1, add, foc
+"niwo"	not supported	cop, 16
+"niyeekweka"	not supported	1sbj, refl, fv, nar
+"owante"	not supported	aug, 1
+"bamukwano"	not supported	aug, 1
+"owange"	1, aug, assoc, 1sg
+"onante"	not supported	aug, 1
+"ekya"	7, gen, aug, 6
+"anu"	1, prox
+"wafiira"	not supported	rel, 1sbj, appl, fv
+"ataafe"	not supported	fut, neg, 1sbj, sbjv
+"mukuzu"	not supported	1
+"leka"	fv
+"ayabire"	not supported	pfv, 1sbj
+"jenkainenkaine"	not supported	4sbj
+"teri"	not supported	9sbj, cop, neg
+"goona"	not supported	add, foc, 3
+"kola"	not supported	fv
+"ndoowo"	not supported	16, loc, neg, cop
+"kya"	7, rel
+"kulya"	inf, fv
+"akasi"	not supported	aug, 12
+"owantale"	not supported	1, gen, aug, 1
+"kweirukira"	refl, fv, appl, inf
+"bamunywi"	not supported	2
+"bamukago"	not supported	2, gen, 3
+"nibwo"	not supported	14, cop
+"omusaayi"	caus, appl, pfv, 2sg, obj, 1sg, sbj
+"okwita"	pfv, 1sbj, pst
+"omwana"	inf, aug, fv
+"odi"	aug, 1
+"niye"	not supported	cop, 1
+"nigwo"	not supported	cop, 3
+"iruka"	not supported	fv
+"njete"	not supported	foc, 1sg
+"nkai"	not supported	12obj, fv, 1sg, sbj
+"owe"	not supported	2sg, aug
+"n'alowo"	not supported	nar, cop, 16, loc, 1sbj
+"waliyo"	not supported	cop, 23, loc, 16sbj
+"kya"	14, 7, gen
+"bw'okubona"	not supported	14, rel
+"mu"	prog, fv, 2sg, sbj, 14obj
+"mutwe"	18, loc
+"guni"	assoc, 1sg, 3
+"ti"	3, prox
+"katambaala"	neg
+"taizire"	not supported	pfv, neg, 1sbj
+"takumubonaku"	not supported	prog, neg, 1sbj, 1obj, fv, 17, loc
+"bunu"	not supported	14, prox
+"yabba"	not supported	cop, 1sbj
+"yaikiire"	not supported	pfv, 1sbj
+"yasangire"	not supported	pfv, 1sbj, pst
+"yasangire"	not supported	pfv, 1sbj
+"wakaima"	1
+"yataireku"	not supported	17, loc, pfv, 1sbj, pst
+"yatemere"	not supported	pfv, 1sbj
+"oy'omusaiza"	not supported	1, med
+"ata"	1, aug
+"mwandi"	cop, 1sbj
+"niera"	not supported	fv, appl
+"timaite"	not supported	pfv, neg, 1sg, sbj
+"oirukaki"	not supported	2sg, sbj, fv
+"omuboneireku"	not supported	appl, pfv, 1obj, 2sg, sbj, 17, loc
+"oma"	not supported	aug, 1
+"wawo"	not supported	1, assoc, 2sg
+"n'ombonera"	prog, fv, appl, 2sg, sbj, nar
+"abaliraanwa"	not supported	2, aug
+"mba"	not supported	2, 2, assoc
+"ekintu"	2sbj, pfv
+"ekyo"	aug, 7
+"akakayire"	not supported	aug, 12
+"okulya"	inf, aug, fv
+"yabbaire"	not supported	pfv, cop, 1sbj, pst
+"awo"	aug, 12
+"oibaamwei"	not supported	1, aug, assoc, 1
+"nazwayo"	not supported	nar
+"bakubuuliire"	2sbj, sbjv, appl, 2sg, obj
+"obubinabina"	not supported	14, aug
+"bw"	not supported	14, rel
+"obona"	aug, 14sbj, fv
+"obuli"	rel, cop, 14sbj
+"ganu"	not supported	6, prox
+"g'okubona"	not supported	6, rel
+"ganu"	not supported	2sg, sbj, prog, fv
+"agafuukure"	not supported	6, prox
+"obusapatu"	not supported	rel, 6sbj, pfv
+"gayoncerye"	not supported	6sbj, pfv
+"oibaamu"	not supported	1, aug, assoc, 2sg
+"ira"	not supported	fv
+"waanywei"	not supported	assoc, 2sg, 16
+"iyii"	not supported	intj
+"kanu"	not supported	12, prox
+"akabina"	12, aug
+"k'okubona"	not supported	12, rel
+"kwebonera"	refl, fv, appl, inf
+"oyabe"	not supported	fv, 1sg, sbj
+"okuwa"	inf, aug, fv
+"omaawo"	assoc, 2sg, aug, 1
+"wotobba"	not supported	2sg, sbj, cop, neg
+"yasumbanga"	not supported	1sbj, hab, fv, pst
+"yawasire"	not supported	pfv, 1sbj, pst
+"waamwei"	assoc, 1, 1, gen
+"okuyi"	not supported	inf, aug
+"ninzwayo"	not supported	fv, 1sg, sbj, 23, loc, nar
+"bye"	not supported	8, rel
+"nkuwe"	not supported	9
+"nkuwe"	not supported	2sg, obj
+"nkuwe"	not supported	sbjv
+"gw'ogadya"	not supported	6, rel
+"odi"	1, med
+"kubbi"	1sbj, fv, 12obj
+"takumanya"	not supported	prog, neg, 1sbj, fv
+"g'akakaire"	not supported	6, rel
+"kanu"	not supported	12, aug
+"olwembo"	12, prox
+"lwe"	not supported	11, aug
+"kakwemba"	11, rel
+"waawo"	not supported	1, assoc, 2sg
+"oma"	not supported	aug
+"gy'alya"	not supported	9, rel
+"wamwei"	not supported	assoc, 1, 1
+"yamaare"	not supported	pfv, 1sbj, pst
+"lwali"	not supported	11
+"tiyasookere"	not supported	pfv, neg, 1sbj, pst
+"kukinyonyoka"	inf, 7obj, fv
+"abbaire"	pfv, cop, 1sbj
+"maawo"	assoc, 2sg, 1
+"ombinireku"	not supported	pfv, 1sg, obj, appl, 2sg, sbj, 17, loc
+"tinawure"	fut, neg, sbjv, 1sg, sbj
+"mu"	6
+"maka"	6, assoc, 1sg
+"oibaamu"	not supported	1, aug
+"baaku"	not supported	2sbj, sbjv, appl, 2sg, obj, pst
+"baakubuuliriire"	not supported	intj
+"ndisooka"	fut, fv, 1sg, sbj
+"jipakasa"	not supported	9obj, fv
+"kaali"	cop, 12sbj, pst
+"kwesumbira"	refl, fv, appl, inf
+"baro"	not supported	1
+"kayimukanga"	not supported	12sbj, fv, hab
+"naika"	fv, pst, 9sbj, nar
+"nazwayo"	not supported	1sbj, fv, 23, loc, nar
+"ndimala"	fut, fv, 1sg, sbj
+"kweboneraku"	not supported	refl, fv, appl, inf, 17, loc
+"wamwei"	not supported	aug, 12
+"kakaire"	1, 1, assoc
+"amaliriire"	1, aug
+"taalowo"	not supported	1, aug
+"omamwei"	not supported	aug, 1, assoc, 1
+"eka"	16, med
+"ngo"	cop, 6
+"onaani"	not supported	aug
+"nigo"	not supported	cop, 6
+"niko"	not supported	12, cop
+"niwabbawo"	not supported	nar, cop, 16, loc, 16sbj
+"okwiwula"	9sbj, pfv, pst
+"niyekweka"	not supported	nar, 1sbj, fv
+"we"	1
+"yekwekere"	not supported	pfv, 1sbj
+"nimukola"	1obj, fv, 1sg, sbj
+"ntyo"	1sg
+"ombiniremu"	not supported	1sg, obj, sbjv, appl, 2sg, sbj, 18, loc
+"nyize"	not supported	sbjv, 1sg, sbj
+"oireyo"	not supported	2sg, sbj, 23, loc, pfv
+"je"	not supported	23, rel
+"okole"	2sbj, sbjv
+"yaboine"	not supported	pfv, 1sbj, pst
+"wandisanyukire"	not supported	pfv, pst, 2sg, sbj
+"yali"	not supported	cop, 1sbj, pst
+"yakimanyiriire"	not supported	pfv, 7obj, 1sbj, pst
+"zikayonsa"	not supported	10sbj, fv
+"ninje"	not supported	cop
+"samuel"	not supported	1
+"nineyongerayo"	not supported	fv, 1sg, sbj, 23, loc, nar
+"ekya"	7, gen, aug, fv, inf
+"kwaba"	inf, aug, fv
+"oku"	rel, 1pl, sbj, fv
+"okutugezesya"	8, rel
+"byetubbaire"	not supported	pfv, cop, 1pl, sbj
+"tukwega"	inf, 1pl, sbj, fv
+"nigyo"	not supported	cop, 23
+"naalina"	pst, fv, 1sg, sbj
+"nibampindula"	not supported	2sbj, nar, 1sg, obj, fv
+"okunyiya"	not supported	aug, 1sg, obj, fv, inf
+"kampala"	9
+"negeirewo"	not supported	16, loc, appl, pfv, 1sg, sbj
+"seniya"	not supported	9
+"eyakanai"	not supported	9, gen, aug
+"oluvanyuma"	not supported	aug
+"nilwaweire"	not supported	nar, pfv, 11sbj, pst
+"okwirayo"	not supported	aug, fv, 23, loc, inf
+"ekyambongo"	not supported	23, loc
+"awo"	16, med, foc
+"te"	nar, fv, 1sg, sbj
+"oku"	inf, aug, fv
+"okwira"	aug, 17, loc
+"oku"	5
+"kyambogo"	not supported	7
+"nga"	neg, fv, 1sg, sbj, 23, loc
+"tindinayo"	not supported	1
+"muntu"	1, rel
+"gwenkumanya"	not supported	prog, fv, 1sg, sbj
+"nkyali"	not supported	cop, pers, 1sg, sbj
+"waalowo"	not supported	cop, 16, loc, 16sbj
+"okusalaku"	not supported	aug, fv, inf, 17, loc
+"ogwetebwa"	pass, fv, rel, 3sbj
+"ogwa"	1, aug, 3, gen
+"martin"	not supported	aug, 18, loc
+"omu"	7
+"kibuga"	9, 7, gen
+"kya"	1, aug
+"eitagi"	not supported	aug, 5
+"wobulenzi"	not supported	hab, 1pl, sbj, fv, appl, pst, 18, loc
+"lya"	8, aug
+"twasomerangamu"	not supported	2sbj, hab, fv, 5obj
+"eitangi"	not supported	aug, 5
+"erya"	9, aug, 5, gen
+"ubc"	not supported	nar, 1pl, sbj, fv
+"nalyo"	not supported	5
+"nakasongola"	9
+"enkubebe"	not supported	aug, 10
+"zikyamukubira"	not supported	1obj, 10sbj, pers, fv, appl
+"ni"	nar, 1pl, sbj, fv
+"ebbaawo"	not supported	9sbj, cop, 16, loc
+"lwa"	9, 11, gen
+"mpaka"	11
+"lunaku"	11, gen
+"ninaligire"	not supported	pfv, pst, 1sg, sbj, nar
+"isaasira"	not supported	9
+"nkujisomera"	not supported	prog, fv, appl, 1sg, sbj, 9obj
+"siniya"	not supported	9
+"omudisitulikiti"	not supported	9
+"niyo"	not supported	cop, 9
+"emwe"	not supported	aug
+"niyajunire"	not supported	nar, 1sbj, pfv
+"ejo"	not supported	9, med
+"epuraimare"	not supported	aug, 9
+"okukoorayo"	not supported	appl, aug, fv, 23, loc, inf
+"okugezesebwa"	not supported	aug, 15
+"n'epuloguramu"	not supported	9, aug, add, foc
+"eya"	9, gen, aug, 11
+"ruruuli"	9sbj, cop, hab, fv, pst, rel
+"eyabbaanga"	not supported	aug, 17, loc
+"oku"	9
+"rediyo"	not supported	9
+"uganda"	aug, 18, loc
+"omu"	8
+"biro"	8, med
+"naabba"	nar, cop, 1sbj
+"nambyarayo"	not supported	1sbj, 1sg, obj, fv, 23, loc, nar
+"ammambya"	not supported	9, aug
+"eza"	10, gen, 9, aug
+"mmambya"	not supported	9
+"omukwiruka"	not supported	aug, 18, loc
+"olutalo"	inf, fv
+"kakooge"	not supported	8sbj, pass, pfv, pst
+"muno"	11, aug
+"olutalo"	11, med
+"nimwo"	not supported	aug
+"n'oluweero"	not supported	11, aug
+"mubyendo"	not supported	1
+"n'amosi"	not supported	1, add, foc
+"n'omulimu"	not supported	aug, 3, add, foc
+"nga"	aug, 1
+"niye"	not supported	1, assoc, 1sg
+"namatovu"	not supported	cop, 1
+"tubeenganwa"	not supported	1
+"n'omusomo"	not supported	3, aug, add, foc
+"ogwa"	aug, 9, 3, gen
+"dipuloma"	not supported	assoc, 1sg, 9
+"yange"	aug, 9
+"lukunyenda"	not supported	prog, fv, 1sg, sbj, 11sbj
+"namumbyaara"	not supported	1sbj, appl, 1obj, 1sg, obj, fv, nar
+"erediyo"	not supported	aug, 9
+"n'omusanju"	not supported	aug
+"niyanjunire"	not supported	pfv, 1sbj, 1sg, obj, nar
+"olwaliwo"	not supported	cop, 16, loc, pst, rel, 11sbj
+"wa"	1, gen, 5
+"iyanga"	aug, 1
+"kaguta"	1
+"lwa"	inf, fv, 11, gen
+"bya"	8, gen, 15
+"mwendai"	aug, 15
+"okwezi"	cop, 15
+"nikwo"	not supported	15
+"nitu"	not supported	nar, 1pl, sbj, fv
+"joice"	not supported	1
+"nabaweesi"	not supported	1
+"mirembe"	1
+"ni"	8sbj, fv, 18, loc, nar, 17, loc
+"bibbiiyamuku"	not supported	16, med
+"ni"	fv, appl, 1pl, obj, nar, 11sbj
+"lutuleetera"	inf, aug, fv
+"ni"	nar, fv, 1sg, sbj
+"nswera"	aug, 1
+"omukali"	1, assoc, 1sg
+"twaba"	23, loc
+"e"	9
+"twika"	aug, 18, loc
+"omu"	3
+"mwaka"	3, gen
+"nimba"	not supported	nar, cop, 1sg, sbj
+"ningikolamu"	not supported	fv, 1sg, sbj, 18, loc, nar, 9obj
+"nimbbayo"	not supported	nar, cop, 23, loc, 1sg, sbj
+"ninamalirirye"	not supported	cop
+"ekya"	pfv, pst, 1sg, sbj
+"musanju"	7, gen, aug
+"eni"	fv, 1sg, sbj
+"mu"	23, prox
+"kibiina"	18, loc
+"kataanu"	7, gen, aug
+"tv"	not supported	aug, 17, loc
+"uganda"	9, gen, aug, 9
+"eyetebwanga"	pass, aug, hab, fv
+"utv"	not supported	9
+"tv"	not supported	9
+"ninyabaangayo"	not supported	hab, fv, 1sg, sbj, 23, loc, nar
+"n'anyegesyanga"	not supported	1sbj, 1sg, obj, hab, fv, nar
+"ninyaba"	not supported	nar, fv, 1sg, sbj
+"ninyiramu"	not supported	nar, fv, 1sg, sbj
+"nisomerayo"	not supported	fv, appl, 1sg, sbj, 23, loc, nar
+"ekyakataanu"	7, gen, aug
+"kyamukaaga"	7, gen
+"okubba"	inf, cop, aug
+"tukwiraku"	not supported	prog, 1pl, sbj, fv, 17, loc
+"twayegaanga"	not supported	hab, 1pl, sbj, fv, pst
+"sawa"	not supported	10
+"zabbanga"	not supported	10, gen, 5
+"ezalwaigolo"	not supported	10, gen, aug, 11
+"sawa"	not supported	9
+"eisasira"	not supported	pfv, 1pl, sbj, fv, pst
+"omu"	9, aug
+"gombolala"	not supported	aug, 18, loc
+"wabinyonyi"	not supported	9, gen
+"emwei"	not supported	9
+"nitwawereize"	not supported	pfv, nar, 1pl, sbj, pst
+"niyo"	not supported	cop, 23, loc
+"yali"	not supported	23sbj, cop, pst
+"egwirewo"	not supported	23sbj, pfv, 16, loc
+"ekyakataanu"	aug, pers
+"nali"	not supported	cop, pst, 1sg, sbj
+"nkure"	pfv, 1sg, sbj
+"kuuremu"	not supported	pfv, 18, loc
+"oitewange"	not supported	aug, 1
+"yetebwanga"	not supported	1, assoc, 1sg
+"omugenzi"	1sbj, pass, hab, fv
+"agusitofasi"	not supported	1, aug
+"lugemwa"	not supported	1
+"nkolaku"	not supported	17, loc, fv, 1sg, sbj
+"ya"	9, gen, 2sg, sbj, pst
+"otyai"	not supported	9, aug
+"emmambya"	not supported	9
+"ninamukobere"	not supported	pfv, 1obj, pst, 1sg, sbj, nar
+"okwabanga"	aug, hab, fv, inf
+"okwiza"	2sg, sbj, prog, cop, fv
+"kwefaaku"	not supported	refl, inf, fv
+"gwa"	17, loc, 3, gen
+"ku"	9
+"police"	not supported	16, med
+"awo"	aug, 18, loc
+"omukoona"	not supported	9
+"martin"	not supported	1
+"road"	not supported	9
+"ya"	9, gen, 14, 8, gen
+"bumpimpi"	not supported	14
+"nyemereire"	not supported	pfv, 1sg, sbj
+"gye"	not supported	9, rel
+"nkutambulamu"	not supported	fv, 1sg, sbj, 18, loc
+"gwaibiri"	not supported	3, gen
+"omukuweereza"	not supported	aug, 18, loc
+"awo"	inf, fv
+"kwona"	16, med
+"kwona"	17
+"okusoma"	pfv, pst, 1sg, sbj
+"yasookere"	not supported	rel, 1sbj, pfv
+"nairayo"	not supported	1sbj, fv, 23, loc, nar
+"tiyali"	not supported	cop, neg, 1sbj, pst
+"mubi"	not supported	1
+"twakiremu"	not supported	7obj, pfv, 1pl, sbj, pst
+"okwa"	11, aug, 15, gen
+"lutalo"	15sbj, cop, 16, loc, pst, rel
+"yeena"	nar, 1sbj, fv
+"naiza"	1sbj, 16, loc, fv, nar
+"nakolawo"	not supported	16, med
+"awo"	nar, cop, 1pl, sbj
+"olwa"	9, aug, 11, gen
+"sande"	nar, fv, 1sg, sbj
+"nimpeereza"	aug, 18, loc
+"omu"	9
+"purogulamu"	aug, 8, gen, 9
+"ebya"	aug, 9, 8, gen
+"yoona"	not supported	add, foc, 23
+"neteekawo"	not supported	16, loc, fv, 9sbj, nar
+"ekikwetebwa"	not supported	prog, pass, 7sbj, fv, rel
+"ubc"	not supported	9
+"broadcasting"	not supported	9
+"cooperation"	not supported	9
+"gyayinza"	9, rel
+"okuteekateekamu"	not supported	1sbj, fv
+"ekiro"	aug, fv, 18, loc, inf
+"omukasa"	not supported	1, aug
+"mukasa"	not supported	1
+"wa"	1, aug
+"ntebe"	1, gen, 9
+"eyalowo"	not supported	9sbj, cop, 16, loc, pst
+"james"	not supported	1
+"wandera"	1
+"bukama"	1, gen, 14
+"wa"	1, gen, 14
+"nanyanjula"	not supported	1sbj, 1sg, obj, fv, nar
+"ewaabwe"	not supported	1, aug, assoc, 2
+"osam"	not supported	1, aug
+"muwonge"	1
+"yeena"	foc, add, foc, 1
+"te"	nar, 1sbj, fv
+"nayaba"	not supported	aug, 18, loc
+"omu"	14
+"buvunanyizibwa"	not supported	aug, 14
+"obundi"	not supported	23, loc
+"purogulamu"	1sbj, 1sg, obj, fv, appl, nar, 9obj
+"bagyeeta"	not supported	2sbj, 9obj, fv
+"abasalibweku"	not supported	1sbj, 2obj, pass, pfv, 17, loc
+"nibanyendya"	not supported	2sbj, 1sg, obj, fv, nar
+"adi"	23, loc
+"kigingo"	not supported	7
+"omu"	1obj, aug, 9
+"akaligangamu"	not supported	12sbj, hab, fv, 18, loc, rel
+"nikasasulisya"	caus, fv, 1sg, sbj, 12obj
+"ennyumba"	not supported	aug, 9
+"akayumba"	not supported	aug, 12
+"ezasobola"	not supported	rel, 10sbj, fv
+"akumpuliirya"	aug, 2
+"nibibbiiya"	not supported	8sbj, nar, fv
+"ankooremu"	not supported	18, loc, 1sg, obj, 1sbj, pfv
+"omulimu"	not supported	aug, 3
+"bijuliize"	not supported	8sbj, pfv
+"ekyamusanju"	7, gen, aug
+"nikikaliira"	not supported	fv, appl, 1sg, sbj, 7obj, nar
+"okuteekamu"	not supported	inf, aug, fv
+"amaani"	aug, fv, 18, loc, inf
+"omu"	6, aug
+"bya"	aug, 18, loc
+"buliisya"	14, 8, gen
+"yeena"	aug, 1
+"yaali"	not supported	add, foc, 1
+"musaiza"	cop, 1sbj, pst
+"rediyo"	not supported	17, loc
+"isasira"	not supported	9
+"erya"	8, aug, 5, gen
+"te"	aug
+"oluvannyuma"	not supported	aug, 9
+"erediyo"	not supported	9
+"uganda"	16, loc, fv, 9sbj, nar
+"yatandikire"	not supported	pfv, 1sbj
+"waiswe"	1, aug
+"omukulu"	1, assoc, 1pl
+"sekitte"	not supported	1, aug
+"yusufu"	not supported	1
+"amos"	not supported	1
+"ekisyaga"	1, aug
+"buduuli"	1, aug
+"n'abibiri"	not supported	aug, 8
+"nebitusobera"	not supported	8sbj, 1pl, sbj, fv, nar
+"ataata"	not supported	aug, 1
+"ngyena"	1sg, add, foc
+"tindinazo"	not supported	neg, fv, 1sg, sbj
+"kusomero"	not supported	17, loc
+"awo"	5
+"ku"	16, med
+"itendekero"	17, loc
+"e"	5
+"kampala"	23, loc
+"wange"	aug, 1
+"amwei"	1, assoc, 1sg
+"mukrisitayo"	not supported	1
+"yaali"	not supported	cop, 1sbj, pst
+"wa"	1, gen, 7
+"kyambongo"	not supported	7, gen, aug
+"ekya"	aug, 18, loc
+"kakooge"	not supported	9
+"omu"	9, gen, 9
+"ntandika"	inf, aug, fv
+"nimbaayo"	not supported	nar, cop, 23, loc, 1sg, sbj
+"nisombanga"	not supported	hab, fv, 1sg, sbj, nar
+"ginasomerangaku"	not supported	1sg, obj, hab, fv, appl, pst, 9sbj, 17, loc
+"abaleetere"	rel, pfv, 2sbj
+"elyo"	aug, 5
+"katubatwae"	not supported	2obj, sbjv, 1pl, sbj
+"yena"	aug, 1
+"yali"	not supported	add, foc, 1
+"naireyo"	not supported	cop, 1sbj, pst
+"e"	nar, 23, loc, 1sbj
+"kyambogo"	not supported	23, loc
+"kubanga"	foc
+"te"	23, loc
+"kampala"	neg, fv, pst, 1sg, sbj, 23, loc
+"tinalinayo"	not supported	1
+"muntu"	add, foc, 1
+"yeena"	1, rel
+"gwekumanya"	not supported	inf, fv
+"obukama"	inf, aug, fv, appl
+"bwamwei"	14, aug
+"buni"	assoc, 1, 14
+"bwona"	14, prox
+"buduuli"	14, aug, 14, gen
+"nabaangayo"	not supported	hab, fv, 1sg, sbj, 23, loc
+"okugezesebwa"	not supported	pass, aug, fv, inf
+"ngate"	foc
+"nkusoma"	inf, fv, 1sg, sbj
+"naikalaanga"	not supported	hab, fv, pst, 1sg, sbj
+"nairaku"	not supported	1sbj, fv, nar, 17, loc
+"amwe"	aug, 1
+"abamwe"	not supported	aug, 2
+"naligirewo"	not supported	pfv, 16, loc, pst, 1sg, sbj
+"ominisita"	inf, cop, aug
+"mawuuro"	1, gen, 6
+"iza"	not supported	fv
+"nanyegesyanga"	1sbj, 1sg, obj, hab, fv, nar
+"nanyendya"	not supported	1sbj, 1sg, obj, fv, nar
+"nanyikiriza"	not supported	1sbj, 1sg, obj, fv, nar
+"okwabaangayo"	not supported	aug, hab, fv, 23, loc, inf
+"okunyegesyanga"	aug, hab, fv, inf
+"ebya"	9, aug, 8, gen
+"atusyoma"	1pl, sbj, fv, pst
+"nayaba"	not supported	1sbj, foc, fv, nar
+"te"	aug, 18, loc
+"nayabanga"	not supported	1sbj, hab, fv, nar
+"mpola"	1
+"navugaanga"	not supported	hab, fv, pst, 1sg, sbj
+"ekyambogo"	not supported	aug, 7
+"byakwezi"	not supported	8, rel
+"amwaku"	not supported	aug, 15
+"myabiri"	not supported	aug, 3
+"maliriirye"	not supported	pfv, 1sg, sbj
+"kyambongo"	not supported	aug, 6
+"omwigombolola"	not supported	5, gen
+"lya"	aug, 18, loc
+"nkulugiraanga"	not supported	prog, hab, fv, appl, 1sg, sbj
+"emirimu"	not supported	4, aug
+"omu"	aug, 17, loc
+"ya"	9, gen, 1
+"agusitofasi"	not supported	1
+"ekyalowo"	not supported	9sbj, cop, 16, loc, pers
+"isatu"	16, med
+"awo"	4
+"luduuli"	not supported	aug, 17, loc
+"uga"	not supported	aug, 17, loc
+"ubc"	not supported	cop, 9
+"niyo"	not supported	9sbj, pfv, pst
+"eyayindukire"	not supported	inf, aug, fv
+"okuluga"	aug, 18, loc
+"uganda"	nar, 1pl, sbj, fv
+"nitwira"	aug, 18, loc
+"nkwendya"	inf, fv, 1sg, sbj
+"oni"	1, dem
+"akisofeeri"	not supported	1
+"radiyo"	not supported	9
+"ekyaliwo"	not supported	cop, aug, 16, loc, pers
+"tetwina"	not supported	1pl, sbj, neg, fv
+"ezanjawulo"	not supported	10, gen, 9, aug
+"bwa"	3, 14, gen
+"twali"	not supported	cop, 1pl, sbj, pst
+"sabiiti"	not supported	9
+"omukanisa"	not supported	aug, 18, loc
+"buseebwe"	not supported	9, gen
+"nga"	1sg, add, foc
+"njeena"	pfv, 1sg, sbj
+"nyaba"	not supported	pst, fv, 1sg, sbj
+"tukwatagana"	not supported	aug, 18, loc
+"bwomi"	3, 14, gen
+"tusuruka"	inf, aug, fv
+"okuliga"	23, loc
+"twira"	23, loc
+"n'oku"	not supported	aug, 17, loc, add, foc
+"nidokoka"	not supported	nar, fv, 1sg, sbj
+"elikusoka"	not supported	prog, 5sbj, fv, rel
+"byani"	not supported	8, prox
+"bya"	8, gen, 9
+"ewa"	aug, 16, gen, 1
+"lwanga"	not supported	1
+"esiniya"	not supported	fv, 1sg, sbj
+"yakanai"	not supported	aug, 9
+"nimbazaamu"	not supported	fv, 1sg, sbj, 18, loc, nar
+"nimpagisyayo"	not supported	fv, 1sg, sbj, 23, loc, nar
+"nimubandula"	1obj, fv, 1sg, sbj, nar
+"bwa"	refl, aug, 14, gen, fv, inf
+"kwelanga"	aug, 18, loc
+"eka"	9, gen, 1
+"ya"	assoc, 1, 1
+"nagingiire"	pfv, 9obj, pst, 1sg, sbj
+"ninaali"	not supported	nar, cop, pst, 1sg, sbj
+"esiniya"	not supported	aug, 9
+"ekusoka"	not supported	aug
+"ninamalirirye"	not supported	nar, pfv, pst, 1sg, sbj
+"abeegi"	2, 1sbj
+"nibatakanya"	not supported	2sbj, neg, fv, pst, nar
+"akukulia"	not supported	aug, 15
+"kya"	9, 7, gen
+"eyasookere"	not supported	aug, 9
+"ninkiramu"	not supported	nar, 7obj, fv, 1sg, sbj
+"lukikirye"	pfv, 11sbj
+"nimaliirya"	not supported	nar, fv, 1sg, sbj
+"ekusooka"	aug
+"mawuro"	not supported	9, gen, 6
+"ninsyomanga"	not supported	hab, fv, 1sg, sbj, nar
+"nigagulisya"	6obj, caus, fv, 1sg, sbj, nar
+"okusoma"	pst, fv, 1sg, sbj
+"ninyatula"	not supported	nar, fv, 1sg, sbj
+"omulokozi"	aug, 18, loc
+"somero"	not supported	5
+"lya"	5, gen, 9
+"ninyika"	not supported	nar, fv, 1sg, sbj
+"egikwaba"	not supported	prog, fv, 4sbj, rel
+"okusomero"	not supported	aug, 17, loc
+"ninyikyayo"	not supported	fv, 1sg, sbj, 23, loc, nar
+"omukibuga"	not supported	aug, 18, loc
+"wobulenzi"	not supported	7, gen
+"ninyiza"	not supported	nar, fv, 1sg, sbj
+"nitandika"	not supported	nar, fv, 1sg, sbj
+"gwe"	3, rel
+"ogwa"	8, aug, 3, gen
+"ogubba"	3sbj, aug, cop
+"gubairewo"	not supported	pfv, cop, 3sbj, 16, loc
+"ezindi"	not supported	aug, 10
+"zinyamwingi"	10, aug
+"muno"	10
+"niwairawo"	not supported	2sbj, 16, loc, fv, nar
+"kamweikamwei"	not supported	1
+"samwiri"	not supported	1
+"niyaireyo"	not supported	cop
+"nsyomenge"	not supported	1sg, sbj
+"museiza"	not supported	1
+"mugala"	not supported	1
+"omweka"	not supported	aug, 18, loc
+"eya"	assoc, 1pl, 9
+"muzeeyi"	9, gen, aug, 1
+"lwa"	pass, 11, gen, fv, inf
+"ntuba"	not supported	nar, cop, 1pl, sbj
+"eisasira"	not supported	23, loc
+"awo"	9
+"waisenga"	not supported	1, aug
+"omiryamu"	not supported	1, aug
+"nakate"	not supported	1
+"omatyansozi"	not supported	1, aug
+"ogwalemere"	not supported	rel, 3sbj, pfv, pst
+"okugusyatukiraku"	not supported	3obj, aug, fv, appl, inf, 17, loc
+"okubakubiriza"	2obj, aug, fv, inf
+"luduuli"	not supported	9sbj, cop, hab, 16, loc, fv, pst, rel
+"eyabbangawo"	not supported	aug, 17, loc
+"kugezesebwa"	not supported	5sbj, pst, nar, 17, loc
+"ninaire"	nar, pst, 1sg, sbj
+"ninkobereku"	not supported	pfv, 1sg, sbj, nar, 17, loc
+"ba"	1, 2, gen
+"mukama"	2, gen, 1
+"buru"	not supported	9
+"ubc"	not supported	14
+"olwaliwo"	not supported	cop, aug, 16, loc, pst, 11sbj
+"bya"	14, 8, gen
+"bwomi"	3, 8, gen
+"amwei"	aug, 1
+"n'omusumba"	1
+"dan"	not supported	1
+"nakumwe"	not supported	15
+"kwa"	15, gen, 9
+"nsyenene"	aug, 18, loc
+"omubiijwa"	not supported	1, aug
+"eyabandwize"	not supported	rel, pfv, 1sbj, pst
+"okujumuula"	not supported	inf, aug, fv
+"ya"	9, gen, 14
+"bukama"	14, 14, gen
+"amwei"	aug
+"efukanesi"	not supported	aug, 1
+"tibengana"	not supported	1
+"manyaki"	not supported	1
+"bankuurye"	aug, 1
+"kusai"	2sbj, 1sg, obj, caus, pfv
+"omumwaka"	not supported	aug, 18, loc
+"gwali"	3
+"gwa"	cop, 3sbj, pst
+"inkumi"	not supported	3, gen
+"gy'ayinza"	not supported	9, rel
+"okukulaakulanamu"	not supported	1sbj, fv
+"okumbyala"	aug, 1sg, obj, fv, inf
+"omwala"	inf, aug, fv
+"wamwe"	not supported	1, aug
+"amwe"	1, assoc, 1sg
+"tata"	not supported	1
+"omwatya"	aug, 1
+"nsozi"	1
+"n'asiima"	1sbj, fv, pst, nar
+"omwimulaku"	not supported	1obj, fv, 2sg, sbj, 17, loc
+"giyabbanga"	not supported	23, rel
+"ekyambogo"	not supported	1sbj, cop, hab, fv, pst
+"ekakooge"	not supported	23, loc
+"tutyai"	not supported	1pl
+"we"	16, rel
+"eza"	10, gen, aug, 14
+"twayeganga"	not supported	hab, 1pl, sbj, fv, pst
+"olwabalaza"	not supported	aug, 11
+"yambonanga"	not supported	1sbj, 1sg, obj, hab, fv, pst
+"nayaba"	not supported	nar, 1sbj, fv
+"omukaagiri"	not supported	aug, 1
+"aliyo"	not supported	cop, 23, loc, 1sbj
+"nilwo"	not supported	cop
+"lwenyini"	aug, 11
+"bbe"	intj
+"kwona"	inf, aug, fv
+"kwafukiire"	15
+"okusoma"	pfv, 15sbj, pst
+"mulimi"	not supported	1
+"abeeka"	not supported	2, aug
+"namukambi"	not supported	1
+"akapensoni"	not supported	aug, 12
+"buni"	pfv, cop, 1pl, sbj
+"tubbaire"	18, loc
+"mu"	7
+"awoni"	not supported	16, med
+"obba"	16, med, add, foc
+"mwomi"	2sg, sbj, cop
+"omubiri"	prog, fv, 1sg, sbj
+"gukuboneka"	aug, 3
+"balikukubba"	fut, 2sbj, fv, 2sg, obj
+"byakwega"	inf, 8, gen, fv
+"pampa"	not supported	9
+"macande"	aug, 9
+"byona"	8, med
+"gakyalimu"	not supported	6sbj, cop, pers
+"oyabayo"	not supported	intj
+"mbe"	11
+"lutalo"	inf, aug, fv
+"okutoolya"	1, aug
+"omuntu"	8, aug
+"ebiro"	8, prox
+"kaija"	not supported	1
+"omukambi"	not supported	1, aug
+"ky'okubaza"	not supported	7, rel
+"onamukambi"	not supported	1, aug
+"kinakwenderye"	not supported	7, rel
+"okubuulya"	fut, prog, pfv, 1sg, sbj
+"mwalikalya"	fut, fv, 2pl, sbj, 12obj
+"growers"	not supported	9
+"olwa"	9
+"namaani"	not supported	aug, 6, add, foc
+"wegaikire"	not supported	16, rel
+"akisusa"	aug, 7
+"buni"	16, loc, 1pl, sbj, fv
+"tulinawo"	not supported	1, aug
+"nga'te"	not supported	foc
+"abaana"	2sg, sbj, pfv
+"gwe"	1, rel
+"twateireyo"	not supported	pfv, 1pl, sbj, pst, 23, loc
+"nayendya"	not supported	nar, 1sbj, fv
+"kyekwendya"	not supported	7, rel
+"era"	prog, fv, pst, 1sg, sbj
+"nimukoba"	1obj, fv, 1sg, sbj, nar
+"tubaweerya"	appl, 1pl, sbj, fv, 2obj
+"nyansaigi"	not supported	1
+"omukagiri"	not supported	aug, 1
+"obwa"	aug, 7, 14, gen
+"onyansaigi"	not supported	1, aug
+"obwoine"	not supported	2sg, sbj, pfv
+"bambi"	intj
+"yawumwire"	not supported	pfv, 1sbj, pst
+"okay"	not supported	intj
+"bya"	11, 8, gen
+"olwamukaaga"	cop, 11sbj
+"niye"	not supported	aug, 1
+"nafutaali"	not supported	cop, 1
+"butamara"	1
+"onyamuganda"	not supported	aug, 1
+"natamanya"	not supported	neg, 1sbj, fv, nar
+"yakiduuli"	not supported	9, gen, 7
+"nkugezaku"	not supported	prog, 1sg, sbj
+"tasumbata"	not supported	neg, 1sbj, fv
+"tutyo"	1pl, sbj
+"weembe"	2sg, foc
+"wete"	2sg, foc
+"nikwo"	not supported	cop
+"okwefaaku"	not supported	2sg, sbj, prog, refl
+"obyale"	inf, aug, fv
+"naizate"	not supported	foc, fv, pst, 1sg, sbj
+"nabbaaku"	not supported	nar, cop, 1sbj, 17, loc
+"n'omukulembeze"	not supported	aug, 1, add, foc
+"omukyala"	pfv, pst, 1sg, sbj
+"nyamuganda"	not supported	1, assoc, 1sg
+"nigwondinayo"	not supported	cop, 3
+"oku"	23, loc, fv, 1sg, sbj
+"saidi"	not supported	aug, 17, loc
+"mbe"	9, aug, foc
+"opampa"	not supported	9, aug
+"ng'okyaalinaku"	not supported	2sg, sbj, cop
+"mwirange"	pers, fv, 2sg, sbj, 17, loc
+"kukoberekute"	not supported	1, aug
+"nti"	aug, 1
+"abakusinga"	not supported	1
+"eka"	12, aug
+"olinaye"	not supported	2sg, sbj, fv
+"akooreku"	not supported	pfv, 1sbj, 17, loc
+"bya"	9, 8, gen
+"akulembeireku"	not supported	prog, 1sbj
+"n'omukaire"	not supported	1, aug, add, foc
+"bukunaanka"	not supported	prog, 14sbj, fv
+"nteekateeka"	cop, 9
+"nti"	9
+"yabaweire"	not supported	2obj, pfv, 1sbj, pst
+"kyenaali"	not supported	7, rel
+"okubuulya"	cop, pst
+"nti"	prog, fv, 1sg, sbj
+"ayaba"	not supported	1sbj, fv, pst
+"balikalya"	fut, 2sbj, fv, 12obj
+"ekikyo"	not supported	7, aug, 7, med
+"okanca"	intj
+"niyabba"	not supported	aug, 1
+"abakumire"	1
+"oruruuli"	cop, 11
+"nakuyooraku"	not supported	1sbj, fv, 2sg, obj, appl, nar, 17, loc
+"ekikutegeeza"	not supported	rel, prog, 7sbj
+"kucakala"	2sbj, fv
+"n'ekiizula"	nar, 7sbj
+"kisai"	7, med
+"muno"	7
+"mbe"	4
+"maama"	9obj, fv, 1sg, sbj
+"babbawo"	not supported	2sbj, cop, 16, loc, fv
+"bonkai"	not supported	2
+"akapesyoni"	not supported	aug, 12
+"akukalya"	12
+"nabyalibwe"	not supported	pass, pfv, pst, 1sg, sbj
+"rwampanga"	23, loc
+"okukutegeeza"	aug, fv, 2sg, obj, inf
+"eya"	9, gen, 14, aug
+"oba"	9, gen, 9, aug
+"eyangeso"	not supported	9
+"eyamulembe"	not supported	9, gen, aug, 9
+"erowo"	not supported	9sbj, cop, 16, loc
+"siika"	not supported	fv
+"oti"	not supported	aug
+"nakaboopi"	not supported	1
+"njeena"	1sg
+"omukisa"	1sg
+"gukooto"	add, 1sg
+"kyabba"	fut, cop, 7sbj
+"maama"	9, gen, 1
+""	not supported	1
+"yeena"	pfv, 1sbj, pst, 17, loc
+"kisai"	cop
+"n'obba"	7
+"okwekolesya"	2sg, sbj, cop
+"okubba"	1sbj, fv
+"nokade"	not supported	inf, cop, aug
+"oti"	not supported	2sg
+"bange"	2, aug
+"mbaire"	2, assoc, 1sg
+"nkyabendya"	pfv, cop, 1sg, sbj
+"bakwendyayo"	not supported	2sbj, prog, fv, 23, loc
+"bwa"	14, gen, 8
+"kyenyenderye"	not supported	7, rel
+"okukakasa"	pfv, 1sg, sbj
+"nti"	inf, aug, fv
+"abange"	not supported	add, 1sg
+"mba"	not supported	2, aug, assoc, 1sg
+"kyoona"	not supported	7
+"nyendya"	fv, 1sg, sbj
+"owa"	1, aug, 16, gen
+"mukaire"	aug, 1
+"lwakubbate"	not supported	foc
+"nabamwe"	not supported	2, 1, assoc
+"mbakusuubira"	2sbj, fv, appl, 2sg, obj, nar
+"weena"	2sg, add
+"wa"	1, gen, 9
+"n'abbaaku"	not supported	nar, cop, 1sbj, 17, loc
+"wagombolola"	not supported	1, gen, 5
+"n'ewekoombambe"	not supported	foc, refl, fv, 2sg, sbj, nar
+"luweero"	not supported	cop, 1pl, sbj
+"kwabbayo"	not supported	inf, fv, 23, loc
+"nalungirambe"	not supported	1sbj, foc, fv, nar
+"nataamu"	not supported	1sbj, fv, 18, loc, nar
+"akanyeebwa"	not supported	12, aug
+"nayakaarayo"	not supported	fv, pst, 1sg, sbj, pass, 23, loc
+"nawalizibwe"	not supported	pass, pfv, pst, 1sg, sbj
+"okumusendasenda"	1obj, aug, fv, inf
+"ayendya"	not supported	1sbj, fv
+"okulima"	not supported	inf, aug, fv
+"akujunaku"	not supported	rel, 1sbj, prog, fv, 17, loc
+"tulinawo"	not supported	16, loc, 1pl, sbj, fv
+"yasomereku"	not supported	pfv, 1sbj, pst, 17, loc
+"omukagiiri"	not supported	1, aug
+"nayete"	not supported	foc
+"n'omukyala"	aug, 1, add, foc
+"emilimu"	not supported	4, aug
+"wamuluka"	1, gen, 3
+"niipika"	not supported	fv, 1sg, sbj, 23, loc, nar
+"eka"	23, loc
+"batyai"	not supported	2
+"nitwikayo"	not supported	1pl, sbj, fv, 23, loc, nar
+"njetembe"	not supported	foc, 1sg
+"owa"	aug, 16, loc
+"nyenderyayo"	not supported	23, loc, appl, fv, 1sg, sbj
+"kubanga"	aug, fv, 23, loc, inf
+"noirukira"	not supported	nar, 2sg, sbj
+"awo"	fv, appl
+"maama"	fv
+"aizire"	1
+"n'embeera"	not supported	aug, 9, add, foc
+"eriwo"	9sbj, cop, 16, loc
+"ekisabuuni"	not supported	7, aug
+"akungwire"	2sg, sbj, fv
+"obunyeebwa"	not supported	1sbj, pfv
+"bwamwe"	aug, 14
+"okalyeku"	not supported	sbjv, 2sg, sbj, 12obj, 17, loc
+"amaliga"	16, med
+"tinyenderye"	not supported	neg, pfv, 1sg, sbj
+"kukibaza"	inf, 7obj, fv
+"ntyo"	1sg, sbj
+"okutwaala"	not supported	2sg, sbj, prog
+"tekikigaana"	not supported	neg, 7sbj, fv, 7obj
+"n'onyibyala"	not supported	1, aug, add, foc
+"wange"	foc, 1, assoc, 1sg
+"te"	prog, appl, 1sg, obj, fv, rel
+"akumbyara"	aug, 1
+"wabatubonera"	not supported	fut, 2obj, 1pl, sbj, fv, appl, 2sg, sbj
+"boona"	not supported	2
+"abandi"	cop, 23, loc, 1sbj
+"basumbamu"	not supported	2, 18, loc, fv
+"omaama"	2sg, sbj, prog, fv
+"omujuna"	aug, 1
+"yasookere"	not supported	pfv, 1sbj, pst
+"kubba"	cop, inf
+"mayumba"	not supported	6
+"yeenate"	not supported	foc, add, 1
+"okumwendya"	1obj, aug, fv, inf
+"babwojo"	not supported	2, gen, 2
+"muno"	fv
+"okuba"	not supported	inf, aug, fv
+"banyibyala"	aug, 17, loc
+"banywe"	2
+"n'abaisibyala"	not supported	assoc, 2pl, 2
+"tukuliire"	2
+"ku"	prog, 1pl, sbj, pfv
+"kasaanyire"	17, loc
+"omugobe"	12
+"gubbairewo"	not supported	aug, 3
+"we"	pfv, cop, 3sbj, 16, loc
+"agalamirire"	1sbj, appl, pfv
+"kiryandongo"	not supported	9
+"akamere"	aug, 12
+"ka"	1, 12, gen
+"mukaire"	foc, 12sbj, fv
+"akaseente"	not supported	12, aug
+"nikaliiza"	12, med
+"nimiira"	not supported	fv, 1sg, sbj
+"oba"	cop, 1sbj
+"oba"	1sbj, pfv
+"atyai"	not supported	pfv, cop, 1sbj
+"babbaaawo"	not supported	2sbj, cop, 16, loc, fv
+"bairange"	not supported	2
+"akamere"	12
+"okungirawo"	not supported	intj
+"awo"	2sg, sbj
+"mu"	prog, fv, caus, 1sg, sbj
+"magulu"	18, loc
+"abaamu"	not supported	2sg
+"olwakubba"	not supported	intj
+"iswena"	2, aug
+"tukuure"	1pl, add
+"bamweta"	2
+"naani"	1obj, fv
+"kituyambiremu"	not supported	7sbj
+"abaamu"	not supported	2, aug, assoc, 2sg
+"otyai"	not supported	2sg
+"yeena"	intj
+"mukaire"	intj
+"mmkay"	not supported	intj
+"mujeebale"	not supported	1obj, sbjv
+"ayabire"	not supported	cop, 1sbj
+"omu"	pfv, 1sbj
+"musiri"	aug, 18, loc
+"eyo"	3
+"eyankubbulanga"	not supported	1sbj, 1sg, sbj, pst, rel
+"kaija"	not supported	2sbj, 1obj, hab, fv, pst
+"pawulo"	not supported	1
+"mukambi"	not supported	1
+"gyafeereire"	23, rel
+"ka"	pfv, pfv
+"store"	not supported	pfv, cop, 1sbj
+"keeper"	not supported	12
+"gaabire"	6, pfv
+"wafunayo"	not supported	fut, fv, 2sg, sbj, 23, loc
+"olulimi"	cop, 11
+"oluduuli"	not supported	aug, 11
+"beereere"	not supported	2
+"eyo"	1, cop
+"we"	2sg, sbj, pfv, pst
+"awo"	aug, fv, add, foc, inf
+"omukagiiri"	not supported	fut, 2sg, sbj, fv
+"omundamukyirye"	not supported	1, aug
+"omu"	pfv
+"kiryandongo"	not supported	aug, 18, loc
+"district"	not supported	9
+"onamukambi"	not supported	pst, 1sg, sbj
+"abakambi"	not supported	fv, 23, loc
+"onancwezi"	aug, 2
+"n'enzala"	not supported	aug, 9, add, foc
+"omuno"	9sbj, 1sg
+"omukaire"	fut, 2sg, sbj, prog, cop
+"waamu"	aug, 1
+"njeena"	add, 1sg
+"mbaire"	pfv, cop, 1sg, sbj
+"mmaare"	not supported	pfv, 1sg, sbj
+"atamanya"	neg, 1sbj, fv, rel
+"esefuliya"	not supported	9, aug
+"wasumbiremu"	not supported	pfv, pst, 2sg, sbj, 18, loc
+"bisubi"	2pl
+"n'omukaire"	not supported	aug, 1, add, foc
+"wamwei"	not supported	1
+"amufaaku"	not supported	1, 1, assoc
+"te"	foc
+"obubyaaliro"	not supported	aug, 14
+"tinibwo"	not supported	cop, neg
+"ati"	1, assoc, 1sg
+"yeena"	1, assoc, 1sg
+"yali"	not supported	add, 1
+"yali"	not supported	1
+"okyali"	not supported	2sg, sbj, cop, pers
+"kwakalayo"	not supported	inf
+"ki"	2sg, sbj, prog, fv
+"kanda"	2obj, fv, appl, inf
+"ogu"	not supported	22
+"omukagiiri"	not supported	1
+"oyo"	1, aug
+"wamwe"	not supported	1, 1, assoc
+"mmwendya"	not supported	1obj, fv, 1sg, sbj
+"akyaliyo"	not supported	pers, cop, 23, loc, 1sbj
+"bamweta"	1obj, 2sbj, sbjv
+"oize"	not supported	aug, sbjv
+"ofuniireyo"	not supported	sbjv, appl, 2sg, sbj, 23, loc
+"robert"	not supported	1
+"yaaba"	not supported	fv
+"weizukirye"	aug, sbjv
+"luni"	17, prox
+"timwakalangaku"	not supported	neg, 1obj, hab, fv, 1sg, sbj, 17, loc
+"twakukoba"	fut, prog, 1pl, sbj, fv
+"twasimbirewo"	not supported	pfv, 16, loc, 1pl, sbj, pst
+"emusaale"	3, aug
+"ni"	2sg
+"edi"	2sg, sbj, pfv, pst
+"luweero"	not supported	23, loc
+"weebale"	2sg, sbj, sbjv
+"okubbaayo"	not supported	cop, aug, fv, 23, loc, inf
+"nosangayo"	not supported	2sg, foc
+"nkogwo"	not supported	2sg, sbj, 23, loc, fv
+"ekiyaata"	not supported	3, aug
+"yalina"	not supported	1sbj, fv, pst
+"bamwe"	not supported	2, 1, assoc
+"babiri"	2
+"yavugireku"	not supported	pfv, 1sbj, pst, 17, loc
+"na"	add, foc
+"ekikolo"	1
+"kyewazwireku"	not supported	1
+"yakooreku"	not supported	17, loc, pfv, 1sbj, pst
+"kasumbire"	12
+"nkaryeku"	not supported	sbjv, 1sg, sbj, 12obj, 17, loc
+"banyiriiriryewo"	not supported	2sbj, appl, pfv, 16, loc, 1sg, obj
+"kubbi"	pfv, 2sbj, 6obj
+"bakyekoora"	not supported	appl, 2sbj, pers, refl
+"mirimu"	not supported	4
+"ya"	1, assoc
+"kiduuli"	4, gen, 7
+"noira"	not supported	nar, 2sbj, fv
+"lwa"	14, aug, 11, gen
+"tikisobola"	8sbj, neg, fv
+"kuzwawo"	not supported	16, loc, inf, fv
+"yakuwangula"	not supported	prog, 1sbj, pst
+"tokyetanga"	not supported	neg, hab, fv, 2sg, sbj, 7obj
+"kisefuliya"	not supported	7
+"bo"	cop, 16, loc, 16sbj
+"waliwo"	2sbj, cop, pers, 23, loc, rel
+"balikakolesya"	fut, 2sbj, fv, 12obj
+"baalekangaku"	not supported	2sbj, hab, fv, pst, 17, loc
+"baizukirenge"	not supported	hab, sbjv, sbjv, 2obj
+"balikalya"	fut, 2sbj, 12obj
+"abama"	not supported	2, aug
+"banywe"	assoc, 2pl, 2
+"nafumbiriirwe"	not supported	pfv, pst, 1sg, sbj
+"nituuya"	not supported	1sg
+"akukobanga"	prog, 1sbj, hab, fv
+"kyakulumwa"	7, rel
+"yanywananga"	not supported	1sbj, hab, fv, pst
+"oku"	aug, fv, 12obj, inf
+"atyai"	not supported	1
+"okade"	not supported	aug, 9
+"bakatuweire"	not supported	fut, 12sbj, cop
+"ataizukire"	rel, pfv, neg, 1sbj
+"tavumbata"	not supported	neg, 1sbj, pst
+"bufuukire"	not supported	pfv, 14sbj
+"bugega"	not supported	14
+"abanasaigi"	not supported	aug, 2
+"ekinyumba"	not supported	aug, 7
+"kiriwo"	not supported	cop, 16, loc, 7sbj
+"ekyabubbi"	not supported	aug
+"ekyamulemeserye"	not supported	14
+"omulimo"	1obj, caus, 7sbj, pst, rel
+"enyala"	not supported	aug
+"yakungulanga"	not supported	1sbj, hab, fv, pst
+"bingi"	not supported	8
+"abafumbirwa"	not supported	2sbj, pass, fv, rel
+"tibanoba"	neg, fv, 2obj
+"e"	pers, cop, 16, loc, 1sbj
+"kikambi"	not supported	23, loc
+"aliiyo"	not supported	cop, 23, loc, 1sbj
+"gy'okuliga"	not supported	fut, neg, fv, 2sg, sbj, nar
+"tegwabulangawo"	not supported	neg, 16, loc, fv, pst, 3sbj
+"era"	foc
+"nimba"	not supported	cop, 1sg, sbj
+"tinyabireyo"	not supported	pfv, neg, 1sg, sbj, 23, loc
+"te"	1sg
+"nje"	7obj, fv, 1sg, sbj
+"nkibona"	aug, 1
+"erate"	foc
+"waamwe"	aug, 1
+"nimba"	not supported	1, 1, assoc
+"kaita"	cop, 1sg, sbj
+"ikalanga"	not supported	hab, fv
+"ewaiswe"	not supported	23, loc
+"e"	1, assoc, 1pl
+"kiryandongo"	not supported	23, loc
+"abakozi"	9
+"tibakwendyanga"	aug, 2
+"mu"	2sbj, prog, neg, hab, fv
+"maka"	18, loc
+"iteewo"	assoc, 2sg, 1
+"okumujuna"	1obj, aug, fv, inf
+"muwerye"	1obj, appl, sbjv
+"ebyabbanga"	8sbj, cop, hab, pst, rel
+"nob"	not supported	foc
+"ninyira"	not supported	nar, fv, 1sg, sbj
+"niye"	not supported	cop
+"byaruwanga"	1
+"njeenate"	not supported	foc, add, 1sg
+"tinakwenderye"	fut, pfv, prog, neg, 1sg, sbj
+"nti"	1pl, sbj, fv
+"tukoba"	aug, 18, loc
+"mu"	rel, 1sbj, pst
+"eyabyaire"	not supported	neg, 1sbj, fv
+"abakali"	1pl
+"ntali"	not supported	cop, neg, 1sg, sbj
+"aberyaana"	not supported	2, prox
+"abakukobanga"	not supported	aug, 2
+"okusanga"	2sbj, prog, hab, fv, rel
+"onyibyala"	inf, aug, fv
+"akiri"	1, aug
+"ekibbaala"	fv, 1sg, sbj
+"akwekolesya"	prog, cop, 1sbj
+"mmanye"	not supported	sbjv, 1sg, sbj
+"ky'akwendya"	not supported	7, rel
+"nyirukayo"	not supported	23, loc, fv, 1sg, sbj
+"yankoreire"	not supported	aug, 8, rel
+"nka"	appl, pfv, 1sg, sbj, 1sbj, pst
+"okumbyaala"	not supported	aug, 1
+"ludi"	2sg, sbj, fv
+"niye"	not supported	inf, aug
+"asigairewo"	not supported	fv
+"nimwiryayo"	not supported	aug, 1
+"oku"	1obj, fv, 1sg, sbj, 23, loc
+"isomero"	aug, 17, loc
+"onasaigi"	not supported	1, aug
+"omulamuce"	not supported	1obj, 2sg, sbj, sbjv
+"obatwalireku"	not supported	2obj, sbjv, appl, 2sg, sbj, 17, loc
+"naseenyawo"	not supported	1sbj, 16, loc, fv, nar
+"lwaire"	not supported	14
+"oyo"	9
+"kumumyenera"	1obj, inf, appl
+"nataakubyaliire"	not supported	neg, 1sbj, 2sg, obj, pst, nar, appl, pfv
+"abagandabo"	not supported	aug, 2
+"amufaaku"	not supported	1obj, 1sbj
+"alina"	1
+"kuzwala"	1sbj
+"omumperyeku"	not supported	1obj, 1sg, obj, sbjv, appl, 2sg, sbj, 17, loc
+"mmutwale"	not supported	1obj, sbjv, 1sg, sbj
+"natambulaku"	not supported	1sbj, fv, nar, 17, loc
+"ezikumalamalaku"	not supported	10sbj, fv, rel, 17, loc
+"otakobanga"	not supported	hab, fv, 2sg, sbj, neg
+"talina"	not supported	neg, 1sbj, fv
+"wondi"	not supported	1
+"gwasobola"	1, rel
+"okukikobera"	1sbj, fv
+"tomanya"	not supported	2sg, sbj, neg, fv
+"gy'okwaba"	not supported	23, rel
+"kumusakira"	1obj, fv, appl, inf
+"lubuga"	6
+"wabasiryanga"	appl, hab, fv, pst, 2sg, sbj
+"wabateirereku"	not supported	pfv, appl, 2obj, pst, 2sg, sbj, 17, loc
+"babyaale"	not supported	2sg
+"oli"	2sg, sbj, prog, fv
+"muzungu"	not supported	2sg, sbj, cop
+"tokyabirya"	not supported	neg, pers, 2sg, sbj, 8obj
+"ebyo"	fv
+"abaamu"	not supported	2sg, add
+"balikumanya"	2, aug, assoc, 2sg
+"oyo"	1, assoc, 1sg
+"amaani"	1, med
+"gamuwaire"	aug, 6
+"yakolanga"	not supported	1sbj, hab, fv, pst
+"yakuure"	not supported	1sbj, pfv, pst
+"akwekoora"	appl, prog, 1sbj, refl, fv
+"ebibira"	inf, aug
+"nikwo"	not supported	fv
+"kuleetere"	8, aug
+"eengubbe"	not supported	cop, 15
+"abaikala"	rel, 2sbj, fv
+"eki"	not supported	aug
+"siiri"	not supported	1
+"olina"	1
+"imekai"	not supported	2sg, sbj
+"osomaku"	not supported	2sg, sbj, fv, 17, loc
+"kulaira"	prog, cop
+"na"	cop
+"oyo"	cop, 1sbj
+"yaabireyo"	not supported	pfv, 1sbj, pst, 23, loc
+"obunyana"	not supported	aug, 14
+"tetubulya"	not supported	neg, 1pl, sbj, fv, 14obj
+"nekakunga"	fut, neg, fv, 2sg, sbj, 18, loc
+"eeii"	not supported	nar, 12sbj, fv
+"erimwei"	not supported	17, loc
+"oba"	5
+"erindi"	not supported	aug, 5
+"tatu"	not supported	intj
+"n'okusomba"	aug, fv, add, foc, inf
+"amabara"	6, 1sbj
+"agakunyumirwa"	not supported	6sbj, fv, 2sg, obj, rel
+"aga"	aug, 7, 6, gen
+"aba"	1, aug, 2, gen
+"ba"	17, loc, 2, gen
+"ku"	7
+"kyalo"	2sbj, prog, fv
+"ababitiinisya"	not supported	aug, 2, gen, 8
+"baamwei"	aug, 2
+"abairai"	not supported	2, aug
+"abajuungu"	not supported	aug, 2
+"baweireku"	not supported	2sbj, pfv, 17, loc
+"baali"	not supported	2sbj, cop, pst
+"baingi"	2sbj
+"baaligire"	2, aug
+"abanamawuuro"	not supported	1sbj, 2
+"twaliyo"	not supported	cop, 23, loc, 1pl, sbj, pst
+"katonda"	fv, 2sg, sbj, 8obj, nar
+"nobeeta"	8, aug
+"n'obwibbi"	not supported	pfv, 7sbj, 17, loc
+"ba"	1pl, sbj, pfv, 2, gen
+"tumaare"	1sg
+"nje"	pfv, 1sg, sbj
+"badi"	assoc, 1pl
+"abeedi"	not supported	2, dist
+"nibaluma"	2, dist
+"emiyogo"	not supported	aug
+"ezinyamulai"	nar, 2sbj, fv
+"abasaiza"	1sbj, 2
+"tebatera"	not supported	2sbj, neg, fv
+"buze"	not supported	14
+"abazungu"	not supported	aug, 2
+"bakyeeta"	2sbj, 7obj, fv
+"tiles"	not supported	10
+"mu"	cop
+"myaka"	18, loc
+"nka"	4
+"omu"	1, med
+"kanisa"	aug, 18, loc
+"nkoromojjo"	not supported	9
+"abeeyo"	not supported	aug, 2
+"bakubuulyanga"	2sbj, prog, hab, fv
+"bakatonda"	2
+"baira"	2, assoc, 1pl
+"baiswe"	2, dist
+"omwana"	add, pfv
+"owondi"	not supported	aug, 1
+"afuukire"	not supported	pfv, 1sbj
+"kyamagalama"	not supported	7, gen, 6
+"kya"	pfv
+"magalama"	1sbj
+"okanca"	6, 7, gen
+"bakakabyala"	not supported	2sbj, fv, 12obj
+"olwagwire"	pfv, pst
+"aati"	not supported	1
+"akaana"	1sbj, 12
+"akandeeteire"	not supported	1sg, obj, 1sbj, 12obj
+"ate"	appl, pfv
+"myaka"	16, loc
+"ikumi"	16, loc
+"n'eitaanu"	not supported	4
+"akazi"	12, 1sbj
+"tenkalinaku"	not supported	12
+"buzibu"	neg, fv, 1sg, sbj, 12obj, 17, loc
+"akkuswaganiirya"	not supported	prog, 1sbj, fv, 2sg, obj
+"emitairo"	not supported	aug, 4
+"ze"	not supported	10, rel
+"akobere"	pfv, sbjv, 1sbj
+"gwebawaire"	not supported	1, rel
+"ekyenda"	pfv, 2sbj
+"n'omukaaga"	not supported	aug
+"akyali"	not supported	pers, cop, 1sbj
+"kufuuka"	not supported	prog
+"ansi"	refl, fv, 2pl, sbj, nar
+"lwana"	not supported	fv
+"gasai"	6sbj
+"ky'aligire"	not supported	1obj, pfv, pst, 1sg, sbj
+"ku"	7, rel
+"kiki"	pfv, 1sbj
+"byojo"	not supported	2sbj, fv, 8obj
+"sooka"	not supported	fv
+"kaayakaliriirye"	not supported	12sbj, pfv, pst
+"nijo"	not supported	cop, 9
+"zoona"	not supported	10
+"bazitairewo"	not supported	10
+"nk'ekyabulambuli"	not supported	add, foc, 10
+"kwira"	prog, 1sbj, fv
+"yesimbewo"	not supported	inf, fv
+"kkoba"	not supported	fv
+"nkwiryeyo"	not supported	caus, sbjv, 2sg, obj, 1sg, sbj, 23, loc
+"kucuuka"	prog, 11sbj
+"lwoona"	not supported	foc, add, foc, 11
+"lwa"	add, foc, 11
+"sente"	9, 11, gen
+"kusai"	fv
+"webuli"	not supported	16, rel
+"okutabula"	1pl, sbj
+"emisaayi"	prog, aug
+"tuzweyo"	not supported	23, med
+"nibo"	not supported	2, cop
+"bayina"	not supported	2sbj, fv
+"ataali"	not supported	rel, cop, neg, 1sbj
+"nga"	fv
+"nekindi"	not supported	7, aug, add, foc
+"yakwatya"	not supported	fut, 1sbj, fv, 2sg, obj
+"tukobe"	2sg, sbj, prog
+"oikendi"	2sbj, sbjv
+"yatoonya"	not supported	1, aug
+"di"	fut, 1sbj, fv
+"okwate"	prog, fv
+"omwigo"	2sg, sbj, sbjv
+"tutyai"	not supported	pfv
+"emyaka"	1sg, sbj
+"abiri"	fv
+"na"	aug, 4
+"imekai"	not supported	aug
+"kankukobereku"	not supported	1sg
+"oyo"	pfv, fv
+"ni"	1, med
+"omu"	fut, 1sbj, fv
+"kyanda"	aug, 18, loc
+"oba"	7
+"tumeenyamenya"	not supported	1pl, sbj
+"abato"	aug, 1
+"ekikutegeeza"	not supported	prog, 7sbj, fv, rel
+"ebiintu"	not supported	aug, 8
+"omwana"	2sg, sbj, fv
+"ataali"	not supported	aug, 1
+"mpuuro"	rel, cop, neg, 1sbj
+"ebyoni"	not supported	8, prox
+"kukuweerya"	prog, fv, 1sg, sbj
+"ekyakuboneraku"	inf, fv, 2sg, obj
+"omwaka"	7, aug
+"oguweire"	aug, 3
+"atwongeire"	add, pfv, 1pl, sbj, 1sbj
+"tukyusiremu"	not supported	pfv, 18, loc, 1pl, sbj
+"ayabire"	not supported	1sbj, pst
+"luda"	pfv
+"ayi"	11
+"ayakairewo"	not supported	pfv, 1sbj, pst
+"ayina"	not supported	1sbj, fv
+"kyaku"	not supported	prog, 1sbj, 7, rel
+"okuligamu"	not supported	fv
+"ebirwaire"	aug, fv, 18, loc, inf
+"ati"	pfv
+"mukaaga"	4
+"nibataayo"	not supported	nar, 2sbj
+"beeru"	not supported	2, dist
+"iswe"	2
+"bairagazu"	1pl
+"n'anti"	not supported	add, foc
+"n'obugoye"	not supported	14, aug, add, foc
+"bwoona"	not supported	14
+"babugulaambe"	not supported	add, foc, 14
+"tetukuura"	not supported	prog, neg, 1pl, sbj, fv
+"temukulanga"	not supported	2
+"muwogo"	neg, 1obj, hab, fv
+"bajuungu"	not supported	2
+"na"	2, prox, add, foc
+"bani"	aug, 2
+"abafirika"	2sbj, prog, fv, 8obj
+"musi"	not supported	fv
+"omwala"	add, pfv
+"ngedi"	fv, appl
+"batatwala"	sbjv
+"mu"	fut, 2sbj, neg
+"eguma"	18, loc
+"ebbeeku"	not supported	9sbj, cop, sbjv, 17, loc
+"kye"	not supported	7, rel
+"abomu"	not supported	2, med
+"ministri"	not supported	18, loc
+"bakwesimbanawo"	not supported	2sbj, prog, refl
+"ebyojo"	not supported	aug, 8
+"balisimbeku"	not supported	fut, 2sbj, sbjv, 17, loc
+"guti"	not supported	3
+"toli"	not supported	2sg, sbj, cop, neg
+"nyangire"	not supported	1
+"bandeteireku"	not supported	2sbj, appl, pfv, 16, loc, 1sg, obj, fv, 17, loc
+"awo"	14
+"bandikubi"	not supported	1
+"be"	not supported	2, rel
+"oboneireku"	not supported	2sg, sbj, appl, pfv, 17, loc
+"kabuulizi"	not supported	12
+"njiri"	9, 12, gen
+"biintu"	not supported	8
+"biiza"	8sbj, cop
+"tukwatisya"	cop, fv
+"bikwiza"	8sbj, prog, cop, fv
+"kulobesyanga"	caus, hab, fv, 2sg, obj
+"wayaba"	not supported	23, rel
+"bindobeire"	1
+"bombe"	not supported	foc, 2
+"bakubonangambe"	not supported	2sbj, prog, foc, hab, fv
+"bona"	fv
+"byabbanga"	8sbj, cop, hab, fv, pst
+"byemaro"	not supported	1
+"twazitwireku"	not supported	pfv, 1pl, sbj, pst, 10obj, 17, loc
+"kalongo"	not supported	23, loc
+"kale"	23, loc
+"kale"	1
+"nijo"	not supported	1
+"gyekikusinga"	not supported	cop, 23
+"wantabya"	9
+"lyabaku"	not supported	9
+"omusaale"	5sbj, fv, 17, loc
+"guti"	not supported	3, aug
+"ekoba"	aug, fv
+"eti"	not supported	9
+"ebyamaro"	not supported	1, aug
+"ndoowo"	not supported	neg, cop
+"ebbaibuli"	not supported	aug, 9
+"ekoba"	aug
+"nti"	fv
+"omu"	rel, 7sbj, fv
+"nda"	aug, 18, loc
+"tekisiisa"	not supported	9
+"tebikyalina"	not supported	8
+"maani"	neg, 8sbj, pers, fv
+"ebiki"	not supported	aug, 8
+"obweine"	not supported	2sg, sbj, pfv
+"tetukuura"	not supported	1pl, sbj, prog, neg
+"mubireke"	8, med
+"bibbi"	8obj, sbjv, 2pl, sbj
+"tetukuura"	not supported	8
+"ebiwempe"	not supported	8, aug
+"ebizungu"	not supported	8, prox
+"ebiyaata"	not supported	aug, 8
+"byawoomeireyo"	not supported	8sbj, 23, loc, appl, pfv, pst
+"biyaata"	not supported	8
+"kindi"	7
+"ebyembe"	8, aug
+"erya"	1, aug, 5, gen
+"muntu"	1sbj, fv
+"eryo"	fv
+"inaudible"	not supported	9, dist
+"ee"	intj
+"nga"	pfv, 1sbj, pst
+"tebakusyomerewo"	not supported	2sbj, neg, 2sg, obj
+"njeena"	add, foc, 1sg
+"nawuliireku"	not supported	intj
+"nti"	17, loc, pfv, pst, 1sg, sbj
+"batandikire"	aug, 2
+"okuwanjaga"	pfv, 2sbj
+"ebitiko"	not supported	8, aug
+"mpeesu"	not supported	10
+"ei"	not supported	intj
+"likoore"	7, rel
+"eizweri"	not supported	aug
+"bbaire"	not supported	pfv, cop
+"ewaiswe"	not supported	aug, assoc, 1pl, 16
+"uganda"	1
+"yoweri"	not supported	1
+"bakobanga"	7, med
+"kizuma"	7, med
+"ekiintu"	not supported	aug, 7
+"kyansanyusize"	not supported	caus, pfv, 1sg, obj, 7sbj, pst
+"obbaire"	2sg, sbj, cop, pfv
+"bakikulemeserye"	not supported	caus, pfv, 7sbj, 2sg, obj
+"ekijigija"	not supported	aug, 7
+"abba"	7
+"amaare"	cop, 1sbj
+"emyaka"	pfv, 1sbj
+"nk'emekai"	not supported	aug, 4
+"tokola"	not supported	2sg, sbj, neg
+"ekindi"	not supported	7, aug
+"obate"	aug
+"bazeeta"	not supported	2sbj, fv, 10obj
+"nga"	pfv, 7sbj
+"kiweireku"	not supported	pfv, 17, loc
+"ekya"	7, med
+"kitabuletabule"	not supported	rel, cop, 7sbj
+"ekitaa"	rel, cop, 7sbj
+"kya"	7, gen, 9
+"gavument"	not supported	rel, 7sbj, fv
+"ekivunaanyizibwa"	aug, 17, loc
+"oku"	8
+"mbe"	foc, 7, med
+"etyo"	not supported	9
+"teebba"	not supported	9sbj, cop, neg
+"omubutuufu"	not supported	aug, 18, loc
+"enakasongola"	not supported	14
+"atibuni"	23, loc
+"ekwaba"	1
+"maiso"	9sbj, prog, fv
+"ya"	aug, 18, loc
+"nzala"	6
+"otokubba"	not supported	neg, 2sg, sbj, fv
+"gyonkai"	not supported	9
+"gyaali"	not supported	6sbj, cop, pst
+"nijooma"	not supported	4sbj, nar, fv
+"empeesu"	not supported	aug, 10
+"nizo"	not supported	cop, 10
+"nkudu"	10, gen, 1
+"enanka"	aug, 1
+"enkudu"	1, aug
+"bakwiza"	1
+"kukwata"	2sbj, cop, fv, 2sg, obj
+"nizo"	not supported	cop
+"zirya"	cop, 10
+"tezirya"	not supported	10
+"bunyansooro"	not supported	10sbj, neg, fv
+"ennyama"	not supported	aug, 9
+"ekuguma"	9
+"ziri"	10
+"mpadi"	10sbj, cop
+"poliisi"	17, loc
+"nakasongola"	9, gen, 9
+"eza"	aug, 4, gen, 9
+"zirina"	10
+"okubba"	10sbj, fv
+"ne"	not supported	inf, cop, aug
+"satifiketi"	not supported	9
+"minisituri"	not supported	9
+"grikaca"	not supported	9, gen
+"lyalemeireyo"	not supported	5, aug
+"nibalyeeta"	5
+"nibakyeeta"	5sbj, 23, loc, pfv, pst
+"lyeiyaku"	not supported	17, loc, 5obj, fv
+"mbe"	1obj, foc, fv, 2sg, sbj
+"nkyokye"	not supported	sbjv, 7obj, 1sg, sbj
+"nsonga"	cop, 9
+"lwaki"	9
+"okubona"	9
+"ogumwei"	aug, 3
+"isanyu"	5, med
+"esizoni"	aug, 1
+"yacuukire"	not supported	pfv, 1sbj, pst
+"jidi"	not supported	9, dist
+"olukumi"	not supported	aug
+"tekwaba"	not supported	prog, neg, fv, 9sbj
+"kusiisa"	fv, 2sg, obj
+"ekukaleeta"	9
+"goonagoona"	not supported	6
+"nga"	6
+"emyaka"	fv
+"esatu"	not supported	aug, 4
+"mbbaire"	intj
+"nkyali"	not supported	cop, 1sg, sbj
+"kumanya"	pfv, cop
+"i"	not supported	1sg
+"n'aliga"	aug, 1
+"edi"	23, loc
+"e"	assoc, 1pl, 16
+"iswe"	foc, 1pl
+"mbe"	1pl, sbj
+"tugezaaku"	not supported	foc, fv, 17, loc
+"mbe"	1pl
+"tutyo"	16, loc, fv, 2sg, sbj, nar
+"n'eira"	1pl
+"twakitandikire"	fv
+"netukyeeta"	not supported	1pl, sbj, fv, 7obj, nar
+"tayiro"	not supported	10
+"tukuwoza"	not supported	prog, 1pl, sbj, fv
+"eeki"	not supported	aug
+"tulina"	neg, fv
+"owaiswe"	not supported	1, aug, assoc, 1pl
+"omu"	1pl, sbj
+"nkudu"	sbjv
+"kabongera"	1
+"lindi"	1
+"tuzeeta"	not supported	1pl, sbj, fv, 10obj
+"kakkudakuda"	not supported	prog, 12sbj
+"okwendya"	15, aug, fv
+"nyabe"	not supported	sbjv, 1sg, sbj
+"mmuseengulembe"	not supported	1obj, foc, sbjv, 1sg, sbj
+"kankwemberemu"	not supported	sbjv, appl, 2sg, obj, 1sg, sbj, 18, loc
+"akembo"	not supported	12, aug
+"kankwiryeyo"	not supported	prog, caus, sbjv, 1sg, sbj, 23, loc
+"yalutandikire"	not supported	pfv, 1sbj, pst, 11obj
+"emiyembe"	not supported	4, aug
+"oleetere"	4sbj, fv
+"maano"	2sg, sbj, pfv
+"kategeezaaki"	not supported	12sbj, fv
+"katubone"	sbjv, 1pl, sbj
+"kukulemesya"	caus, fv, 2sg, obj, inf
+"kikutegeeza"	cop
+"tekyendya"	not supported	neg, 7sbj, fv
+"kizungu"	not supported	7
+"kisinziira"	not supported	7sbj, fv
+"eengeri"	not supported	aug, 9
+"gyemwakuuremu"	not supported	9, rel
+"n'eengeri"	not supported	18, loc, pst, pfv, 2pl, sbj
+"abaana"	aug, 9
+"wamma"	not supported	intj
+"kityai"	not supported	7
+"koona"	add, foc, 12
+"tereka"	not supported	17, loc
+"weebale"	1
+"muno"	1
+"tetukwendya"	not supported	prog, neg, 1pl, sbj, fv
+"okubuulya"	10, prox
+"muzwamu"	not supported	18, loc, 3sbj, fv
+"kukoonerya"	not supported	inf
+"ky'okkoba"	not supported	7, rel
+"kya"	7, gen, 14
+"akaakaliriirya"	cop, 16, loc
+"inaudible"	not supported	rel, 12sbj, fv
+"kyabyabulambuli"	not supported	7, rel
+"kyokkoba"	not supported	7, rel
+"nti"	2sg, sbj, prog, fv
+"alina"	1sg
+"encaaca"	1sbj, fv
+"tinaagwe"	not supported	10, aug
+"lindaku"	not supported	17, loc, fv
+"lityai"	not supported	5
+"gabakairikyanga"	cop, 6
+"lyabaku"	not supported	5sbj, fv, 17, loc
+"bibiri"	8
+"bitaanu"	not supported	1obj, 2sg, sbj, fv
+"nkukwiryayo"	not supported	prog, fv, 2sg, obj, 1sg, sbj, 23, loc
+"nyina"	1sg, sbj
+"nakazi"	not supported	12, add, foc
+"mbikeengere"	not supported	8obj, pfv, 1sg, sbj
+"alowo"	not supported	cop, 1sbj
+"alina"	cop, 16, loc
+"emyaka"	1sbj
+"kikumi"	fv
+"bakwaba"	aug, 2
+"kutandika"	2sbj, prog, fv
+"nambu"	inf, fv
+"gyebwaligire"	not supported	aug, 14
+"mukukobereku"	not supported	1obj, sbjv, appl, 2sg, obj, 1sg, sbj, 17, loc
+"na"	foc
+"maino"	6, add, foc
+"obudduuli"	not supported	aug, 14
+"irai"	neg, pass, hab, fv, pst, 14sbj, 17, loc
+"omudduuli"	not supported	aug, 1
+"irai"	neg, 1sbj, pass, hab, fv, pst, 17, loc
+"okubbaamu"	not supported	cop, aug, fv, 18, loc, inf
+"n'abadi"	not supported	aug, 2, dist, add, foc
+"mulirwan"	not supported	17, loc
+"baalwaine"	17, loc
+"n'abamwe"	not supported	assoc, 1, 2, aug, add, foc
+"bagaina"	not supported	2sbj, fv
+"e"	17, loc, prog, 1sbj, hab, fv, pass
+"katuugo"	not supported	23, loc
+"nabona"	1
+"egya"	nar, 1sbj, fv
+"katuugo"	not supported	aug, 4, gen, 1
+"jikunyirira"	not supported	4sbj, prog, fv
+"n'ati"	not supported	add, foc
+"n'eengoye"	not supported	10, aug, add, foc
+"alai"	not supported	aug, 7
+"okkulobera"	not supported	2sg, sbj
+"n'okubyaala"	not supported	aug
+"tabyalanga"	not supported	aug, fv, add, foc, inf
+"akuwuliirya"	appl, prog, 1sbj, fv
+"supu"	1obj, fv, 2sg, sbj, 17, loc
+"n'omunankore"	not supported	1, aug, add, foc
+"n'omusaiza"	not supported	1, aug, add, foc
+"yafiire"	not supported	pfv, 1sbj, pst
+"kikumi"	aug, 4
+"waagwa"	fut, neg, sbjv, 2sg, sbj
+"eiralu"	not supported	2sg, sbj, 1sbj, fv
+"eyatwaire"	not supported	rel, pfv, 1sbj
+"akantu"	12, 1sbj
+"naani"	foc, add, foc
+"mbe"	aug, 17, loc
+"oku"	6
+"masomero"	6, gen
+"nabamwei"	not supported	2, add, foc
+"nabyemaro"	not supported	1
+"nakibaka"	not supported	nar, 7obj, 1sbj
+"nakkunkumuka"	not supported	nar, prog, 1sbj
+"abadduuli"	not supported	2, aug
+"mubbaire"	pfv, cop, 2pl, sbj
+"makurooni"	not supported	6
+"kye"	not supported	aug
+"kamujunangaku"	not supported	7, rel
+"n"	not supported	12sbj, 1obj, hab, fv, 17, loc
+"kini"	7, prox, add, foc
+"namwera"	1
+"nanje"	not supported	1sg, add, foc
+"otyo"	not supported	2sg
+"kiti"	not supported	7
+"natakisanga"	not supported	neg, 1sbj, 7obj, nar
+"nayo"	not supported	1, med, add, foc
+"yawoomanga"	not supported	1sbj, hab, fv, pst
+"okwokya"	inf, aug, fv
+"bbaire"	not supported	1
+"akutiina"	pfv, cop
+"bukaire"	1
+"ataliganga"	not supported	neg, 1sbj, hab, fv, rel
+"mbaire"	cop, pfv, 1sg, sbj
+"kubuulyaku"	not supported	inf, fv, 17, loc
+"kkola"	not supported	inf, fv
+"nkukobereku"	not supported	sbjv, appl, 2sg, obj, 1sg, sbj, 17, loc
+"ekiwuluka"	rel, 7sbj, fv
+"twireyo"	not supported	sbjv, 1pl, sbj
+"oku"	sbjv, 1pl, sbj, 23, loc
+"nsonga"	aug, 17, loc
+"gye"	not supported	9, dist
+"tubbaireku"	not supported	23, rel
+"abasomesa"	not supported	2, aug
+"bakkoba"	not supported	2sbj, fv
+"nibyo"	not supported	8, cop
+"bibbaawo"	not supported	8sbj, cop, 16, loc
+"kujuna"	prog, 1sg, sbj
+"ki"	pfv, cop, 2pl, sbj
+"obunage"	prog, fv, 2pl, sbj
+"gyebukuzwa"	not supported	assoc, 1sg, 14
+"walowo"	not supported	cop, 16, loc, 16sbj
+"atyo"	not supported	1
+"nakubbirawo"	not supported	2, aug
+"esowaani"	not supported	2, gen, assoc, 2sg
+"wurru"	not supported	aug, 1
+"owa"	1, gen, aug, 9
+"omunaanai"	not supported	aug
+"aikirye"	cop, 1sbj
+"emyaky"	not supported	cop
+"ikumi"	1sbj
+"n'etaanu"	not supported	appl, pfv
+"ebiintu"	not supported	aug, 2
+"ebisai"	2sbj, 1pl, obj, appl, pfv
+"abamulya"	not supported	cop, 16, loc
+"tobbangaku"	not supported	2sg
+"na"	neg, cop, hab, fv, 2sg, sbj, 17, loc
+"bu"	not supported	2
+"kabboko"	not supported	12, 14, gen
+"weena"	2sg, add, foc
+"tolowoozaaku"	not supported	neg, fv, 2sg, sbj, 17, loc
+"oyo"	aug, 1
+"kya"	16, loc, neg, cop
+"kukolamu"	not supported	7, gen, fv, 18, loc, inf
+"nebajirabiira"	not supported	2sbj, fv, nar, 9obj
+"nebakoba"	nar, 2sbj, fv
+"ka"	1
+"nebakoba"	nar, 2sbj
+"nekakunga"	nar, 12sbj
+"nezibbaawo"	not supported	nar, 10sbj, cop
+"ababbaire"	2, aug
+"abakulukulu"	not supported	2, aug
+"enjola"	cop, 3sbj, 17, loc
+"aliwo"	not supported	cop, 16, loc, 1sbj
+"kika"	18, loc
+"tenkitaka"	not supported	neg, fv, 1sg, sbj, 7obj
+"toolina"	not supported	2sg, sbj, neg, fv
+"budaabirizi"	not supported	14
+"ngezereku"	not supported	pfv, 1sg, sbj
+"okubaza"	pfv
+"aiza"	cop, 1sbj, fv
+"okkupaaya"	not supported	aug, fv, 2sg, obj, inf
+"wateekawo"	not supported	fut, 16, loc, fv, 2sg, sbj
+"mwize"	1obj, sbjv
+"mulyeku"	not supported	1obj, sbjv, 17, loc
+"ekiri"	rel, cop, 7sbj
+"eitakali"	fv
+"lya"	aug, 5
+"eni"	9, prox, 5, gen
+"kalongo"	not supported	1
+"ebibbwene"	not supported	fv
+"nibakulemwa"	not supported	2sbj, fv, 2sg, obj, nar
+"nadfa"	not supported	2
+"nadfa"	not supported	1
+"bairange"	not supported	1
+"mu"	2
+"nadfa"	not supported	18, loc
+"nibagwa"	2sbj, fv, 3, gen, nar
+"niba"	not supported	nar, 2sbj
+"niiswe"	not supported	1pl, cop
+"niiwe"	not supported	cop, 2sg
+"nikakire"	not supported	12sbj, fv, appl, nar
+"kakyalumwei"	not supported	12
+"kanai"	1, aug
+"nimwo"	not supported	pfv, 1sbj, pst
+"ky'okugeza"	not supported	7, rel
+"okutegeeza"	7, rel
+"nimunyakalyangamu"	not supported	hab, fv, 18, loc, 2pl, sbj, nar
+"amaiso"	6, 1sbj
+"bisabyeere"	not supported	1
+"niryo"	not supported	cop
+"eryo"	cop, 5
+"eibara"	5, med
+"ebicooli"	fv
+"niyo"	not supported	cop, 1
+"jebeeta"	not supported	9, rel
+"orumanyo"	2sbj, fv
+"zibaagaine"	not supported	10sbj, pst, pfv, 2obj
+"lwe"	not supported	11, rel
+"mmaite"	not supported	pfv, 1sg, sbj
+"ekyo"	1sg
+"ekitaa"	2sg, obj, 1sg, sbj
+"ani"	17, loc, sbjv, appl
+"obba"	2sg, obj, 1sg, sbj
+"mpwise"	17, loc, sbjv, appl
+"nje"	foc, 1sg
+"mbe"	aug, 8
+"ebikala"	1sg
+"ebyo"	neg, 8sbj, 1sg, obj, fv
+"nje"	18, loc
+"tebiinyumira"	not supported	7
+"okkubuulya"	not supported	aug, fv, 2sg, obj, inf
+"nkukobereku"	not supported	pfv, 2sg, obj, 1sg, sbj, 17, loc
+"eryange"	not supported	assoc, 1sg, aug, 5
+"eyarinyalikire"	not supported	pfv, 1sbj, 1sg, obj, pst, 5obj, rel
+"ntaa"	cop, 1sg, sbj
+"gwange"	3, aug
+"bandikubbi"	not supported	fv
+"gwenkola"	not supported	1, rel
+"naye"	fv, 1sg, sbj
+"naali"	not supported	cop, pst, 1sg, sbj
+"nsimbireku"	not supported	pfv, 17, loc, 1sg, sbj
+"nejooma"	not supported	4sbj, nar, fv
+"njeni"	not supported	add, foc, 1sg
+"kankukobere"	not supported	sbjv, appl, 2sg, obj, 1sg, sbj
+"njeni"	not supported	1sg
+"nkukobere"	add, foc, 1sg
+"eryange"	not supported	sbjv, appl, 2sg, obj, 1sg, sbj
+"tiintaka"	not supported	neg, fv, 1sg, sbj
+"kunjooga"	inf, 1sg, obj, fv
+"njoka"	not supported	10
+"binyoronzi"	not supported	10
+"biki"	not supported	8
+"atabbaire"	not supported	cop, neg, 1sbj
+"wa"	pfv, cop
+"mugaso"	1, gen, 3
+"myaka"	17, loc
+"egisookere"	4, dist
+"nkiintegeire"	not supported	pfv, 7obj, 1sg, sbj
+"nkubbiraku"	not supported	1sg, obj
+"nga"	17, loc, fv, appl
+"ali"	2sbj, prog, fv, 2sg, obj
+"ebbulooka"	cop, 1sbj
+"nkuura"	prog, fv, 1sg, sbj
+"mbibyo"	not supported	8
+"nogisiimuulawo"	not supported	nar, 2sg, sbj, 9obj
+"aiza"	1, prox
+"kubba"	cop, 1sbj
+"sirika"	not supported	fv
+"noteekayo"	not supported	fv, 2sg, sbj, 23, loc, nar
+"ebikaseregete"	not supported	4, aug
+"tebaikawo"	not supported	2sbj, neg, 16, loc, fv
+"imekai"	not supported	4
+"bityai"	not supported	8
+"owa"	1, gen, aug, 11
+"alu"	not supported	aug, 1
+"obuzibu"	1sbj, fv
+"wabbaawo"	not supported	cop, 16, loc, 16sbj
+"emigigi"	not supported	aug, 4
+"egibba"	4
+"girina"	rel, cop, 4sbj
+"okuzwawo"	not supported	4sbj, fv
+"emigigi"	not supported	16, loc, aug, fv, inf
+"ejindinejiiraku"	not supported	aug, 4
+"ntyai"	not supported	1sg
+"okyoga"	not supported	1, aug
+"onamwera"	not supported	aug, 1
+"bwabbanga"	cop, hab, fv, pst, 14sbj
+"onyabwita"	not supported	aug, 1
+"nyinayo"	not supported	add, foc, 23, loc, 1sg
+"n'enyembo"	not supported	aug, 10, add, foc
+"omu"	10, assoc, 2
+"studio"	not supported	assoc, 2
+"ayemereire"	not supported	1sbj, pfv
+"n'okkukoba"	not supported	aug, fv, 2sg, obj, add, foc, inf
+"oba"	cop, 1
+"omaare"	cop
+"okweyongerayo"	not supported	prog, fv, 2sg, sbj, 23, loc
+"maiso"	18, loc
+"ekireetera"	7sbj, fv, appl, rel
+"okwaraatana"	2
+"nambu"	inf, aug, fv
+"erowo"	not supported	9
+"obizwakumbe"	not supported	foc, fv, 2sg, sbj, 8obj, 17, loc
+"obunyansooro"	not supported	aug, 14
+"obunyurunzi"	not supported	aug, 14
+"bwa"	12, 14, gen
+"kabboko"	not supported	14sbj
+"ebyabwe"	not supported	aug, assoc, 2, 8
+"ebya"	2, aug, 8, gen
+"buli"	14, med
+"gwokukikoba"	not supported	1, rel
+"akwaba"	prog, 7sbj, fv, 2sg, sbj
+"kkikoba"	not supported	prog, 1sbj, fv
+"ee"	inf, 7obj, fv
+"takyaboneka"	not supported	neg, 1sbj, pers, fv
+"ofono"	not supported	1
+"kaye"	1
+"niye"	not supported	1
+"yakembere"	not supported	cop, 1
+"nabwa"	not supported	1
+"takutoonya"	not supported	14, cop
+"niya"	not supported	1
+"yeena"	1
+"takyatoonya"	not supported	add, 1
+"oira"	not supported	2sg, sbj
+"ku"	fv
+"mwana"	17, loc
+"ki"	1
+"oizire"	not supported	2sg, sbj, pfv
+"ojisiimuulawo"	not supported	16, loc, fv, 2sg, sbj, 9obj
+"ojisiimuula"	not supported	2sg, sbj, 9obj, fv
+"abajunaanyizibwa"	not supported	rel, 2sbj, fv
+"za"	10, gen, 8
+"bibira"	2, prox
+"okkoba"	not supported	inf, aug, fv
+"amembe"	6, 1sbj
+"okkoba"	not supported	2sg, sbj, prog, fv
+"kub"	not supported	add, fv
+"aba"	14, aug, 2, gen
+"okukibona"	prog, fv, 2sg, sbj, 8obj
+"nikwo"	not supported	cop, 15
+"yonkai"	not supported	9
+"okwaikendii"	not supported	aug, 14
+"nabyemaro"	not supported	fv
+"akkoba"	not supported	prog, 1sbj, fv
+"aba"	9, aug, 2, gen
+"nadfa"	not supported	nar, 2sbj, pfv
+"n'onadfa"	not supported	aug, 1
+"maite"	not supported	1sg
+"kuni"	pfv, 1sg, sbj
+"kuwawuura"	not supported	inf, fv, 2obj
+"abakunyeta"	not supported	2sbj, prog, 1sg, obj, fv, rel
+"jajja"	not supported	1
+"nkwaba"	11
+"kubbaayo"	not supported	prog, fv, 1sg, sbj
+"tinandisomere"	not supported	pfv, neg, pst, 1sg, sbj
+"ewaiswe"	not supported	1, aug, assoc, 1pl
+"nilwo"	not supported	11, med
+"mbaire"	cop, 11
+"maite"	not supported	cop, 1sg, sbj
+"atyo"	not supported	sbjv
+"nje"	8, med
+"naani"	1, aug
+"obukooto"	1sbj, fv
+"kiki"	7
+"akoba"	1
+"n'aliga"	1
+"yesiganga"	not supported	hab, 1sbj, fv
+"nkumwendya"	1, med
+"omulimisya"	not supported	aug, 1
+"naki"	1, gen, aug
+"omuwandya"	1, gen, aug
+"eni"	1sbj, fv
+"akwenkana"	not supported	prog, 1sbj, fv
+"mujunire"	1, med
+"ntyai"	not supported	1, med
+"gwa"	9, 3, gen
+"oba"	9, aug, 3, gen
+"owondi"	not supported	aug, 3
+"ekigambo"	1sbj, fv
+"kyeyambwirye"	not supported	7, aug
+"emambya"	7, rel
+"nakookolaku"	not supported	1sbj, fv, nar, 17, loc
+"yanyalikire"	not supported	cop, 1
+"bamwalikire"	1
+"onanka"	foc, aug, 1
+"mbe"	add, 1
+"yeena"	1sbj, foc, fv, 23, loc, nar
+"naligayombe"	not supported	1sbj, hab, fv, nar
+"yeena"	1, med
+"ataa"	add, 1
+"n'orumanyo"	not supported	cop, 1sbj
+"nakoba"	add, 1
+"ati"	nar, 1sbj, fv
+"yaikalanga"	not supported	1sbj, hab, fv, pst
+"mumanya"	1obj, fv, 1sg, sbj
+"natamusanga"	not supported	neg, 1sbj, 1obj, fv, nar
+"nomukoba"	1, prox
+"evanjirist"	not supported	1obj, fv, 2sg, sbj, nar
+"nga"	1, prox
+"lwana"	not supported	12
+"babutairewo"	not supported	pfv, 2sbj, 16, loc, 14obj
+"nga"	2sg
+"no"	not supported	1sg, obj
+"taata"	caus, pfv
+"omukkubbiramu"	not supported	1, add, foc
+"kubanga"	1
+"aikala"	2sbj, fv
+"ngeyo"	1obj, fv, appl, 18, loc, inf
+"baliisya"	2sbj, caus, fv
+"nilwo"	not supported	nar, 11
+"luli"	cop, 11
+"ayi"	cop
+"lwemaite"	11obj, pfv
+"alumu"	not supported	cop, 18, loc, 1sbj
+"ayabire"	not supported	1sbj
+"akendeera"	pfv
+"otantiinisya"	neg, caus, 1sg, obj, fv, 2sg, sbj
+"otegeireku"	not supported	17, loc, 2sg, sbj, pfv
+"otomutambaala"	not supported	1obj, fv, 2sg, sbj, neg
+"owa"	1, gen, 12, aug
+"n'owa"	1, gen, 12, aug
+"muworonko"	1, gen, aug, 3
+"bamwei"	not supported	2
+"odesemba"	not supported	1, aug
+"netumumalaku"	not supported	1
+"nga"	1obj, 1pl, sbj, fv, nar, 17, loc
+"ikendi"	neg, cop
+"ayabire"	not supported	10, prox
+"sebwato"	not supported	1
+"ataa"	1
+"muswama"	not supported	cop, 1sbj
+"simanyi"	not supported	pfv, 1sg, sbj
+"ti"	5, med
+"sanyu"	not supported	neg
+"be"	not supported	neg
+"gyooli"	not supported	5
+"olindeku"	not supported	fv
+"okunsala"	17, loc, 2sg, sbj, sbjv
+"okirumi"	not supported	inf, aug
+"onkobereku"	not supported	1sg, obj, sbjv, appl, 2sg, sbj, 17, loc
+"gwali"	cop, 3sbj, pst
+"tagitwalayo"	not supported	neg, 1sbj, fv, 23, loc, 9obj
+"tamaite"	not supported	neg, 1sbj, pfv
+"tenduga"	not supported	neg, fv, 1sg, sbj
+"tenkumanya"	not supported	prog, neg, fv, 1sg, sbj
+"bainza"	not supported	fv
+"nokubba"	2sbj, fv
+"bakizwire"	inf, nar, aug, cop
+"tetukyaziteekamu"	not supported	neg, 1pl, sbj, pers, fv, 18, loc, 10obj
+"teyeizuca"	not supported	neg, 1sbj
+"teyejjusa"	not supported	neg, 1sbj, fv
+"nakukobera"	pfv, 1sbj, fv, 2sg, obj, 1sg, sbj
+"kalukobwe"	not supported	neg
+"kuduba"	neg
+"okwo"	neg
+"kulaira"	neg
+"nimwo"	not supported	neg
+"tibatuyambire"	pfv, 2sbj, neg, 1pl, sbj
+"tica"	not supported	1
+"etuli"	9sbj, cop, 1pl, sbj
+"timpuliirya"	appl, neg, fv, 1sg, sbj
+"oni"	fv
+"akubba"	1, prox
+"ebikonde"	not supported	prog, cop, 1sbj
+"tiwagawuure"	neg, 6obj, pst, 2sg, sbj, pfv
+"amawulire"	not supported	6, aug
+"tiyeizuca"	not supported	neg, 1sbj, fv
+"toiramu"	not supported	2sg, sbj, neg
+"tokitaku"	not supported	7obj, 2sg, sbj, neg
+"bakaire"	17, loc, fv
+"tokubona"	not supported	prog, neg, fv, 2sg, sbj
+"towuura"	not supported	2sg, sbj, neg, fv
+"amanda"	pfv, 2sbj, 18, loc, 4obj
+"toyaba"	not supported	1pl, sbj, fv
+"tss"	not supported	intj
+"bandikubbi"	not supported	1
+"tukomerye"	sbjv, 1pl, obj, appl
+"eyatereeza"	not supported	fut, 1sbj, fv, rel
+"ennyanja"	not supported	aug, 9
+"okkuuma"	not supported	inf, aug, fv
+"bitundu"	7
+"tukumalaku"	not supported	prog, 1pl, sbj, fv, 17, loc
+"abagezereku"	not supported	2, aug
+"nibagula"	2
+"nibasimba"	rel, 2sbj, pfv
+"emisaale"	nar, 2sbj, fv
+"obundi"	not supported	aug, 14
+"tumenyemenye"	not supported	sbjv, 1pl, sbj
+"twabire"	pfv, 1pl, sbj, pst
+"gwa"	8, 3, gen
+"twabyetanga"	8sbj, hab, 1pl, sbj, fv, pst
+"ebyayanguwanga"	not supported	8sbj, hab, fv, rel
+"amangu"	not supported	aug
+"twaliwo"	not supported	2sg, sbj, cop, neg, pst
+"waa"	intj
+"waaa"	not supported	intj
+"waabireku"	not supported	pfv, pst, 2sg, sbj, 17, loc
+"dwaliro"	18, loc
+"lya"	11
+"adi"	5, gen
+"mulago"	not supported	23, loc
+"waali"	not supported	2sg, sbj, cop, pst
+"obbaireku"	not supported	2sg, sbj, cop
+"n'omuntu"	not supported	pfv, cop, 17, loc
+"kuluku"	not supported	15sbj, cop
+"otwizi"	cop, 17, loc
+"tebakyaikiriza"	not supported	2sbj, neg, pers, fv
+"mpeesu"	not supported	fv
+"abataaliwo"	not supported	2
+"abataaliwo"	not supported	cop
+"ati"	cop, 16, loc
+"nga"	rel
+"basigazi"	2sbj, cop, neg, pst
+"abataaliwo"	not supported	cop, 16, loc
+"emisaayi"	cop, 16, loc
+"gidi"	aug, 4
+"nga"	4
+"omu"	pfv, 1sbj, cop, pst, 23, loc
+"ca"	not supported	aug, 18, loc
+"omu"	1
+"palamenti"	not supported	aug, 18, loc
+"nibyo"	not supported	intj
+"tukolesya"	8, cop
+"tendo"	not supported	1
+"wamwiyire"	not supported	pfv, 1obj, pst, 2sg, sbj
+"wategeireku"	not supported	17, loc, 2sg, sbj, pfv, pst
+"obunage"	14, aug
+"bakubumalayo"	not supported	2sbj, prog, fv, 23, loc, 14obj
+"nnyanja"	not supported	9
+"weyiiyize"	not supported	2sg, sbj, caus, sbjv
+"tuleke"	1pl, obj
+"wuura"	not supported	fv
+"akubbirewo"	not supported	pfv, 16, loc, 1sbj
+"esowaani"	not supported	aug, 9
+"yaabire"	not supported	1sbj, pst
+"kugula"	pfv
+"tayiro"	not supported	inf
+"yaabire"	not supported	pfv, 1sbj, pst
+"obutunda"	pfv
+"taalina"	not supported	neg, 1sbj, fv
+"bujulizi"	not supported	14
+"nako"	not supported	add, foc, 1
+"nayaba"	not supported	add, foc
+"tukole"	6sbj, cop, 23, loc
+"tutyai"	not supported	1pl, sbj, sbjv
+"eyabitwalayo"	not supported	1sbj, fv, 8obj, 23, loc, rel
+"za"	10, gen, 1
+"kini"	foc, fv, 17, loc
+"ekyaiguru"	not supported	7, prox
+"ziyinza"	not supported	10sbj, fv
+"zingi"	not supported	10
+"nikayakire"	not supported	pfv, 12sbj, pst, nar
+"mwendai"	aug, 3
+"omwaka"	rel, pfv, 3sbj
+"tobulimu"	not supported	neg, cop, 2sg, sbj, 18, loc, 14obj
+"baali"	not supported	14
+"beetere"	2sbj, cop
+"banamawuuro"	not supported	pfv, 2sbj
+"wetwatandikiire"	not supported	2sg, sbj, 18, loc, fv
+"okusoma"	16, rel
+"akuboneka"	1pl, sbj, pst
+"yansingangaku"	not supported	inf, aug, fv
+"itakali"	aug, 17, loc
+"zigume"	17, loc
+"bakuwaawo"	not supported	2, aug
+"abiri"	aug
+"tawuni"	aug, 18, loc
+"kanso"	not supported	9
+"nakasongola"	9, gen, 1
+"ani"	1
+"ya"	aug, 9
+"banankore"	9, gen, 2
+"akuwisirye"	not supported	aug, 1
+"ekinanka"	7, aug
+"nekikuloba"	not supported	fv, 7sbj, 2sg, obj, nar
+"edi"	cop, 1pl, sbj
+"lubaawo"	sbjv, 1pl, sbj
+"tukusoma"	aug, 17, loc
+"nga"	1, aug
+"kyokwendya"	not supported	7, rel
+"o"	not supported	aug, fv, appl, 2sg, obj, inf
+"obwenzi"	2sbj, fv, appl, 2sg, obj, nar
+"bakunyeta"	not supported	2sbj, prog, 1sg, obj, fv
+"sowani"	not supported	10
+"za"	10, gen, 2
+"ky'okuteesa"	not supported	7, rel
+"obwire"	fv
+"nambu"	aug, sbjv, 14
+"kusobba"	2sg, sbj, pfv
+"yaabwe"	9, aug
+"irange"	not supported	2
+"we"	3
+"ebiintu"	not supported	2sg, sbj, sbjv
+"ebisatu"	not supported	aug, 8
+"bakuwulukangamu"	not supported	aug
+"waaiswe"	not supported	assoc, 1pl, 16
+"ebya"	10, aug, 8, gen
+"okwiza"	9
+"jitwala"	not supported	2sg, sbj, prog, fv
+"oku"	9obj, fv
+"poliisi"	aug, 17, loc
+"eza"	10, gen, aug, 9
+"pappo"	not supported	9
+"ezi"	not supported	10, aug
+"eni"	rel, cop, 7sbj
+"tetukoba"	not supported	1pl, sbj, neg, fv
+"abantu"	2sbj, sbjv, appl, 17, loc
+"emere"	aug, 2
+"leke"	not supported	sbjv
+"babbaire"	pfv, 2sbj, cop
+"bakwabangayo"	not supported	2sbj, prog, hab, fv, 23, loc
+"iralu"	not supported	fut, neg, sbjv, 2sg, sbj
+"weyambula"	5
+"n'otusabbuuni"	not supported	aug, 13, add, foc
+"tuluku"	not supported	cop, 13sbj, 17, loc
+"gyokye"	not supported	4
+"nafuuka"	not supported	nar, 1sbj, fv
+"mugaso"	17, loc
+"akwiraku"	not supported	prog, 1sbj, fv, 17, loc
+"bunankore"	not supported	14
+"e"	7, aug
+"kigambo"	7, gen, 1
+"ekyakuwulukamu"	not supported	fut, 7sbj, fv, 2sg, obj, 18, loc, rel
+"kkusiisa"	not supported	inf, fv, 2sg, obj
+"ba"	2sbj, neg, hab, fv, appl, 1pl, obj, 17, loc
+"tu"	not supported	5
+"nayendyanga"	not supported	fut, hab, fv, 1sg, sbj
+"bazzitwalanga"	not supported	pfv, 2sbj, cop
+"omu"	2sbj, hab, fv, 10obj
+"butale"	aug, 18, loc
+"eyo"	14
+"nebutoonyamu"	not supported	fv, 18, loc, nar, 14sbj
+"biti"	not supported	8
+"ani"	fut, 2sg, sbj, fv
+"murungi"	not supported	aug, 17, loc
+"yairemu"	not supported	18, loc, pfv, 1sbj, pst
+"gwakanai"	3, gen
+"bakutunda"	2sbj, hab, cop, fv
+"ekijigija"	not supported	2sbj, prog, fv
+"atuzwire"	aug, 6
+"agomboko"	not supported	fv
+"bakubyaire"	fv, 2pl, sbj
+"di"	2sbj, 2sg, obj
+"gwebalinawo"	not supported	1, rel
+"weena"	add, foc, 1
+"jito"	not supported	9
+"omwei"	not supported	cop, 16, loc
+"nga"	aug
+"nkudu"	1sbj, fv
+"o"	not supported	aug, 1
+"odiso"	not supported	1, aug
+"gw'okwendya"	not supported	1, rel
+"omwaka"	2sg, sbj, prog, fv
+"nkugaine"	sbjv, 1sbj, 2sg, obj
+"ojirangeyo"	not supported	sbjv, 2sg, sbj, 23, loc, 9obj
+"anyatirye"	not supported	1sg, obj, 1sbj, pfv
+"kwaiswe"	assoc, 1pl, 17
+"kuweireku"	not supported	pfv, 17sbj, 17, loc
+"oku"	sbjv
+"nkudu"	aug, 17, loc
+"oyo"	17, loc
+"o"	not supported	1, aug
+"diso"	not supported	1, assoc, 1pl
+"waiswe"	cop, 1sbj
+"ali"	18, loc
+"mu"	14
+"okumukinga"	1obj, aug, fv, inf
+"nekwongera"	nar, 15sbj, fv
+"obbakobera"	not supported	2obj, aug, fv, appl, inf
+"kijigija"	not supported	7
+"nokulya"	inf, aug
+"encaaca"	fv
+"olundi"	not supported	aug
+"omukubbamu"	not supported	1obj, fv, 2sg, sbj, 18, loc
+"omweenge"	not supported	3, aug
+"omulimisya"	not supported	1, prox
+"oyaba"	not supported	2sg, sbj, cop, fv
+"kakulekulemu"	not supported	fv
+"oku"	18, loc, sbjv
+"ayina"	not supported	1, med
+"agantu"	1sbj
+"nani"	not supported	pfv
+"onkobereku"	not supported	fv
+"eibara"	2sg
+"lyamu"	1sg, obj, sbjv, appl, 17, loc
+"kiduuli"	5, assoc, 2sg
+"tebakyabba"	not supported	2sbj, neg, cop, pers, fv
+"kilaasi"	not supported	9
+"tebirina"	not supported	8sbj, neg, fv
+"tuliyo"	not supported	cop, 23, loc, 1pl, sbj
+"basai"	2sbj
+"twatambwireku"	not supported	17, loc, pfv, 1pl, sbj, pst
+"aago"	not supported	6, med
+"wakitegeireku"	not supported	pfv, pst, 2sg, sbj, 7obj, 17, loc
+"bakuteekangamu"	not supported	2sbj, prog, hab, fv, 18, loc
+"agangongerya"	not supported	cop, 16, loc
+"akwetanga"	assoc, 1pl
+"abaana"	prog, 1sbj
+"baamwei"	hab, fv
+"mirambo"	2, aug
+"eyanyumizanga"	not supported	1sbj, hab, fv, pst, rel
+"okuba"	not supported	2sg, sbj, prog, cop
+"afuuka"	not supported	1sbj, fv
+"ekya"	7, gen, aug, 3
+"okukyatula"	6, aug
+"nimalanga"	not supported	6
+"gabyeta"	1sg, sbj
+"boona"	not supported	add, foc, 2
+"balekeeenge"	not supported	2sbj, hab, sbjv
+"kiki"	7, foc
+"likwakalyawo"	not supported	prog, 16, loc, 5sbj, fv
+"okufuuka"	not supported	inf, aug, fv
+"mbe"	16, med, foc
+"oikire"	not supported	2sg, sbj, pfv
+"omujungu"	cop, neg, 7
+"ky'akoba"	not supported	1, aug
+"okutaaku"	not supported	7, rel
+"omukono"	1sbj, fv
+"ogu"	not supported	inf, aug
+"embereenge"	not supported	aug, fv, 8obj, inf
+"mbakugezaku"	not supported	2sbj, fv, 2sg, obj, nar, 17, loc
+"okumwegendereza"	pfv, 1sg, sbj
+"nga"	1obj, aug, fv, inf
+"aaa"	intj
+"obbe"	not supported	2sg, sbj, cop, sbjv
+"ojajja"	not supported	1, aug
+"okulingaasira"	pfv, 1sg, sbj
+"akumanya"	foc
+"n'okkola"	not supported	prog, 1sbj, fv
+"osukaali"	aug, fv, add, foc, inf
+"gyakwaaba"	not supported	2sg, sbj, prog, fv
+"aba"	aug, 2, gen, 9
+"aba"	aug, 2, gen, 8
+"bitiinisya"	8
+"iswena"	2
+"tulina"	add, foc, 1pl
+"emitwe"	1pl, sbj
+"zikooto"	fv
+"nka"	2
+"mwali"	not supported	2
+"kyali"	not supported	cop, 7sbj, pst
+"kibbi"	cop
+"abakaire"	pfv, 2, aug
+"abakkweeta"	not supported	2sbj, prog, fv, 2sg, obj, rel
+"abaku"	not supported	2, aug
+"mucaamu"	nar, 2sbj, fv
+"abakumucaamu"	not supported	2, aug
+"nibairukiriire"	not supported	nar, 2sbj, pfv
+"abataalowo"	not supported	2sbj, neg, cop, 16, loc, pst, rel
+"bataliireku"	not supported	pfv, 2sbj, neg, 17, loc
+"abankunduura"	rel, 2sbj, 1sg, obj
+"abamwei"	not supported	2, aug
+"bali"	2
+"kubbi"	2sbj, cop
+"nibabba"	nar, 2sbj, cop
+"nibyera"	aug, 8
+"bakuzwalanga"	2sbj, prog
+"n'esikaati"	not supported	hab, fv
+"abasumba"	2, 1sbj
+"asayiningire"	not supported	pfv, 1sbj
+"takusobola"	not supported	prog, neg, 1sbj, fv
+"kkubba"	not supported	inf, fv
+"aire"	pfv, 1sbj
+"akabboko"	not supported	12, 1sbj
+"kooyo"	not supported	12
+"kambulungutania"	not supported	12sbj, 1sg, obj, fv
+"akkuuba"	not supported	prog, 1sbj
+"akwaba"	cop, 1sbj
+"aiguru"	prog, 1sbj
+"kabba"	12, med
+"ka"	cop, 12sbj
+"kabboko"	not supported	12
+"ndooyo"	not supported	neg, cop, 23, loc
+"akusange"	prog, 1sbj, sbjv, 2sg, obj
+"akusombanga"	prog, 1sbj, hab, fv
+"akutyodola"	not supported	prog, 1sbj, fv
+"akwiza"	prog, cop, 1sbj, fv
+"okutusobola"	aug, fv, 1pl, obj, inf
+"alowo"	not supported	cop, 16, loc, 1sbj
+"ekyo"	17, loc
+"agandi"	aug, 3
+"negasanyalala"	6
+"geereere"	not supported	6
+"mananu"	cop
+"amawemukirano"	not supported	aug, 6
+"nikyo"	not supported	6
+"gatakuweera"	cop
+"mu"	cop, 7
+"buduuli"	6sbj, fv
+"waiswe"	assoc, 1pl, 16
+"abakulaala"	not supported	18sbj, cop, 18, loc
+"enzala"	2sbj, prog, fv, rel
+"ngeni"	not supported	16, loc
+"zeyatundire"	not supported	10, rel
+"sente"	6sbj, cop
+"osebwato"	not supported	1, aug
+"yamusomeserye"	not supported	caus, pfv, 1sbj, 1obj, pst
+"kyenkukobeire"	not supported	cop
+"ekipaali"	1sg
+"bakikola"	7, rel
+"mu"	7, rel
+"bitoogo"	7, rel
+"nikyo"	not supported	add, foc, 1sg
+"mbaire"	cop, 7
+"nkwaba"	pfv, cop, 1sg, sbj
+"okkubuulya"	not supported	prog, fv, 1sg, sbj
+"ani"	14, aug
+"eyabe"	not supported	9sbj, sbjv
+"atabazire"	rel, neg, 1sbj
+"tiyeizuca"	not supported	pfv
+"ekinseme"	not supported	1sg
+"nkyate"	not supported	cop
+"kuteesa"	pers, fv, 1sg, sbj
+"nankwenderye"	not supported	prog, pfv, 1sg, sbj
+"okubonekaku"	not supported	aug, fv, inf, 17, loc
+"bajungu"	18, loc
+"ndeka"	fut, 1sg, obj, fv, 2sg, sbj
+"nje"	1sg, obj, fv
+"otonsunasuna"	not supported	1sg
+"n'ebigaali"	not supported	2sg, sbj, cop
+"tukujoowanga"	not supported	prog, hab, 1pl, sbj, fv, 9obj
+"atete"	foc
+"nkukobere"	fv
+"abali"	rel, 2sbj, cop
+"okulugayo"	not supported	aug, fv, 23, loc, inf
+"wakobere"	fv
+"nabaza"	2sg, sbj, pfv, pst
+"tukirugeku"	not supported	7, rel
+"aiguru"	2sbj, cop
+"nibakasuka"	2, dist
+"baisuka"	not supported	nar, 2sbj, fv
+"iswe"	2sbj, prog
+"muntu"	1sg, cop
+"wakwebuulibwaku"	not supported	1
+"niyamaare"	not supported	nar, pfv, 1sbj
+"okkabumbabumba"	not supported	1sg
+"noira"	not supported	nar, 2sg, sbj, fv
+"ebyabufuzi"	pfv, 1sg, sbj
+"nga"	aug, 9
+"ennyanja"	not supported	8, aug
+"omukoora"	1obj, 2sg, sbj, appl, fv
+"ati"	foc
+"loleeramu"	not supported	18, loc, fv
+"gye"	not supported	23, rel
+"bigogo"	18, loc
+"n'eisana"	5, aug, add, foc
+"likunnyaatisya"	not supported	prog, caus, 5sbj, 1sg, obj, fv
+"akabboko"	not supported	16, med
+"kabba"	aug, 12
+"kakkudakuda"	not supported	12sbj, cop
+"buli"	prog, 12sbj, fv
+"okkoba"	not supported	fv
+"ebya"	inf, aug, fv
+"bbaibbuli"	aug, 9, 8, gen
+"awali"	not supported	rel, cop, 16sbj
+"bagalumaambe"	not supported	2sbj, 6obj, foc, fv
+"baikaire"	pfv, 2sbj, fv
+"eza"	10, gen, 12, aug
+"nkubuulye"	fv
+"emisaale"	sbjv, 2sg, obj, 1sg, sbj
+"nijooma"	not supported	4, aug
+"bakeeta"	2sbj, 7obj, fv
+"katina"	not supported	12
+"nkoko"	1, 12, gen
+"ebizu"	not supported	8
+"ya"	9, gen, 4
+"paka"	17, loc
+"ku"	9, gen, 4
+"baikirize"	2sg, sbj, fv
+"nti"	2sbj, fv
+"oni"	aug, 1
+"aliyo"	not supported	1, prox
+"balinaku"	not supported	2sbj, fv, 17, loc
+"ebindi"	not supported	aug, 8
+"byebekoorakoora"	not supported	8, rel
+"eyo"	2sbj, fv
+"bandikulindirelindireku"	not supported	pfv, 2sbj, 17, loc
+"bakusodokera"	pfv, 2sbj, prog, fv
+"nibabba"	2, prox
+"eni"	nar, 2sbj, cop
+"kanai"	fv
+"bawuureenge"	not supported	2sbj
+"omu"	hab, sbjv
+"buduuli"	aug, 18, loc
+"nti"	14
+"amembe"	cop, 23, loc, 16sbj
+"kusai"	hab, fv
+"kaisi"	fv, 1sg, sbj
+"ntiina"	aug, fv, 7obj, inf
+"okukyatula"	hab, fv, 1sg, sbj, 8obj, nar
+"nimbyetanga"	not supported	8, aug
+"bbanga"	not supported	2, hab, cop, fv
+"bbanga"	not supported	2sbj, cop, fv, hab
+"bataa"	2sbj, cop
+"birekere"	foc, 8obj, appl, pfv
+"mbe"	8, dist
+"naye"	14, med
+"kuni"	14, med
+"bikeeyikeeyi"	not supported	8
+"obwenzi"	appl, pfv
+"likkugongerya"	not supported	prog, caus, 5sbj, fv, 2sg, obj
+"abakkoba"	not supported	2sbj, prog, fv, rel
+"taliyo"	not supported	cop, 23, loc, neg, 1sbj
+"biyinza"	not supported	8sbj
+"nibalondayombe"	not supported	add, foc, 2
+"budi"	nar, 2sbj
+"ebyo"	hab, 1pl, sbj, fv, pst
+"ebiduuma"	8, med
+"nyizukira"	not supported	fv, 1sg, sbj
+"busumukiriire"	not supported	14sbj
+"bwali"	not supported	cop, 14sbj, pst
+"bukeeyikeeyi"	not supported	14
+"byayi"	not supported	8sbj
+"mutyai"	not supported	2pl
+"byemaro"	not supported	aug, 1
+"nololeera"	2sg, sbj, prog, fv
+"bikusinziira"	not supported	nar, 2sg, sbj, fv
+"nibirwanisyanga"	not supported	8sbj, caus, hab, fv, nar
+"ebyo"	aug, 8
+"byoona"	not supported	8
+"doctor"	not supported	1
+"bindobeire"	9
+"bya"	aug, 8
+"bufuzi"	not supported	8
+"ani"	8, med
+"bibulungutania"	not supported	aug, 18, loc
+"nibakukwatisyanga"	not supported	nar, 2sbj, 2sg, obj
+"oti"	not supported	caus, hab, fv
+"bikeire"	8
+"nibireetere"	not supported	8sbj, nar, appl, pfv
+"n'okutema"	aug, fv, add, foc, inf
+"kikkuleetera"	not supported	prog, 8sbj, fv, appl, 2sg, obj
+"twandibirekere"	not supported	pfv, 1pl, sbj, pst, 8obj
+"biriwo"	not supported	8sbj, cop, 16, loc
+"kyali"	not supported	1sg
+"ebiro"	intj
+"bikeire"	8, aug
+"dala"	5
+"ba"	2, gen, 14
+"buduuli"	2sbj, hab, fv
+"bazwalanga"	10, aug
+"eengoye"	not supported	10, prox
+"zini"	10, aug
+"ekikuleeta"	not supported	rel, prog, 7sbj
+"obworo"	fv
+"ekinsemeerya"	not supported	1sg, obj, 7sbj, fv, rel
+"ga"	7, 6, gen
+"kiduuli"	2sg, sbj, 7obj, pfv
+"ekitalugawo"	not supported	rel, neg, 7sbj
+"ekiriibwa"	not supported	pass, 7sbj, fv, rel
+"kimwei"	7
+"anduulu"	not supported	10, aug
+"bakigotegotere"	not supported	pfv, 2sbj, 7obj
+"yabyaire"	not supported	neg, hab, 1pl, sbj, fv, pst
+"ekisaale"	7, med
+"tinaalumu"	not supported	aug, 7
+"okugutunda"	3obj, aug, fv, inf
+"emijiji"	not supported	aug, 4
+"ego"	not supported	4, med
+"bazigaine"	2sbj, 4obj, pfv
+"emidoodo"	not supported	aug, 4
+"zikuzwa"	4sbj, prog, fv
+"empiiya"	not supported	aug, 10
+"zoona"	not supported	add, foc, 10
+"za"	10, gen, 3
+"nzimaite"	10
+"wajisaanga"	not supported	9
+"ayi"	fut, fv, 2sg, sbj, 9obj
+"netabbaawo"	not supported	9sbj, nar, cop, neg
+"yoona"	not supported	9
+"bagimanyira"	9, add, foc
+"emyaka"	2sbj, fv, appl, 9obj
+"ennyingirya"	not supported	9, aug
+"gingi"	not supported	9
+"enzai"	not supported	9, aug
+"bakyali"	not supported	2sbj, cop, pers
+"kugiwuura"	inf, 9obj, fv
+"mukaire"	9sbj, neg, fv
+"waliireku"	not supported	2sg, sbj, prog, fv
+"ewaamwei"	not supported	1, aug, 1, assoc
+"terikwakayo"	not supported	prog, neg, 5sbj, fv, 23, loc
+"teziriyo"	not supported	4sbj, cop, 23, loc, neg
+"eyamaliirya"	not supported	fut, 1sbj, fv, rel
+"omulumu"	not supported	3, aug
+"niziwaayo"	not supported	10sbj, fv, 23, loc, nar
+"galiyo"	not supported	6sbj, cop, 23, loc
+"ndowooza"	5, aug
+"kikola"	fv, 1sg, sbj
+"nga"	7sbj, fv
+"kuluku"	not supported	cop, 17sbj, 17, loc
+"tokanya"	not supported	2sg, sbj, neg, fv
+"ti"	4
+"kifuka"	intj
+"natatoonya"	not supported	neg, 1sbj, fv, nar
+"ewaiswembe"	not supported	foc, aug, assoc, 1pl, 16
+"twabbanga"	cop, hab, 1pl, sbj, fv, pst
+"twalinyumya"	add, foc, 1pl
+"omu"	fut, 1pl, sbj, fv
+"bukaire"	aug, 18, loc
+"bairaba"	1
+"kakyakudakuda"	not supported	12sbj, pers, fv
+"mpangire"	1
+"kikederye"	not supported	7
+"kibbaamu"	not supported	cop, 18, loc, 7sbj
+"jeba"	not supported	fv
+"twakyetanga"	foc, 7, prox
+"tutyai"	not supported	hab, 1pl, sbj, fv, pst, 7obj
+"kirumu"	not supported	cop, 7sbj
+"erangi"	cop, 18, loc
+"njawulo"	10, gen, 9, aug
+"kititiira"	not supported	7sbj, fv
+"koba"	not supported	fv
+"n'okubaalikanga"	not supported	sbjv
+"amabara"	2obj, aug, hab, fv, inf
+"tuyinduke"	not supported	sbjv, 1pl, sbj
+"tulye"	not supported	sbjv, 1pl, sbj
+"ni"	prog, 1sbj, fv
+"eyo"	fut, fv, 1sg, sbj
+"byabbangamu"	not supported	8sbj, cop, hab, fv, pst, 18, loc
+"birumu"	not supported	8sbj, cop, 18, loc
+"okwaba"	2sg, sbj, prog, cop, fv
+"kyanyumanga"	7
+"eengeri"	not supported	hab, fv, pst
+"gyekyetwogetwogere"	not supported	aug, 9
+"natatoonye"	not supported	neg, 1sbj, sbjv, nar
+"bitabi"	not supported	6
+"kwona"	add, foc, 7
+"nkumaite"	prog, pfv, 1sg, sbj
+"bisai"	fv
+"ky'okutwala"	not supported	7, rel
+"ne"	not supported	2sg, sbj, prog, fv
+"kya"	7, gen, 6
+"magalama"	6
+"kyokobere"	not supported	2sg, sbj, pfv, 7, rel
+"kyokukoba"	not supported	7, rel
+"oni"	7, rel
+"bimulemere"	2sg, sbj, prog
+"okisaati"	not supported	1sg
+"gamujunire"	1
+"ki"	1obj, 6sbj, pfv
+"tamulya"	not supported	1, prox
+"naye"	neg, 1sbj, 1obj, fv
+"nga"	cop, 16sbj
+"abadduuli"	not supported	cop
+"tulongoosa"	cop, 1pl, sbj, fv
+"tinaalumu"	not supported	7
+"mulabule"	1obj, sbjv
+"muswaama"	not supported	1
+"n'abba"	nar, cop, 1sbj
+"musaiza"	cop
+"nakoba"	1
+"nti"	nar, 1sbj, fv
+"n'ekiwaiyenze"	not supported	7, aug, add, foc
+"n'empuluca"	not supported	9, aug, add, foc
+"n'ennyuma"	not supported	9, aug, add, foc
+"wange"	9
+"waliyo"	not supported	1, assoc, 1sg
+"mwala"	cop, 23, loc, 16sbj
+"ololereire"	2sg, sbj, cop
+"obujuungu"	not supported	2sg, sbj, sbjv, appl
+"n'obudduuli"	not supported	14, aug
+"omuyembe"	2sg, sbj, fv
+"gudi"	aug, 3
+"n'okkwalika"	not supported	aug, fv, 2sg, obj, add, foc, inf
+"mmambyammambya"	not supported	aug, 17, loc
+"ensi"	2sg, sbj, sbjv, neg
+"ekkuleka"	not supported	9, aug
+"naabba"	fut, cop, 1sg, sbj
+"ninkyali"	not supported	nar, cop, pers, 1sg, sbj
+"naali"	not supported	nar, cop, 1sbj, pst
+"nzai"	9
+"wa"	16, loc
+"nabiteire"	not supported	pfv, 1sbj, 8obj, nar
+"n'omukubi"	not supported	nar, 1sbj, fv
+"niyesiba"	not supported	1sbj, nar, refl, fv
+"tinaliireku"	not supported	pfv, neg, pst, 1sg, sbj, 17, loc
+"lekera"	not supported	appl, fv
+"nakulugayo"	not supported	prog, 1sbj, fv, 23, loc, nar
+"nozigabana"	fv, 2sg, sbj, nar, 4obj
+"natuubatuubana"	not supported	nar, 1sbj
+"nawuliireku"	not supported	pfv, pst, 1sg, sbj, 17, loc
+"ekiki"	not supported	7, aug
+"giti"	not supported	aug, 9
+"obakubba"	2sg, sbj, 2sbj, fv
+"kwa"	9, 15, gen
+"tukigwireku"	not supported	pfv, 1pl, sbj, 7obj, 17, loc
+"wagwirewo"	not supported	16
+"obunyaata"	16, loc, pfv
+"miyembe"	not supported	4
+"twairukire"	pfv, 1pl, sbj, 1sbj
+"twamaare"	pfv, 1pl, sbj, 1sbj
+"aka"	8, aug, 12, gen
+"bingi"	not supported	nar, fv, 1sg, sbj
+"nemanya"	12, prox
+"kani"	9
+"kambendeere"	sbjv, 1sg, sbj
+"kyakaleeta"	7, prox
+"omweryana"	fut, 7sbj, fv
+"n'oisibyala"	not supported	1, aug
+"nje"	fv
+"nga"	sbjv, 2sg, obj, 1sg, sbj
+"kwaba"	cop, 1pl, sbj, pers
+"alai"	not supported	inf, fv
+"tweyongereyo"	not supported	foc, sbjv
+"ennyama"	not supported	1
+"eyo"	1
+"ojjirya"	not supported	aug, 9
+"eyabire"	1
+"naabire"	pfv, cop, pst, 1sg, sbj
+"okukiloleera"	aug, fv, 7obj, inf
+"nakuurekuuremu"	not supported	pfv, pfv, 18, loc, pst, 1sg, sbj
+"nkubonamu"	not supported	prog, fv, 1sg, sbj, 18, loc
+"ndina"	1sg, cop
+"okumwalika"	fv, 1sg, sbj
+"tuli"	fut, 1sbj, hab, fv
+"ampi"	cop, 1pl, sbj
+"obwa"	prog, 1sg, sbj
+"mmambya"	not supported	pfv
+"nankabbeereeranga"	not supported	9, aug, 14, gen
+"olinaku"	not supported	2sg, sbj, fv, 17, loc
+"jewakabiriire"	not supported	pfv, pst, 2sg, sbj
+"okyabulaamu"	not supported	pers, fv, 2sg, sbj, 18, loc
+"yankobere"	not supported	pfv, 1sbj, 1sg, obj, pst
+"yerumira"	not supported	1sbj, refl, fv, appl
+"omubiro"	not supported	2sg, sbj, neg, pfv
+"bidi"	pfv
+"gyokwikira"	not supported	prog, fv, appl, 2sg, sbj, 23, rel
+"omuyembe"	2sg, sbj, 1sg, obj, appl, pfv, pst
+"silivia"	not supported	1
+"nkukobere"	1
+"tukwaba"	prog, fv, 1sg, sbj, 18, loc
+"ani"	23, rel, aug
+"omu"	23, rel
+"buduuli"	prog, 1pl, sbj, fv
+"okwa"	pers, 1sbj, fv
+"ekigambo"	7, foc, aug
+"mbe"	pers, 1sbj, add, foc
+"ndiyo"	not supported	cop, 23, loc, 1sg, sbj
+"ndoomu"	not supported	neg, cop
+"kukyusamu"	not supported	18, loc, inf, fv
+"nitulanganga"	not supported	hab, 1pl, sbj, fv, nar
+"ky'erekayo"	not supported	7, rel
+"ndooyo"	not supported	neg, cop
+"n'okamuloleera"	not supported	fv
+"nebwewaabba"	not supported	cop, pst, 14, rel, 2sg, sbj, add, foc
+"bakubbwaku"	not supported	2sbj, prog, fv, 17, loc
+"we"	cop
+"alinawo"	not supported	cop, 2sg
+"nkukwiryayo"	not supported	prog, caus, foc, fv, 2sg, obj, 1sg, sbj, 23, loc
+"nga"	3, dist
+"kukyatandikiriirya"	not supported	aug, 15
+"tamwi"	not supported	2sg, sbj
+"tomwiraku"	not supported	fv
+"kusai"	prog, neg, 1sbj, fv
+"tukyali"	not supported	cop, 1pl, sbj, pers
+"niiwe"	not supported	17, loc
+"nkuru"	1, gen, 9
+"waabba"	2sg, sbj, cop, pst
+"tokopa"	not supported	2sg, sbj, neg, fv
+"okyaswaga"	foc
+"okwebuulyaku"	not supported	2sg, add, foc
+"ya"	9, gen, 3
+"ni"	nar, 1sg, sbj
+"owa"	1, gen, aug, 8
+"bigambo"	aug, 8
+"nkulolalolamu"	not supported	prog, fv, 1sg, sbj, 18, loc
+"nkusubiriire"	2sg, obj, appl, pfv, 1sg, sbj
+"nyaba"	not supported	fv, 1sg, sbj
+"okuseengeiza"	not supported	inf, aug, fv
+"bya"	8, gen, 1
+"tukwirayo"	not supported	prog, 1pl, sbj, fv, 23, loc
+"abairaguzu"	not supported	aug, 2
+"okkulaakulana"	not supported	inf, aug
+"obwanuura"	rel, 14sbj, fv
+"omuno"	aug
+"bubbasirye"	7
+"niimanya"	not supported	nar, fv, 1sg, sbj
+"nijooma"	not supported	4sbj, nar
+"kukwokya"	inf, fv, 2sg, obj
+"ekisiisa"	rel, 7sbj, fv
+"n'omwana"	not supported	aug, 1, add, foc
+"gwebaalika"	not supported	1, rel
+"bizibu"	2sbj, fv
+"ninamaare"	not supported	nar, pfv, pst, 1sg, sbj
+"ebikujundirayo"	not supported	prog, 8sbj, fv, appl, 23, loc, rel
+"naye"	fv
+"abbeeenge"	not supported	cop, hab, sbjv, 1sbj
+"nimpuumula"	not supported	nar, fv, 1sg, sbj
+"mirembe"	cop
+"nsekanabo"	not supported	cop, 1
+"yajunanga"	not supported	fut, 1sbj, hab, fv
+"okubumbiirabumbiira"	not supported	inf, aug, fv
+"yakwalikire"	not supported	pfv, 1sbj, 2sg, obj, pst
+"niyerumira"	not supported	1sbj, refl, fv, appl, nar
+"okatwogere"	1sg
+"nayendyanga"	not supported	1, aug
+"abbaire"	1sg
+"nekijigija"	not supported	cop, 1sbj
+"kyange"	pfv, cop
+"na"	7
+"mwaka"	7, assoc, 1sg
+"atibuni"	1sg
+"bbaibbuli"	8sbj, pfv, 1sg, obj
+"bbaibbuli"	8, prox
+"bini"	8sbj, 1sg, obj, appl, pfv
+"bindobeire"	aug, 8
+"ebiintu"	not supported	8
+"nkukukobera"	prog, foc, fv, appl, 2sg, obj, 1sg, sbj
+"nka"	1sg
+"nje"	1, aug
+"nkumanya"	cop, 1sg, sbj
+"ka"	9, 12, gen
+"naali"	not supported	1sg
+"ayi"	cop, pst, 1sg, sbj
+"ninkukoba"	pst, cop, 1sg, sbj
+"nkuru"	nar, prog, 1sg, sbj
+"bindobeire"	pfv, 1
+"okumweeta"	not supported	1obj, aug, fv, inf
+"oize"	not supported	1, aug
+"ky"	not supported	prog, 1sg, sbj
+"akusobokere"	fv
+"okisaati"	not supported	7, aug
+"tenduga"	not supported	1sg
+"ku"	neg, fv, 1sg, sbj
+"pala"	17, loc
+"tenduga"	not supported	neg, 1sg, sbj
+"nyikaare"	not supported	sbjv, 1sg, sbj
+"nazwiremu"	not supported	18, loc, pfv, pst, 1sg, sbj
+"wa"	1sg
+"baamumpaire"	not supported	pfv, 2sbj, 1obj, foc, 1sg, obj, pst
+"tinankaibbire"	not supported	pfv, neg, pst, 1sg, sbj
+"njete"	not supported	1sg
+"edi"	foc, 1sg
+"kye"	not supported	2sg, sbj, pfv
+"maite"	not supported	pfv
+"tinaki"	not supported	foc, 1sg
+"nkumanyisyemu"	not supported	2sg, obj, 1sg, sbj
+"nga"	caus, sbjv, 18, loc
+"bbaibbuli"	1pl, sbj, pfv
+"kwikala"	prog, fv
+"mbendereire"	not supported	1sg, sbj
+"nkwongere"	add, pfv, 2sg, obj, 1sg, sbj
+"nkyabulaku"	not supported	pers, fv, 1sg, sbj, 17, loc
+"nkyakubaara"	not supported	2sg, obj, appl, pers, 1sg, sbj
+"nogeraageranyaa"	not supported	nar, 2sg, sbj, fv
+"noikendi"	not supported	1, aug, add, foc
+"mbe"	1, foc
+"yeena"	1, prox
+"nje"	1, prox
+"nkulowooza"	1
+"yakolanga"	not supported	add, 1
+"kya"	1sg
+"maani"	1sg
+"okwita"	prog, fv, 1sg, sbj
+"ebindi"	not supported	1sbj, hab, fv, pst
+"nokigwaaku"	not supported	fv, 2sg, sbj, 7obj, nar, 17, loc
+"nokkwalika"	not supported	aug, fv, 2sg, obj, add, foc, inf
+"ekindi"	not supported	fv
+"nomugeraageranyiza"	not supported	1obj, fv, appl, 2sg, sbj, nar
+"otyai"	not supported	fv
+"gugwarairye"	appl, pfv, 3sbj
+"noyokya"	not supported	nar, 2sg, sbj, fv
+"imekai"	not supported	1
+"rya"	5, gen, 7
+"kiduuli"	5, med
+"magalama"	inf, aug
+"n'ekigwo"	not supported	fv
+"nyabire"	not supported	pfv, pst, 1sg, sbj
+"okukizuula"	aug, fv, 7obj, inf
+"gyebukwiza"	not supported	23, rel
+"yaabba"	not supported	prog, cop, 14sbj, fv
+"wa"	fut, cop, 1sbj
+"nyabire"	not supported	pfv, 1sg, sbj
+"okumwegendereza"	1obj, inf, aug
+"buganda"	pfv, cop, 1sbj, pst
+"nyabugambo"	not supported	1
+"nyabwita"	1
+"tikyakusaagiraku"	not supported	prog, neg, 7sbj, fv, appl, 17, loc
+"nyira"	not supported	fv, 1sg, sbj
+"o'kokota"	not supported	9, aug
+"nabba"	nar, cop, 1sbj
+"timubbanga"	neg, cop, hab, fv, 2pl, sbj
+"katonda"	2, aug
+"nomwemuura"	not supported	1obj, fv, 2sg, sbj, appl, nar
+"omirembe"	not supported	1, aug
+"omagga"	not supported	1, aug
+"omulimisya"	not supported	1
+"ku"	prog, 1sbj
+"mu"	pfv, 1sbj, 17, loc
+"bbaala"	18, loc
+"baluliisya"	2sbj, 1obj, caus, fv
+"ba"	2, prox
+"abaigali"	6, 2, gen
+"bayendyanga"	not supported	2sbj, hab, fv, pst
+"kubeeta"	inf, fv, 2obj
+"n'ani"	not supported	foc, add, foc
+"ani"	aug, 18, loc
+"abo"	cop
+"bebaci"	not supported	2, cop
+"be"	not supported	2, med
+"bakuliisyanga"	2, med
+"omwei"	not supported	aug
+"byegaraazo"	not supported	1
+"mananu"	pfv
+"okutegeera"	pfv
+"oirukiire"	not supported	2sg, sbj, pfv
+"ebigwo"	pfv
+"ebibiri"	not supported	8, med
+"mwojo"	pfv
+"obukuuru"	not supported	2sg, sbj, 14
+"obundi"	not supported	2, aug
+"bu"	not supported	14
+"obundi"	not supported	aug
+"mpeesu"	not supported	2sbj, pfv, 17, loc
+"zonkai"	not supported	10
+"obwana"	2, aug
+"kabboko"	not supported	14sbj, fv
+"bukola"	foc, 14
+"butyai"	not supported	intj
+"te"	intj
+"tebukuure"	not supported	neg, 14sbj, pfv
+"obuduuma"	aug, 14
+"obubbaire"	14
+"obukulugalugamu"	not supported	rel, pfv, cop, 14sbj
+"obwo"	prog, fv, 18, loc, rel, 14sbj
+"omu"	rel, cop, 14sbj
+"butasimba"	cop
+"kyoona"	not supported	18, loc
+"bwa"	14, gen, 6
+"bwayakaliriirye"	not supported	14sbj, pfv, pst
+"againe"	1, dist
+"omuyembe"	pfv, 1sbj
+"gwamwei"	pfv
+"yaabireyo"	not supported	1, dist
+"n'enkaaga"	not supported	pfv, 1sbj, pst, 23, loc
+"ogulya"	rel, 3sbj, fv
+"gubba"	3
+"gwa"	cop, 3sbj
+"maani"	6, 3, gen
+"ogwokweta"	not supported	aug, 3, rel
+"n'akyali"	not supported	2sg, sbj, prog, fv
+"mpaki"	pers, cop, 1sbj
+"yatoonyanga"	not supported	1sbj, hab, fv, pst
+"enjura"	not supported	aug, 9
+"neyakalamu"	not supported	fv, pst, 18, loc, 9sbj, nar
+"ne"	not supported	aug, 9
+"oiranga"	not supported	2sg, sbj
+"neweizuca"	not supported	fv, hab
+"tiyamukobere"	not supported	pfv, neg, 1sbj, 1obj, pst
+"yakubyalanga"	not supported	1sbj, hab, fv, 2sg, obj, pst
+"yabbangani"	not supported	fut, 1sbj, cop, hab, fv
+"a"	1sbj, fv, rel, nar
+"okaloleire"	sbjv, appl, 2sg, sbj, 12obj
+"mbeera"	16, loc, 9, fv
+"wanywe"	1
+"oni"	1, assoc, 2sg
+"okkwalika"	not supported	aug, fv, 2sg, obj, inf
+"okobere"	2sg, sbj, sbjv, pfv
+"n'ebitiko"	not supported	8, aug, add, foc
+"bya"	2sbj, 8, gen
+"bajungu"	8, prox
+"lukalu"	17, loc
+"ndooyo"	not supported	17, loc
+"mere"	11
+"twazimaareyo"	not supported	pfv, 1pl, sbj, pst, 23, loc, 4obj
+"onkudu"	sbjv
+"e"	pfv, pst, 2sg, sbj, 17, loc
+"okujinena"	not supported	inf, aug, fv
+"ka"	11, 12, gen
+"lukobwe"	not supported	11
+"kkola"	not supported	cop, 15
+"ki"	inf, fv
+"akwenkana"	not supported	intj
+"niwe"	not supported	1, dist
+"jikulu"	not supported	9
+"tekumanya"	not supported	inf, neg, fv
+"erimwei"	not supported	aug, 5
+"okwemanyisiirya"	not supported	15
+"ndebeida"	cop
+"lwaki"	foc, 11
+"oluusi"	not supported	aug
+"okumweta"	fv, 1sg, sbj
+"ose"	not supported	1obj, aug, fv, inf
+"toleetere"	not supported	11, med
+"nzugu"	2sg, sbj, neg, pfv
+"ekokota"	pfv
+"ky'ekola"	not supported	9, aug
+"gyetwasomeire"	not supported	pfv
+"ni"	23, rel
+"tukyali"	not supported	appl, pfv, 1pl, sbj, pst
+"baajeetere"	not supported	pfv, 2sbj, pst, 9obj
+"okokota"	9, aug
+"buwereza"	not supported	12
+"bweyalondere"	not supported	pfv, 1sbj, pst, 12, rel
+"agereesa"	not supported	1sbj, fv
+"okulya"	inf, aug
+"ombiri"	fv
+"ndya"	1, aug
+"ompyo"	fv, 1sg, sbj
+"yalumanga"	not supported	1sbj, hab, fv, pst
+"opamba"	not supported	9, aug
+"bwakoba"	fv, 1sbj, 14, rel
+"kaamwei"	aug, 12
+"akubalabandira"	12, 1, assoc
+"naikaaranga"	1sbj, hab, fv, nar
+"nkukobereku"	not supported	1, dist
+"yakoore"	not supported	pfv, 1sbj, pst
+"buli"	11
+"apaikulambe"	not supported	foc, 1sbj, fv
+"eyanyenteire"	not supported	pfv, 1sbj, pst, rel
+"okulya"	sbjv, appl
+"kini"	inf, aug, fv
+"gutwala"	3obj, fv
+"oguli"	rel, cop, 3sbj
+"otendo"	not supported	1, aug
+"emyaka"	1sbj, appl, pfv
+"abiri"	aug, 4
+"ebisa"	2sbj, fv
+"byeere"	1, aug
+"natamala"	not supported	1sbj, fv, nar
+"bwala"	fut, cop, hab, fv, 14sbj
+"bwabbanga"	14
+"buguuda"	prog, fv, rel, 14sbj
+"obukwingira"	not supported	aug, 18, loc
+"kyabakoore"	1
+""	not supported	cop, 16, loc, 16sbj
+"waliwo"	1, prox
+"oni"	prog, 1sbj, fv
+"akkumakkuma"	not supported	aug, 2
+"abairabaamwei"	not supported	2
+"onyizukiirye"	not supported	2sg, sbj, 1sg, obj, pfv
+"gye"	not supported	pfv
+"twasomeire"	23, rel
+"otaaku"	not supported	17, loc, 2sg, sbj, fv
+"otomugadya"	not supported	1obj, fv, 2sg, sbj, neg
+"n'owa"	1, gen, aug, 3
+"kabboko"	not supported	1, prox
+"lwaki"	2sbj, prog, neg, fv, recp
+"owa"	1, gen, 11, aug
+"lubyalo"	foc, aug, 11
+"owa"	1, gen, aug, 3
+"obutalookera"	not supported	aug, 14
+"owampaka"	not supported	aug, 1
+"asiima"	1
+"kikokoto"	1
+"bikutosobereera"	not supported	prog, 8sbj, appl, fv, 1pl, obj
+"oyakalaku"	not supported	2sg, sbj, pass
+"oyalikire"	not supported	2sg, sbj, pfv
+"okuswagiirya"	not supported	aug, fv, appl, inf
+"amakuru"	6, 1sbj
+"wazibala"	fv, pst, 2sg, sbj, 4obj
+"niye"	not supported	1, med
+"omuliisya"	cop
+"ti"	1, med
+"mpwise"	1, med
+"ati"	neg
+"yabbanga"	not supported	1, med
+"nte"	fut, 1sbj, cop, hab, fv
+"kyanda"	1, gen, 7
+"kabboko"	not supported	12, med
+"leke"	not supported	fv
+"edi"	sbjv
+"omu"	2sg, obj, 1sg, sbj
+"byabazeiza"	not supported	sbjv, caus, 23, loc
+"takurunguura"	not supported	prog, neg, 1sbj, fv
+"takusaagiramu"	not supported	prog, neg, 1sbj
+"takyabisoboora"	not supported	neg, 1sbj, pers, 8obj
+"tarrimanya"	not supported	neg, 1sbj, fv, 5obj
+"kyeritegeeza"	not supported	7, rel
+"tatwalayo"	not supported	neg, 1sbj
+"bbe"	23, loc, fv
+"kiduuli"	aug, 9
+"tekisiisa"	not supported	neg, 7sbj, fv
+"tenijo"	not supported	cop, neg, 4
+"ejo"	not supported	4, med
+"gye"	not supported	4, rel
+"kabusai"	not supported	14sbj
+"nnyindo"	not supported	neg
+"mpiti"	9
+"ye"	9, gen, 1
+"tibwaali"	not supported	cop, neg, 14sbj, pst
+"tigwamu"	not supported	assoc, 2sg, neg, 3
+"weena"	assoc, 2sg
+"tiimaite"	not supported	pfv, neg, 1sg, sbj
+"tinankagadirye"	not supported	pfv, neg, 1sbj, 1sg, sbj
+"tinankanyagire"	not supported	pfv, neg, pst, 1sg, sbj
+"tinibo"	not supported	2, cop, neg
+"bakwetanga"	2sbj, prog, hab, fv
+"aba"	2, gen, 1sbj, 1
+"tinigwo"	not supported	cop, neg
+"ogwebayetanga"	not supported	cop, 3
+"ogwa"	aug, 1, rel
+"ac"	not supported	1, rel
+"tiniye"	not supported	cop, neg, 1
+"titwakwikire"	pfv, prog, neg, 1sbj, 1pl, sbj
+"okwekyo"	not supported	aug, 17, loc
+"tiwaikika"	not supported	fut, 2sg, sbj, neg
+"tiyamanyanga"	not supported	neg, 1sbj, hab, fv, pst
+"tokitakate"	not supported	neg, foc, fv, 2sg, sbj, 7obj
+"tokumanya"	not supported	prog, neg, fv, 2sg, sbj
+"no'kyoga"	not supported	1, aug, add, foc
+"gwetwesiga"	not supported	1, rel
+"yeena"	1pl, sbj, fv
+"baamukingire"	add, 1
+"tomaite"	not supported	2sg, sbj, neg, pfv
+"tubbaireengeku"	not supported	cop, 1pl, sbj
+"ani"	17, loc, pfv, cop
+"naye"	prog, 1pl, sbj, fv, 17, loc
+"mbe"	foc, cop, 1pl, sbj
+"tukunyumyanyumya"	not supported	prog, 1pl, sbj, fv
+"tubuloreenge"	not supported	hab, 1pl, sbj, sbjv, 14sbj
+"nkunga"	9
+"tugeete"	4obj, 1pl, sbj, sbjv
+"makuuba"	not supported	1
+"kiki"	1
+"kubba"	2sg, sbj, prog, fv
+"bbulooka"	fv
+"kwirayo"	not supported	inf, fv, 23, loc
+"okwawulangaku"	not supported	aug, fv, hab, inf, 17, loc
+"tuwuliiryeenge"	not supported	1pl, sbj
+"twabbaawo"	not supported	fut, cop, 16, loc, 1pl, sbj, fv
+"kulola"	prog, fv, 1sg, sbj
+"twairangayo"	not supported	fut, hab, 1pl, sbj, fv, 23, loc
+"za"	4, gen
+"twayakairemu"	not supported	pass, pfv, 1pl, sbj, 18, loc, pst
+"n'omukwemba"	not supported	aug, 18, loc, add, foc
+"twayawukaniranga"	not supported	fut, hab, 1pl, sbj, fv, appl
+"buyaaka"	sbjv
+"wabba"	2sg, sbj, cop, pst
+"omwekubbiire"	not supported	1obj, 2sg, sbj, appl, pfv
+"tendo"	not supported	1, med
+"onsekanabo"	not supported	1, med
+"yaalina"	not supported	1sbj, fv, pst, rel
+"ezibeeta"	not supported	fv, 4sbj, 8obj, rel
+"kyebakoba"	not supported	7, rel
+"okuwiisa"	2sbj, fv
+"osodokerambe"	not supported	2sg, sbj, foc, fv
+"nosoma"	2sg, sbj, cop, fv
+"nibwe"	not supported	nar, 2sg, sbj, fv
+"tiwayabangayo"	not supported	fut, 2sg, sbj, neg
+"tokumanya"	not supported	2sg
+"omujiji"	not supported	prog, neg, fv, 2sg, sbj
+"ogwo"	aug, 3
+"nigwayakalawo"	not supported	3, med
+"yakuliire"	not supported	1sbj, appl, pfv, pst
+"totiinire"	not supported	2sg, add, foc
+"nsoni"	7, rel
+"yaira"	not supported	fut, 1sbj, fv
+"n'olwamukaaga"	not supported	aug, 11, add, foc
+"twabba"	fut, cop, 1pl, sbj
+"yalumaliirya"	not supported	fut, 1sbj, fv, 11obj
+"yamaite"	not supported	pfv, 1sbj, pst
+"okutulabiriira"	not supported	aug, fv, appl, 1pl, obj, inf
+"omaite"	aug, 6
+"oga"	not supported	6
+"kyalya"	aug, 1
+"kiri"	7, rel
+"ayi"	1sbj, fv
+"ni"	2sg, sbj, prog, fv
+"wamuboineku"	not supported	1obj, pst, 2sg, sbj, pfv, 17, loc
+"yoona"	not supported	9, add, foc
+"budi"	7, aug
+"mangu"	hab, 7sbj, fv, pst
+"kigambo"	cop
+"kya"	7, assoc, 1pl
+"ruduuli"	not supported	7, rel
+"ze"	not supported	9, rel
+"za"	10, dist
+"isana"	5, 4, gen
+"ziriyo"	not supported	10sbj, cop, 23, loc
+"zikyalowo"	not supported	10sbj, cop, 16, loc, pers
+"zonka"	not supported	10
+"zikuvuga"	10sbj, fv, 12obj
+"mmotoka"	not supported	9
+"okwo"	14, med
+"ba"	14, med
+"ebigambo"	8sbj, cop, pers
+"biki"	not supported	cop
+"bikyalongooka"	not supported	cop, 23, loc
+"eyaizire"	not supported	rel, pfv, 1sbj
+"yayegeserye"	not supported	1sbj, pfv, pst
+"okuzirabiira"	aug, fv, 10obj, inf
+"nazidaabiriza"	not supported	nar, 1sbj, 10obj
+"yaabba"	not supported	fut, cop, 1sbj
+"oirukire"	not supported	2sg, sbj, pfv
+"owa"	1, gen, aug, 4
+"mikono"	4, aug
+"baatuwaaku"	not supported	fut, 2sbj, fv, 17, loc
+"bereere"	not supported	2
+"abandi"	2, 1sbj
+"ba"	2, gen, 9
+"ba"	9, 2, gen
+"rwampanga"	9, dist
+"edi"	pfv, 2sbj, cop
+"babbaire"	2sbj, prog, hab, fv
+"bakwesiganga"	aug, 9
+"akwizanga"	prog, 1sbj, hab, fv
+"bakuura"	2sbj, prog, fv
+"tegakyaliyo"	not supported	6sbj, neg, cop, pers, 23, loc
+"emyaka"	3sbj
+"n'emyaka"	not supported	fv
+"nibata"	2sbj, prog, foc, fv, 10obj
+"adi"	nar, 2sbj, fv
+"ekikuzwa"	not supported	prog, 7sbj, fv, rel
+"kulugayo"	not supported	inf, fv, 23, loc
+"yamwegeserye"	not supported	1obj, 1sbj, pfv, pst
+"nayaba"	not supported	1sbj, fv, pst, nar
+"akole"	2sg, sbj, prog
+"ki"	fv
+"wayiya"	not supported	fut, 2sg, sbj, fv
+"balina"	cop
+"kye"	not supported	2sbj, fv
+"bakuleengera"	not supported	7, rel
+"omu"	2sbj, prog, fv
+"maiso"	aug, 18, loc
+"ontaakutaaku"	hab, fv, pst, 1sg, sbj
+"ozzimanya"	not supported	2sg, sbj, fv, 10obj
+"bajiigaire"	not supported	pfv, 2sbj, 9obj
+"bajikingire"	not supported	pfv, 2sbj, 9obj
+"ennyaatisirye"	not supported	9
+"awuura"	1obj, 2sg, sbj, fv
+"kyokkoba"	not supported	nar, 1sbj, fv
+"eziiraguzu"	not supported	10, aug
+"eza"	10, gen, aug, 6
+"malya"	8, 6, gen
+"gyetwabbeera"	not supported	23, rel
+"obyemaro"	not supported	fv
+"ngoyo"	not supported	1, aug
+"tiyakunge"	not supported	sbjv, neg, 1sbj
+"walugula"	11, dist, aug
+"kya"	aug, 7
+"ayi"	7, gen
+"zini"	add, foc, 10
+"muzindekesye"	not supported	caus, 1sg, obj, sbjv, 10obj, 2pl, sbj
+"oku"	prog, foc, fv, 2sg, sbj
+"masomero"	aug, 17, loc
+"naikaireku"	not supported	pfv, fv, pst, 1sg, sbj, 17, loc
+"yaali"	not supported	aug, 1
+"wa"	cop, 1sbj, pst
+"myaka"	1, gen, 4
+"nabita"	1sbj, 8sbj, fv, nar
+"naraarayo"	not supported	1sbj, fv, 23, loc, nar
+"lwaki"	aug, 6
+"tibaazwire"	6
+"gadi"	pfv, 2sbj, neg, pst
+"ga"	12
+"sente"	6, dist
+"baakakinagaawo"	not supported	2sbj, 16, loc, fv, pst, 7obj
+"nazimaara"	not supported	1sbj, fv, 10obj, nar
+"kusiisa"	15
+"bwa"	9, 14, gen
+"n'eitakali"	not supported	aug, 5, add, foc
+"liriyo"	not supported	cop, 5sbj, 23, loc
+"okubagadyagadya"	not supported	prog, 2obj, fv, 2sg, sbj
+"tumutwaleku"	not supported	1obj, sbjv, 1pl, sbj, 17, loc
+"iseenga"	not supported	1
+"nimbonamu"	not supported	fv, 1sg, sbj, 18, loc, nar
+"ninyirayo"	not supported	fv, 1sg, sbj, 23, loc, nar
+"ezindi"	not supported	10, aug
+"nituswagaku"	not supported	1pl, sbj, fv, nar, 17, loc
+"gwonkai"	not supported	3
+"maite"	not supported	pfv, 1sg, sbj
+"obyemaro"	not supported	1, aug
+"oire"	not supported	2sg, sbj, sbjv, cop
+"oyomboke"	not supported	2sg, sbj, sbjv
+"okwombe"	not supported	foc, 14, med
+"ebikuleetanga"	not supported	prog, 8sbj, hab, fv, rel
+"lwana"	not supported	1, aug
+"n'abba"	cop, 1sbj
+"wa"	1, gen, 11
+"n'akazi"	not supported	aug, 12, add, foc
+"mudasuli"	not supported	1
+"wa"	1, gen, 8
+"nk'ebyo"	not supported	8, med
+"byamaro"	not supported	cop, 1sbj
+"byegarazo"	not supported	1
+"emyaka"	1sbj, fv
+"naisatu"	not supported	4
+"ogundi"	not supported	aug, 3
+"ofunemu"	not supported	2sg, sbj, sbjv, 18, loc
+"oyaba"	not supported	2sg, sbj, fv
+"wa"	1, med
+"nkuru"	1, med
+"tonsunasuna"	not supported	1sg, obj, fv, 2sg, sbj, neg
+"tukwete"	prog, sbjv, 1pl, sbj
+"ku"	inf, fv
+"nemubbaka"	nar, fv, 2pl, sbj
+"tiwaagwe"	fut, neg, sbjv, 2sg, sbj
+"eyatujuna"	not supported	fut, 1sbj, fv, 1pl, obj, rel
+"mmere"	not supported	9
+"ntakusumbira"	not supported	fut, neg, fv, 2sg, obj, 1sg, sbj, appl
+"tujoowere"	not supported	pfv, 1pl, sbj, 9obj
