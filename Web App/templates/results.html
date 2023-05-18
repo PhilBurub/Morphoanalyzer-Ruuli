@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <meta name="description" content="Possible Analyses" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <title>Results | Ruuli Parser</title>
+		<style>
+body{
+	background-color: seashell;
+}
+
+.output{
+    color: navy;
+}
+
+.num{
+	font-size: 30px;
+	font-family: Lucida Console;
+	text-align: center;
+	width: 80px;
+}
+
+.pretext{
+	text-align: center;
+	color: navy;
+	font-size: 50px;
+	font-family: Lucida Console;
+}
+.word_analysis{
+	color: navy;
+	table-layout: auto;
+	font-family: Lucida Console;
+	width: 100%;
+	font-size: 28px;
+}
+		</style>
+    </head>
+
+    <body>
+		<div class="pretext">Possible analyses of <b>{{ wordform }}</b>:</div>
+		<hr>
+        <table class="output">
+        {% for i in range(0, results|length) %}
+            <tr>
+				<td class="num"><b>{{ i+1 }}.</b></td>
+				
+                <td>
+					<table class="word_analysis">
+					<tr>
+							<td>
+								{{ results[i][1] }}
+							</td>
+					</tr>
+					<tr>
+							<td>
+								{{ results[i][0][0] }}
+							</td>
+							<td>
+								({{ results[i][0][1] }})
+							</td>
+					</tr>
+					</table>
+				</td>
+            </tr>
+        {% endfor %}
+        </table>
+    </body>
+</html>
