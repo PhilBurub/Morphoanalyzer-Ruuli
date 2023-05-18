@@ -1,0 +1,10 @@
+rm ruu.twol ruu.lexd ruu-generator.att ruu-generator.hfst ruu.twol.hfst ruu.lexd.hfst ruu-analyzer.hfst ruu-analyser.bin 
+wget https://raw.githubusercontent.com/PhilBurub/Morphoanalyzer-Ruuli/main/Rules/ruu.twol 
+wget https://raw.githubusercontent.com/PhilBurub/Morphoanalyzer-Ruuli/main/Rules/ruu.lexd 
+lexd ruu.lexd > ruu-generator.att 
+lt-comp rl ruu-generator.att ruu-analyser.bin 
+hfst-txt2fst ruu-generator.att -o ruu-deepgenerator.hfst 
+hfst-twolc ruu.twol -o ruu.twol.hfst 
+lexd ruu.lexd | hfst-txt2fst -o ruu.lexd.hfst 
+hfst-compose-intersect ruu.lexd.hfst ruu.twol.hfst -o ruu-generator.hfst 
+hfst-invert ruu-generator.hfst -o ruu-analyzer.hfst
